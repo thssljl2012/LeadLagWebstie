@@ -3,6 +3,7 @@ var path = require('path');
 var bodyParser = require('body-parser');
 var fs = require('graceful-fs');
 var http = require('http');
+var ip = require('ip');
 
 var clusterNum = 13;
 var corpusNum = 3;
@@ -27,11 +28,13 @@ app.use(bodyParser.urlencoded({ extended: true }));
 //  console.log('Example app listening at http://%s:%s', host, port);
 //});
 
-http.createServer(app).listen(3000);
+var server = http.createServer(app).listen(3000);
 
 
 app.get('/', function (req, res) {
-  res.sendFile('login.html', pubRoot);
+  // res.sendFile('login.html', pubRoot);
+  console.log(ip.address());
+  res.render('login', {'address' : ip.address()});
 });
 
 app.post('/index', function(req, res) {
