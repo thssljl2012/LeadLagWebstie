@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A layout example that shows off a responsive product landing page.">
+    <title>Login</title>
+    <link rel="stylesheet" href="../css/pure-release-0.6.0/pure-min.css">
+    <link rel="stylesheet" href="../css/pure-release-0.6.0/grids-responsive-min.css">
+    <link rel="stylesheet" href="../css/font-awesome.css">
+    <link rel="stylesheet" href="../css/marketing.css">
+    <script type="text/javascript" src="../js/jquery-1.11.1.min.js"></script>
+</head>
+<body>
+<div class="header">
+    <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
+        <a class="pure-menu-heading" href="">LeadLag Labelling</a>
+    </div>
+</div>
+<div class="splash-container">
+    <div class="splash">
+        <form class="pure-form" action="http://127.0.0.1:3000/index" method="post" id="name">
+            <input type="text" id="username" name="username" class="pure-input-rounded" placeholder="Enter your name" style="height:100px; text-align:center; font-size:30px;" required/>
+        <p class="splash-subhead">
+            Please enter your name in the box. Then click the button to start.
+        </p>
+        <p>
+            <a onclick="$('#name').submit();" class="pure-button pure-button-primary">Get Started</a>
+        </p>
+        </form>
+    </div>
+</div>
+<div class="content-wrapper">
+    <div class="footer l-box is-center">
+        This website is for VisGroup at THU to label data's ground truth for LeadLag project.
+    </div>
+</div>
+</body>
+</html>
