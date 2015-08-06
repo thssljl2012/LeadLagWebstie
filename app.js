@@ -32,7 +32,6 @@ var server = http.createServer(app).listen(3000);
 
 
 app.get('/', function (req, res) {
-  // res.sendFile('login.html', pubRoot);
   console.log(ip.address());
   res.render('login', {'address' : ip.address()});
 });
