@@ -1,0 +1,10 @@
+{
+  "name": "LeadLagWebsite",
+  "description": "for ground truth labelling",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~4.13.1",
+    "ejs": "*"
+  }
+}
