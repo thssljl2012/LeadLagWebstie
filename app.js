@@ -32,8 +32,9 @@ var server = http.createServer(app).listen(3000);
 
 
 app.get('/', function (req, res) {
-  console.log(ip.address());
-  res.render('login', {'address' : ip.address()});
+  res.sendFile('login.html', pubRoot);
+  //console.log(ip.address());
+  //res.render('login', {'address' : ip.address()});
 });
 
 app.post('/index', function(req, res) {

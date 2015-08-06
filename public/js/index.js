@@ -305,12 +305,12 @@ function SetAutomaticSubmitTimer()
     }, 1000);
 }
 
-function SetUnloadSubmitTrigger()
-{
-    window.onunload(function(){
-        SubmitUserdata();
-    });
-}
+//function SetUnloadSubmitTrigger()
+//{
+//    window.onunload(function(){
+//        SubmitUserdata();
+//    });
+//}
 
 function StartProcess()
 {
@@ -322,7 +322,7 @@ function StartProcess()
 
     LoadUserdata();
     SetAutomaticSubmitTimer();
-    SetUnloadSubmitTrigger();
+    //SetUnloadSubmitTrigger();
 }
 
 StartProcess();

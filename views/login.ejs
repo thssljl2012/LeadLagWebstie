@@ -19,15 +19,16 @@
 </div>
 <div class="splash-container">
     <div class="splash">
-        <form class="pure-form" action="http://<%= address %>:3000/index" method="post" id="name">
+        <form class="pure-form" id="name">
             <input type="text" id="username" name="username" class="pure-input-rounded" placeholder="Enter your name" style="height:100px; text-align:center; font-size:30px;" required/>
             <p class="splash-subhead">
                 Please enter your name in the box. Then click the button to start.
             </p>
-            <p>
-                <a onclick="$('#name').submit();" class="pure-button pure-button-primary">Get Started</a>
-            </p>
+
         </form>
+        <p>
+            <a onclick="SubmitLogin();" class="pure-button pure-button-primary">Get Started</a>
+        </p>
     </div>
 </div>
 <div class="content-wrapper">
@@ -35,5 +36,16 @@
         This website is for VisGroup at THU to label data's ground truth for LeadLag project.
     </div>
 </div>
+<script type="text/javascript">
+    function SubmitLogin()
+    {
+        console.log('here');
+        var data = {'username': $('#username').val()};
+        console.log(data['username']);
+        $.post('/index', data, function(data){
+
+        });
+    }
+</script>
 </body>
 </html>
