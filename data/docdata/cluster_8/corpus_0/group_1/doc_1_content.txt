@@ -1,0 +1,1 @@
+ NEWID() function also generates random value in table.Example:SELECT id, name FROM myTable order by NewID()Output------------id  &amp;nbsp;Name6  &amp;nbsp;abc3  &amp;nbsp;abc17  &amp;nbsp;cba1  &amp;nbsp;xyz10  &amp;nbsp;aaaa12  &amp;nbsp;zzzz

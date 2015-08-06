@@ -1,0 +1,1 @@
+ Is there an algorithm where i could get all the possible sequence? Example: given is &amp;quot;abc&amp;quot; where the possible sequence are: &amp;quot;abc&amp;quot; &amp;quot;acb&amp;quot; &amp;quot;bac&amp;quot; &amp;quot;bca&amp;quot; &amp;quot;cba&amp;quot; &amp;quot;cab&amp;quot;  
