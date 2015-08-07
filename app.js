@@ -14,6 +14,9 @@ var app = express();
 
 var pubRoot={root: path.join(__dirname, 'public/html/')};
 
+//var accessLogfile = fs.createWriteStream('access.log', {flags: 'a'});
+//var errorLogfile = fs.createWriteStream('error.log', {flags: 'a'});
+
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
@@ -21,15 +24,16 @@ app.use(express.static('public'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
+//app.use(express.logger({stream: accessLogfile}));
+//app.use(express.logger({stream: errorLogfile}));
 
-//var server = app.listen(3000,'0.0.0.0', function () {
+//var server = app.listen(3000,'localhost', function () {
 //  var host = server.address().address;
 //  var port = server.address().port;
 //  console.log('Example app listening at http://%s:%s', host, port);
 //});
 
 var server = http.createServer(app).listen(3000);
-
 
 app.get('/', function (req, res) {
   res.sendFile('login.html', pubRoot);
@@ -59,21 +63,11 @@ app.post('/submitdata', function(req, res){
 function RenderMainPage(req, res, username)
 {
   var data = {};
-  console.log('test point 1');
   data['username'] = username;
-  console.log('test point 2');
   data['clusters'] = ReadDocs();
-  console.log('test point 3');
   data['topics'] = ReadTopics();
-  console.log('test point 4');
   data['userdata'] = ReadUserdata(username);
-  console.log('test point 5');
-  res.render('index', data, function(err, html){
-    if (err) {
-      console.log(err);
-    }
-    console.log('test point 6');
-  });
+  res.render('index', data);
 }
 
 function ReadDocs()
