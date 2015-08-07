@@ -59,11 +59,17 @@ app.post('/submitdata', function(req, res){
 function RenderMainPage(req, res, username)
 {
   var data = {};
+  console.log('test point 1');
   data['username'] = username;
+  console.log('test point 2');
   data['clusters'] = ReadDocs();
+  console.log('test point 3');
   data['topics'] = ReadTopics();
+  console.log('test point 4');
   data['userdata'] = ReadUserdata(username);
+  console.log('test point 5');
   res.render('index', data);
+  console.log('test point 6');
 }
 
 function ReadDocs()
