@@ -4,6 +4,8 @@ var current_groupID = 0;
 var current_docID = 0;
 var current_docs = [];
 
+var submit_timer;
+
 function ChangeTimeslot()
 {
     DisplayDocument();
@@ -18,6 +20,7 @@ function ChangeTopicCluster()
     DisplayTopicVector();
     InitializeElementStyle();
     LoadUserdata();
+    SetAutomaticSubmitTimer();
 }
 
 function BindClickEvent()
@@ -36,6 +39,9 @@ function BindClickEvent()
     });
 
     $('.topic-link').click(function(){
+        clearInterval(submit_timer);
+        SubmitUserdata();
+
         current_clusterID = parseInt($(this).attr('id').split('-')[1]);
         current_corpusID = 0;
         current_groupID = 0;
@@ -329,7 +335,7 @@ function SubmitUserdata()
 
 function SetAutomaticSubmitTimer()
 {
-    setInterval(function(){
+    submit_timer = setInterval(function(){
         SubmitUserdata();
     }, 1000);
 }
