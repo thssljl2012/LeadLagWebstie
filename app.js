@@ -3,7 +3,6 @@ var path = require('path');
 var bodyParser = require('body-parser');
 var fs = require('graceful-fs');
 var http = require('http');
-var ip = require('ip');
 
 var clusterNum = 13;
 var corpusNum = 3;
@@ -14,9 +13,6 @@ var app = express();
 
 var pubRoot={root: path.join(__dirname, 'public/html/')};
 
-//var accessLogfile = fs.createWriteStream('access.log', {flags: 'a'});
-//var errorLogfile = fs.createWriteStream('error.log', {flags: 'a'});
-
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
@@ -24,21 +20,10 @@ app.use(express.static('public'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-//app.use(express.logger({stream: accessLogfile}));
-//app.use(express.logger({stream: errorLogfile}));
-
-//var server = app.listen(3000,'localhost', function () {
-//  var host = server.address().address;
-//  var port = server.address().port;
-//  console.log('Example app listening at http://%s:%s', host, port);
-//});
-
 var server = http.createServer(app).listen(3000);
 
 app.get('/', function (req, res) {
   res.sendFile('login.html', pubRoot);
-  //console.log(ip.address());
-  //res.render('login', {'address' : ip.address()});
 });
 
 app.post('/index', function(req, res) {
@@ -58,16 +43,88 @@ app.post('/submitdata', function(req, res){
   res.send('Data saved!');
 });
 
+app.post('/getdoc', function(req,res){
+  var clusterID = req.body['clusterID'];
+  var corpusID = req.body['corpusID'];
+  var timeslotID = req.body['timeslotID'];
+  var docID = req.body['docID'];
+  var doc = ReadSingleDoc(clusterID, corpusID, timeslotID, docID);
+  res.send(doc);
+});
+
+app.post('/getgroupdoc', function(req,res){
+  var clusterID = req.body['clusterID'];
+  var corpusID = req.body['corpusID'];
+  var timeslotID = req.body['timeslotID'];
+  var docs = ReadGroupDocs(clusterID, corpusID, timeslotID);
+  res.send(docs);
+});
+
+app.post('/gettopic', function(req,res){
+  var clusterID = req.body['clusterID'];
+  var topicvec = ReadTopicVecs(clusterID);
+  res.send(topicvec);
+});
+
 
 
 function RenderMainPage(req, res, username)
 {
   var data = {};
   data['username'] = username;
-  data['clusters'] = ReadDocs();
-  data['topics'] = ReadTopics();
   data['userdata'] = ReadUserdata(username);
+  data['datasetinfo'] = ReadDatasetInfo();
+  data['clusterNum'] = clusterNum;
+  data['corpusNum'] = corpusNum;
+  data['timeslotNum'] = timeslotNum;
+  data['maxdocNum'] = maxdocNum;
   res.render('index', data);
+}
+
+function ReadSingleDoc(clusterID, corpusID, timeslotID, docID)
+{
+  var doc = {};
+  var dir = 'data/docdata/' + 'cluster_' + clusterID + '/corpus_' + corpusID + '/group_' + timeslotID;
+  var vector_file = dir + '/doc_' + docID + '.txt';
+  var content_file = dir + '/doc_' + docID + '_content.txt';
+  var data;
+  //console.log(vector_file);
+  if (fs.existsSync(vector_file) == false) {
+    doc['wordvec'] = '';
+    doc['content'] = '';
+    doc['docID'] = docID;
+  } else {
+    data = fs.readFileSync(vector_file, 'utf8');
+    doc['wordvec'] = ParseWordVector(data);
+    data = fs.readFileSync(content_file, 'utf8');
+    doc['content'] = data;
+    doc['docID'] = docID;
+  }
+  return doc;
+}
+
+function ReadGroupDocs(clusterID, corpusID, timeslotID)
+{
+  var docs = [];
+  var dir = 'data/docdata/' + 'cluster_' + clusterID + '/corpus_' + corpusID + '/group_' + timeslotID;
+  for (var t = 0; t < maxdocNum; t++)
+  {
+    var vector_file = dir + '/doc_' + t + '.txt';
+    var content_file = dir + '/doc_' + t + '_content.txt';
+    var data;
+    var doc = {};
+    if (fs.existsSync(vector_file) == false) {
+      break;
+    } else {
+      data = fs.readFileSync(vector_file, 'utf8');
+      doc['wordvec'] = ParseWordVector(data);
+      data = fs.readFileSync(content_file, 'utf8');
+      doc['content'] = data;
+      doc['docID'] = t;
+    }
+    docs.push(doc);
+  }
+  return docs;
 }
 
 function ReadDocs()
@@ -109,6 +166,21 @@ function ReadDocs()
   return clusters;
 }
 
+function ReadTopicVecs(clusterID)
+{
+  var topicvecs = [];
+  for (var i = 0; i < timeslotNum; i++)
+  {
+    var path = 'data/docdata/cluster_' + clusterID + '/topics/topic' + i + '.txt';
+    if (fs.existsSync(path) == false)
+      continue;
+    var data = fs.readFileSync(path, 'utf8');
+    var wordvec = ParseWordVector(data);
+    topicvecs.push(wordvec);
+  }
+  return topicvecs;
+}
+
 function ReadTopics()
 {
   var root = 'data/docdata/';
@@ -136,12 +208,9 @@ function ReadUserdata(username)
   var data;
 
   var path = 'data/userdata/' + username + '.txt';
-  if (fs.existsSync(path) == true)
-  {
+  if (fs.existsSync(path) == true) {
     data = fs.readFileSync(path, 'utf8');
-  }
-  else
-  {
+  } else {
     data = '';
   }
   userdata = ParseUserdata(data);
@@ -152,12 +221,9 @@ function ModifyUserdata(username, clusterID, data)
 {
   var path = 'data/userdata/' + username + '.txt';
   var olddata;
-  if (fs.existsSync(path) == true)
-  {
+  if (fs.existsSync(path) == true) {
     olddata = fs.readFileSync(path, 'utf8');
-  }
-  else
-  {
+  } else {
     olddata = '';
   }
 
@@ -250,5 +316,31 @@ function ParseWordVector(data)
     wordvec[word] = parseFloat(pairs[1]);
   }
   return wordvec;
+}
+
+function ReadDatasetInfo()
+{
+  var path = 'data/dataset_information.txt';
+  var data = fs.readFileSync(path, 'utf8');
+  var lines = data.split('\n');
+  var datasetinfo = [];
+  for (var i = 0; i < clusterNum; i++)
+  {
+    var clusterinfo = [];
+    for (var j = 0; j < corpusNum; j++)
+    {
+      var corpusinfo = [];
+      var linedata = lines[i * 6 + 1 + j].split(' ');
+      //console.log(linedata);
+      for (var k = 0; k < timeslotNum; k++)
+      {
+        var value = parseInt(linedata[3 + k]);
+        corpusinfo.push(value);
+      }
+      clusterinfo.push(corpusinfo);
+    }
+    datasetinfo.push(clusterinfo);
+  }
+  return datasetinfo;
 }
 

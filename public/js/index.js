@@ -2,11 +2,23 @@ var current_clusterID = 0;
 var current_corpusID = 0;
 var current_groupID = 0;
 var current_docID = 0;
+var current_docs = [];
 
-var clusterNum = 13;
-var corpusNum = 3;
-var timeslotNum = 10;
-var maxdocNum = 30;
+function ChangeTimeslot()
+{
+    DisplayDocument();
+    InitializeDocpickerStyle();
+    InitializeTimeslotStyle();
+    InitializeTopicVectorStyle();
+}
+
+function ChangeTopicCluster()
+{
+    DisplayDocument();
+    DisplayTopicVector();
+    InitializeElementStyle();
+    LoadUserdata();
+}
 
 function BindClickEvent()
 {
@@ -20,10 +32,7 @@ function BindClickEvent()
         current_groupID = parseInt($(this).attr('id').split('-')[3]);
         current_docID = 0;
 
-        DisplayDocument();
-        InitializeDocpickerStyle();
-        InitializeTimeslotStyle();
-        InitializeTopicVectorStyle();
+        GetCurrentDocGroup(ChangeTimeslot);
     });
 
     $('.topic-link').click(function(){
@@ -32,10 +41,7 @@ function BindClickEvent()
         current_groupID = 0;
         current_docID = 0;
 
-        DisplayDocument();
-        DisplayTopicVector();
-        InitializeElementStyle();
-        LoadUserdata();
+        GetCurrentDocGroup(ChangeTopicCluster);
     });
 }
 
@@ -64,12 +70,12 @@ function InitializeDocpickerStyle()
             return 1.0 / maxdocNum * 100.0 + '%';
         }
     }).html(function(){
-        var cluster = clusters[current_clusterID];
-        var corpus = cluster[current_corpusID];
-        var group = corpus[current_groupID];
+        //var cluster = clusters[current_clusterID];
+        //var corpus = cluster[current_corpusID];
+        //var group = corpus[current_groupID];
 
         var id = parseInt($(this).attr('id').split('_')[1]);
-        if (id + 1 > group.length)
+        if (id + 1 > GetCurrentGroupSize())
             return '';
         else
             return id;
@@ -87,9 +93,8 @@ function InitializeTimeslotStyle()
     $('.timeslot-box').html(function(){
         var corpusID = parseInt($(this).attr('id').split('-')[2]);
         var groupID = parseInt($(this).attr('id').split('-')[3]);
-        return clusters[current_clusterID][corpusID][groupID].length;
+        return datasetinfo[current_clusterID][corpusID][groupID];
     }).css({
-        //'background-color' : '#1f8dd6'
         'background-color' : function(){
             var groupID = parseInt($(this).attr('id').split('-')[3]);
             if (groupID % 2 == 0) {
@@ -171,20 +176,41 @@ function WordvecToString(wordvec)
     return str;
 }
 
+function GetCurrentGroupSize()
+{
+    return datasetinfo[current_clusterID][current_corpusID][current_groupID];
+}
+
+function GetCurrentDocGroup(callback)
+{
+    $.post('/getgroupdoc', {
+        'clusterID' : current_clusterID,
+        'corpusID' : current_corpusID,
+        'timeslotID' : current_groupID
+    }, function(data){
+        current_docs = data;
+        // console.log(current_docs);
+        callback();
+    });
+}
+
 function DisplayDocument()
 {
     $('.doc-picker').css({
         'border-bottom' : 'none'
     });
 
-    var cluster = clusters[current_clusterID];
-    var corpus = cluster[current_corpusID];
-    var group = corpus[current_groupID];
+    //var request = {
+    //    'clusterID' : current_clusterID,
+    //    'corpusID' : current_corpusID,
+    //    'timeslotID' : current_groupID,
+    //    'docID' : current_docID
+    //};
 
-    if (current_docID + 1 > group.length)
+    if (current_docID + 1 > GetCurrentGroupSize())
         return;
 
-    var doc = group[current_docID];
+    var doc = current_docs[current_docID];
 
     $('#doc-content-box').val(doc['content']);
 
@@ -193,7 +219,6 @@ function DisplayDocument()
     var vecstring = WordvecToString(sortedvec);
 
     $('#doc-feature-box').val(vecstring);
-
 
     $('#doc_' + current_docID).css({
         'border-bottom' : '8px solid lightcoral'
@@ -204,16 +229,15 @@ function BindTopicVectorEvent()
 {
     $('.ts-fe-word').click(function(e){
         var word = $(this).html();
-        var cluster = clusters[current_clusterID];
-        var corpus = cluster[current_corpusID];
-        var group = corpus[current_groupID];
+        var groupsize = GetCurrentGroupSize();
         $('.doc-picker').css({
             'background-color' : function(){
                 var id = parseInt($(this).attr('id').split('_')[1]);
-                if (id + 1 > group.length)
+
+                if (id + 1 > groupsize)
                     return (id % 2 == 0) ? '#1f8dd6' : '#129FEA';
-                var doc = group[id];
-                if (word in doc['wordvec']) {
+
+                if (word in current_docs[id]['wordvec']) {
                     return 'lightcoral';
                 } else {
                     return (id % 2 == 0) ? '#1f8dd6' : '#129FEA';
@@ -231,21 +255,26 @@ function BindTopicVectorEvent()
 
 function DisplayTopicVector()
 {
-    var timeslots = topics[current_clusterID];
-    $('.single-topic-fea').html(function(){
-        var id = parseInt($(this).attr('id').split('-')[1]);
-        var wordvec = timeslots[id];
-        var sortedvec = SortWordVector(wordvec);
-        var html = '';
-        var keys = Object.keys(sortedvec);
-        for (var i = 0; i < keys.length; i++)
-        {
-            html += '<div class="ts-fe-word">' + keys[i] + '</div>';
-        }
-        return html;
-    });
+    var request = {'clusterID' : current_clusterID};
 
-    BindTopicVectorEvent();
+    $.post('/gettopic', request, function(data){
+        topicvecs = data;
+
+        $('.single-topic-fea').html(function(){
+            var id = parseInt($(this).attr('id').split('-')[1]);
+            var wordvec = topicvecs[id];
+            var sortedvec = SortWordVector(wordvec);
+            var html = '';
+            var keys = Object.keys(sortedvec);
+            for (var i = 0; i < keys.length; i++)
+            {
+                html += '<div class="ts-fe-word">' + keys[i] + '</div>';
+            }
+            return html;
+        });
+
+        BindTopicVectorEvent();
+    });
 }
 
 function LoadUserdata()
@@ -305,14 +334,7 @@ function SetAutomaticSubmitTimer()
     }, 1000);
 }
 
-//function SetUnloadSubmitTrigger()
-//{
-//    window.onunload(function(){
-//        SubmitUserdata();
-//    });
-//}
-
-function StartProcess()
+function Initialize()
 {
     DisplayDocument();
     DisplayTopicVector();
@@ -322,7 +344,11 @@ function StartProcess()
 
     LoadUserdata();
     SetAutomaticSubmitTimer();
-    //SetUnloadSubmitTrigger();
+}
+
+function StartProcess()
+{
+    GetCurrentDocGroup(Initialize);
 }
 
 StartProcess();
