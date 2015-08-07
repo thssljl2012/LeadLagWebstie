@@ -68,8 +68,12 @@ function RenderMainPage(req, res, username)
   console.log('test point 4');
   data['userdata'] = ReadUserdata(username);
   console.log('test point 5');
-  res.render('index', data);
-  console.log('test point 6');
+  res.render('index', data, function(err, html){
+    if (err) {
+      console.log(err);
+    }
+    console.log('test point 6');
+  });
 }
 
 function ReadDocs()
