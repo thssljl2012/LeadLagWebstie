@@ -1,0 +1,15 @@
+market 1
+ahead 1
+bank 1
+growing 1
+halifax 1
+scotland 1
+lloyds 1
+hbos 1
+struggling 1
+takeover 1
+doubts 1
+confident 1
+brown 1
+planned 1
+gordon 1

@@ -1,0 +1,17 @@
+corporation 2
+bank 4
+america 4
+read 1
+primary 2
+operating 2
+downgrades 1
+fitch 2
+ratings 2
+subsidiary 2
+entities 1
+affiliates 2
+issuer 2
+merged 2
+affirming 2
+withdrawing 2
+upgrades 1

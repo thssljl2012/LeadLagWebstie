@@ -1,0 +1,13 @@
+bank 1
+july 1
+michael 1
+special 1
+expire 1
+factors 1
+volkswagen 1
+cba 1
+dz 1
+sellprevious 1
+buyresearch 1
+punzet 1
+agreport 1

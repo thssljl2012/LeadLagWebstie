@@ -1,0 +1,14 @@
+sector 1
+bank 1
+local 1
+america 1
+make 1
+back 1
+sign 1
+full 1
+volatility 1
+baskets 1
+empty 1
+discarded 1
+wrappers 1
+thelollipop 1

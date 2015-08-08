@@ -1,0 +1,11 @@
+standard 1
+barclays 1
+chartered 1
+lloyds 1
+paribas 1
+terminal 1
+flanagan 1
+malls 1
+reef 1
+burjuman 1
+citybank 1

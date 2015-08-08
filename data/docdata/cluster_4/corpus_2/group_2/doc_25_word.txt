@@ -1,0 +1,11 @@
+time 1
+losing 1
+days 1
+people 2
+post 1
+date 1
+injured 1
+chelsea 1
+tbh 1
+deco 1
+ballack 1

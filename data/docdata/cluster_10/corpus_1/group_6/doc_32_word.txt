@@ -1,0 +1,16 @@
+bank 3
+america 2
+day 1
+merrill 2
+lynch 2
+company 1
+management 2
+years 1
+bull 1
+division 1
+wealth 2
+purchase 1
+completed 1
+charlotte 1
+named 1
+logo 1

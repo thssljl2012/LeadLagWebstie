@@ -1,0 +1,16 @@
+rate 2
+time 1
+bank 2
+home 1
+mortgages 1
+australia 1
+largest 1
+lender 1
+cut 1
+commonwealth 1
+month 2
+central 1
+lowered 1
+guarantee 1
+fixed 1
+matching 1

@@ -1,0 +1,16 @@
+bank 1
+america 1
+york 1
+general 1
+information 1
+mer 1
+issued 1
+corp 1
+state 1
+andrew 1
+bac 1
+attorney 1
+cuomo 1
+bonuses 1
+subpoena 1
+allocates 1

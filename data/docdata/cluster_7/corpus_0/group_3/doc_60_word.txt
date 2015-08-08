@@ -1,0 +1,12 @@
+bank 1
+national 1
+australia 1
+largest 1
+reuters 1
+lender 1
+sydney 1
+billion 2
+wholesale 1
+raised 1
+funding 1
+oct 1

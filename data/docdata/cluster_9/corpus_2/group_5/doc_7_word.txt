@@ -1,0 +1,14 @@
+bank 1
+call 1
+put 1
+guys 1
+couple 1
+mess 1
+humbug 1
+rpm 1
+nall 1
+vtec 2
+nonvtec 1
+baaaaa 1
+boostedmouth 1
+monicaaaaaaaaaaaaaaaa 1

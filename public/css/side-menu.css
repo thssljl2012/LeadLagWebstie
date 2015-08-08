@@ -274,20 +274,20 @@ Hides the menu at `48em`, but modify this based on your app's needs.
 
 .doc-picker-bar {
     text-align: center;
-    margin-top: 0.6em;
+    /*margin-top: 1.3em;*/
 }
 
 .doc-picker {
     padding-top: 10px;
     font-size: 20px;
-    height: 40px;
+    height: 30px;
     color: white;
 }
 
 .corpora-container {
     text-align: center;
     margin-top: 20px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .topic-vector-container {
@@ -334,6 +334,12 @@ textarea {
 .rank-tag-input {
     width: 61.8%;
     text-align: center;
+}
 
+.username-area {
+    text-align: center;
+    color: white;
+    margin-top: 70px;
+    font-size: 25px;
 }
 

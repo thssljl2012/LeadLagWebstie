@@ -1,0 +1,13 @@
+banks 1
+barclays 1
+rock 1
+events 1
+lloyds 1
+tsb 1
+stern 1
+bears 1
+northern 1
+overtaken 1
+logos 1
+lehmann 1
+design 1

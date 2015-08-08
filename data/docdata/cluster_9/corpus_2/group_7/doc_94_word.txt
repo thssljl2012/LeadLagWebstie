@@ -1,0 +1,12 @@
+close 1
+time 1
+lot 1
+running 1
+things 1
+matters 1
+cba 1
+barely 1
+minimize 1
+boot 1
+ram 1
+quadcore 1

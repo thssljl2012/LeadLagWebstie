@@ -1,0 +1,17 @@
+today 1
+banks 2
+bank 2
+lower 1
+australia 1
+australian 2
+lending 1
+rates 3
+retail 1
+cut 1
+lot 1
+coming 1
+official 1
+reserve 1
+interest 3
+central 1
+noise 1

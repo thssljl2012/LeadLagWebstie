@@ -1,0 +1,13 @@
+bank 1
+bound 1
+individuals 1
+reserve 1
+worry 1
+dont 2
+found 1
+busy 1
+working 1
+bodies 1
+complain 2
+thanking 1
+aforesaid 1

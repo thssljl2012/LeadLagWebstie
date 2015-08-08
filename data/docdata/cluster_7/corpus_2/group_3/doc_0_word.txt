@@ -1,0 +1,13 @@
+rate 1
+bank 1
+costs 1
+monthly 1
+standard 1
+case 1
+interest 1
+discount 1
+difficult 1
+loan 1
+approval 1
+fees 1
+ther 1

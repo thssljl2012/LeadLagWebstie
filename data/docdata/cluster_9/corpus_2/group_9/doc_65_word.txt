@@ -1,0 +1,13 @@
+agree 1
+make 1
+sort 1
+playing 1
+speak 1
+cba 1
+battles 1
+boring 1
+treasure 1
+jill 1
+lickers 1
+wesker 1
+playthroughs 1

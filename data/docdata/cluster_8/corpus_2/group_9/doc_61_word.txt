@@ -1,0 +1,12 @@
+market 1
+prices 1
+months 1
+make 1
+bottom 1
+road 1
+buy 1
+green 1
+jump 1
+inflated 1
+recovers 1
+pray 1

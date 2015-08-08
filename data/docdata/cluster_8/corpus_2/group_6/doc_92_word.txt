@@ -1,0 +1,15 @@
+work 1
+data 1
+lost 1
+back 1
+buy 1
+accept 1
+sold 1
+maintain 1
+save 1
+hours 1
+yeah 1
+cba 1
+lol 1
+cancel 1
+friendships 1

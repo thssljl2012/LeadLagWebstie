@@ -1,0 +1,10 @@
+major 2
+bank 1
+america 1
+chart 2
+tells 1
+support 1
+heard 1
+resistance 1
+unloading 1
+reload 1

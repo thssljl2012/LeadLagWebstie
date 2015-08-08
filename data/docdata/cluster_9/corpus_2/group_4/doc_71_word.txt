@@ -1,0 +1,16 @@
+settle 1
+pick 1
+wells 1
+max 1
+cba 1
+jr 1
+chandler 1
+resigned 1
+patrick 1
+robinson 1
+draft 1
+ewing 1
+fas 1
+wizard 1
+nate 1
+gallinari 1

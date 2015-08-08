@@ -1,0 +1,13 @@
+insurance 2
+company 1
+posted 1
+cover 2
+competition 1
+nationwide 1
+area 1
+apparently 1
+doesnt 1
+wont 1
+originally 1
+race 1
+accident 1

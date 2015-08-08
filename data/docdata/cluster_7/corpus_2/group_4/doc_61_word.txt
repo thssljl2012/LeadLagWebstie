@@ -1,0 +1,13 @@
+national 1
+points 1
+home 1
+anz 1
+australia 1
+basis 1
+rates 2
+cut 1
+loans 1
+lowering 1
+interest 1
+fixed 1
+matched 1

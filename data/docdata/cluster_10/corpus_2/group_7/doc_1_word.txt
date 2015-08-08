@@ -1,0 +1,10 @@
+bank 1
+america 1
+approved 1
+short 3
+body 1
+experience 1
+sale 3
+purchase 1
+agent 1
+mitigation 1

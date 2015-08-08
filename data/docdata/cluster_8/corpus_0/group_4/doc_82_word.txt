@@ -1,0 +1,15 @@
+bank 1
+sales 1
+sell 1
+barclays 1
+account 2
+november 1
+hours 1
+ebay 2
+transferred 1
+fake 1
+donaldson 1
+paypal 1
+walkergate 1
+conman 1
+agoms 1

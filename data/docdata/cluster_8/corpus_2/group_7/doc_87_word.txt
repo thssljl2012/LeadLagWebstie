@@ -1,0 +1,14 @@
+bank 2
+america 1
+good 1
+issues 1
+lost 1
+credited 1
+amount 1
+card 1
+dispute 1
+btw 1
+instantly 1
+debit 1
+affidavit 1
+fax 1

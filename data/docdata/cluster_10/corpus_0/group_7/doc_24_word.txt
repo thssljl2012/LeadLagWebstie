@@ -1,0 +1,17 @@
+financial 1
+bank 2
+cash 1
+america 1
+reports 1
+finance 1
+price 1
+press 1
+years 1
+corp 1
+chief 1
+officer 1
+employees 1
+bac 1
+assuring 1
+operations 1
+joe 1

@@ -1,0 +1,10 @@
+bother 1
+pace 1
+cross 1
+greedy 1
+shoot 1
+loves 1
+winger 1
+kuyt 1
+rafa 1
+cnut 1

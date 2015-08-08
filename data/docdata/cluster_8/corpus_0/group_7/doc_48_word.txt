@@ -1,0 +1,10 @@
+rightly 1
+banks 1
+consumer 1
+reports 1
+phone 1
+poor 1
+accounts 1
+provider 1
+mastercard 1
+availabilty 1

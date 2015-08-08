@@ -1,0 +1,12 @@
+credit 1
+home 1
+year 1
+code 1
+correctly 1
+discount 2
+giving 1
+card 1
+club 1
+citibank 1
+renewing 1
+recall 1

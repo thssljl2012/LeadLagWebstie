@@ -1,0 +1,12 @@
+bank 1
+call 1
+centre 1
+barclays 1
+accounts 1
+hsbc 1
+speak 1
+nice 1
+ring 1
+definately 1
+yorkshire 1
+natwest 2

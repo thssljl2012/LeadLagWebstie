@@ -1,0 +1,12 @@
+bank 1
+america 1
+credit 1
+settle 1
+point 1
+call 1
+debt 2
+card 1
+deal 1
+collection 1
+charged 1
+owed 1

@@ -1,0 +1,14 @@
+rate 2
+time 1
+bank 2
+mortgage 1
+america 1
+year 1
+increased 1
+interest 2
+received 1
+written 1
+loan 2
+rushed 1
+refinance 1
+modification 1

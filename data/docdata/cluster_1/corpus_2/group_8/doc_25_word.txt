@@ -1,0 +1,11 @@
+today 1
+exchange 1
+states 1
+selling 1
+rates 1
+travel 1
+repeat 1
+citibank 1
+unbelievable 1
+pesos 1
+mxn 1

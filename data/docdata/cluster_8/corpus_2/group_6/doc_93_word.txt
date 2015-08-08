@@ -1,0 +1,12 @@
+big 1
+dollar 1
+gold 1
+million 1
+back 1
+direction 1
+taking 1
+picture 1
+step 1
+silver 1
+eat 1
+rid 1

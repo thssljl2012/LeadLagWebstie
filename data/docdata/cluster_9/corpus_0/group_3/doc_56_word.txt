@@ -1,0 +1,17 @@
+rate 1
+bank 1
+america 1
+started 1
+total 1
+streets 1
+participants 1
+chicago 2
+run 1
+running 1
+reached 1
+impressive 1
+books 1
+finish 1
+completion 1
+marathon 2
+linean 1

@@ -1,0 +1,16 @@
+put 1
+back 1
+place 1
+barclays 1
+game 1
+win 1
+ways 1
+hull 1
+winning 1
+premier 1
+trailing 1
+chelsea 1
+league 1
+tigers 1
+blues 1
+kc 1

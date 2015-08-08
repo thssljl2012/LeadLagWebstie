@@ -1,0 +1,12 @@
+cards 1
+red 1
+im 1
+win 2
+man 1
+quote 1
+draw 1
+fans 1
+tho 1
+chelsea 1
+injuries 1
+rizzyjay 1

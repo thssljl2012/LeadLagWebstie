@@ -1,0 +1,15 @@
+insurer 1
+regulators 1
+home 1
+order 1
+largest 1
+required 1
+rates 1
+state 2
+prior 1
+approval 1
+obtain 1
+court 1
+appeals 1
+implementing 1
+overruled 1

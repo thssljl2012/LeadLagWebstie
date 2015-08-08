@@ -1,0 +1,10 @@
+bank 1
+america 1
+job 1
+work 1
+pick 1
+assuming 1
+gave 1
+manager 1
+meal 1
+baconator 1

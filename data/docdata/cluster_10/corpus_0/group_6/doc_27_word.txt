@@ -1,0 +1,14 @@
+net 1
+bank 2
+america 1
+cents 2
+loss 1
+reported 1
+billion 1
+million 1
+share 2
+period 1
+corp 1
+bac 1
+earned 1
+diluted 2

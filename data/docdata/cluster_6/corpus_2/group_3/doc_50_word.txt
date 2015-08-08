@@ -1,0 +1,10 @@
+city 1
+wednesday 1
+man 1
+october 2
+sunday 1
+everton 1
+chelsea 1
+liverpool 5
+wigan 1
+portsmouth 1

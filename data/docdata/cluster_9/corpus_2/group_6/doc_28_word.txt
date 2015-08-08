@@ -1,0 +1,15 @@
+pm 1
+details 1
+interview 1
+contact 1
+real 1
+round 1
+cba 2
+alliance 1
+sick 1
+command 1
+irc 1
+crap 1
+recruiting 1
+ipar 2
+yoshika 2

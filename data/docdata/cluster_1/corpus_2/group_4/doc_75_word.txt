@@ -1,0 +1,17 @@
+costs 1
+insurance 4
+aig 3
+bill 1
+company 1
+year 1
+switching 1
+companies 1
+months 1
+ago 2
+century 2
+showed 1
+bought 2
+originally 1
+car 1
+knew 1
+logo 1

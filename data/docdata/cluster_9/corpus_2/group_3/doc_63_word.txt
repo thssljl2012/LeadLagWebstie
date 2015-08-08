@@ -1,0 +1,11 @@
+side 1
+eu 1
+cba 1
+alliance 1
+dunno 1
+rogue 1
+horde 1
+priest 1
+druid 1
+shaman 1
+pve 1

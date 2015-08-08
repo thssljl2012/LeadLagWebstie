@@ -1,0 +1,13 @@
+bank 1
+america 1
+building 2
+group 1
+million 1
+st 1
+put 1
+project 1
+buying 1
+commercial 1
+developers 1
+raze 1
+refurbish 1

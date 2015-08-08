@@ -1,0 +1,10 @@
+time 1
+back 1
+buy 1
+thought 1
+bought 1
+bankrupt 1
+tobacco 1
+morris 1
+lawsuits 1
+philip 1

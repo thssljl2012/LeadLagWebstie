@@ -1,0 +1,17 @@
+city 1
+years 1
+maryland 4
+cba 1
+ft 5
+regular 1
+pts 5
+combining 1
+gms 5
+stats 2
+playoff 1
+aba 3
+stateside 1
+okla 1
+avg 5
+pbl 1
+fg 5

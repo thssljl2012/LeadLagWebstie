@@ -5,6 +5,7 @@ var current_docID = 0;
 var current_docs = [];
 
 var submit_timer;
+var topicvecs;
 
 function ChangeTimeslot()
 {
@@ -14,13 +15,17 @@ function ChangeTimeslot()
     InitializeTopicVectorStyle();
 }
 
-function ChangeTopicCluster()
+function ChangeStyleRecordAfterClusterChange()
 {
-    DisplayDocument();
-    DisplayTopicVector();
     InitializeElementStyle();
     LoadUserdata();
     SetAutomaticSubmitTimer();
+}
+
+function ChangeTopicCluster()
+{
+    DisplayDocument();
+    DisplayTopicVector(ChangeStyleRecordAfterClusterChange);
 }
 
 function BindClickEvent()
@@ -28,6 +33,7 @@ function BindClickEvent()
     $('.doc-picker').click(function(){
         current_docID = parseInt($(this).attr('id').split('_')[1]);
         DisplayDocument();
+        ChangeTopicWordBackground(false);
     });
 
     $('.timeslot-box').click(function(){
@@ -73,7 +79,7 @@ function InitializeDocpickerStyle()
             }
         },
         'width': function(){
-            return 1.0 / maxdocNum * 100.0 + '%';
+            return 1.0 / (maxdocNum / 4) * 100.0 + '%';
         }
     }).html(function(){
         //var cluster = clusters[current_clusterID];
@@ -112,7 +118,7 @@ function InitializeTimeslotStyle()
     });
 
     $('#timeslot-box-' + current_corpusID + '-' + current_groupID).css({
-        'background-color': 'lightcoral'
+        'background-color': 'lime'
     });
 
     $('.rank-tag').css({
@@ -122,6 +128,24 @@ function InitializeTimeslotStyle()
                 return '#1f8dd6';
             } else {
                 return '#129FEA';
+            }
+        }
+    });
+}
+
+function ChangeTopicWordBackground(flag)
+{
+    $('.ts-fe-word').css({
+        'background-color' : function(){
+            if (flag == false && $(this).css('background-color') == 'rgb(240, 128, 128)') {
+                return 'lightcoral';
+            }
+            var word = $(this).html();
+            //console.log(word);
+            if (word in current_docs[current_docID]['wordvec']) {
+                return 'orange';
+            } else {
+                return 'transparent';
             }
         }
     });
@@ -143,9 +167,7 @@ function InitializeTopicVectorStyle()
         }
     });
 
-    $('.ts-fe-word').css({
-        'background-color' : 'transparent'
-    });
+    ChangeTopicWordBackground(true);
 }
 
 function InitializeElementStyle()
@@ -206,13 +228,6 @@ function DisplayDocument()
         'border-bottom' : 'none'
     });
 
-    //var request = {
-    //    'clusterID' : current_clusterID,
-    //    'corpusID' : current_corpusID,
-    //    'timeslotID' : current_groupID,
-    //    'docID' : current_docID
-    //};
-
     if (current_docID + 1 > GetCurrentGroupSize())
         return;
 
@@ -227,7 +242,7 @@ function DisplayDocument()
     $('#doc-feature-box').val(vecstring);
 
     $('#doc_' + current_docID).css({
-        'border-bottom' : '8px solid lightcoral'
+        'border-bottom' : '8px solid orange'
     });
 }
 
@@ -250,16 +265,23 @@ function BindTopicVectorEvent()
                 }
             }
         });
-        $('.ts-fe-word').css({
-            'background-color' : 'transparent'
-        });
+        //$('.ts-fe-word').css({
+        //    'background-color' : function(){
+        //        if ($(this).css('background-color') == 'rgb(255, 165, 0)') {
+        //            return 'rgb(255, 165, 0)';
+        //        } else {
+        //            return 'transparent';
+        //        }
+        //    }
+        //});
+        ChangeTopicWordBackground(true);
         $(this).css({
             'background-color' : 'lightcoral'
         });
     });
 }
 
-function DisplayTopicVector()
+function DisplayTopicVector(callback)
 {
     var request = {'clusterID' : current_clusterID};
 
@@ -280,6 +302,8 @@ function DisplayTopicVector()
         });
 
         BindTopicVectorEvent();
+
+        callback();
     });
 }
 
@@ -340,16 +364,19 @@ function SetAutomaticSubmitTimer()
     }, 1000);
 }
 
-function Initialize()
+function InitializeStyleEventRecord()
 {
-    DisplayDocument();
-    DisplayTopicVector();
-
     InitializeElementStyle();
     BindClickEvent();
 
     LoadUserdata();
     SetAutomaticSubmitTimer();
+}
+
+function Initialize()
+{
+    DisplayDocument();
+    DisplayTopicVector(InitializeStyleEventRecord);
 }
 
 function StartProcess()

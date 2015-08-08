@@ -1,0 +1,11 @@
+biggest 1
+make 1
+figure 1
+strategy 2
+allowed 1
+apparently 1
+buying 1
+fail 1
+ms 1
+pos 3
+cfc 1

@@ -1,0 +1,16 @@
+today 2
+bank 2
+thomas 2
+states 2
+lived 2
+house 2
+barclays 3
+story 2
+written 2
+branch 2
+barry 1
+reputed 2
+mayor 2
+plaque 2
+casterbridge 2
+dorchester 3

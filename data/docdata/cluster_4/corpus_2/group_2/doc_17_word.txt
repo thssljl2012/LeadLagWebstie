@@ -1,0 +1,11 @@
+set 1
+keeping 1
+carry 1
+man 1
+defending 1
+brom 2
+morrison 1
+sloppy 2
+smashing 1
+villa 2
+friedel 1

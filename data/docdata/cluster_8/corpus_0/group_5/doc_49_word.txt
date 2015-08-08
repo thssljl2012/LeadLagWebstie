@@ -1,0 +1,14 @@
+opening 1
+banks 1
+cash 2
+america 1
+open 1
+great 1
+return 1
+easy 1
+account 3
+giving 1
+offering 1
+wamu 1
+checking 2
+bonus 1

@@ -1,0 +1,11 @@
+bank 1
+head 1
+call 1
+sweet 1
+feel 1
+figure 1
+pages 1
+hurts 1
+drank 1
+pint 1
+nall 1

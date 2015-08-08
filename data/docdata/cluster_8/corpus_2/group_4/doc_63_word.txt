@@ -1,0 +1,13 @@
+costs 1
+plan 1
+hit 1
+aig 1
+pretty 1
+back 1
+safe 1
+bucks 1
+upgrade 1
+wanna 1
+advices 1
+abt 1
+mth 1

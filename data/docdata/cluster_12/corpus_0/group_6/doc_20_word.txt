@@ -1,0 +1,12 @@
+bank 1
+drop 1
+profit 1
+earnings 1
+company 1
+percent 2
+wednesday 1
+reported 1
+slide 1
+bringing 1
+parent 1
+usb 1

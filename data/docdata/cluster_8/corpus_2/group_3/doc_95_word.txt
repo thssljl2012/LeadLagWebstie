@@ -1,0 +1,14 @@
+bank 2
+cash 1
+anz 1
+hope 1
+helps 1
+account 1
+direct 1
+persons 1
+receipt 1
+girl 1
+payed 1
+lounge 1
+silly 1
+dwayneqld 1

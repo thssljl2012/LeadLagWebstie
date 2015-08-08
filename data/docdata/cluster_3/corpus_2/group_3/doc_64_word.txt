@@ -1,0 +1,10 @@
+markets 1
+ftse 1
+make 1
+barclays 1
+lloyds 2
+tsb 2
+hbos 1
+rbs 1
+takeover 1
+impressed 1

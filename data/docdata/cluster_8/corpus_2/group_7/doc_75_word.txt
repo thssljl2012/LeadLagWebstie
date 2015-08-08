@@ -1,0 +1,15 @@
+rate 1
+bank 1
+exchange 1
+open 1
+wanted 1
+account 1
+paid 1
+charge 1
+citibank 3
+trip 1
+relationship 1
+fees 1
+banamex 1
+suggestions 1
+feasibly 1

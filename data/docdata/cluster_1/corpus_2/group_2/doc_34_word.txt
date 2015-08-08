@@ -1,0 +1,17 @@
+insurance 2
+company 1
+junior 1
+large 1
+general 1
+board 1
+problem 1
+start 1
+thread 1
+message 1
+debt 1
+american 1
+subsidiary 1
+posts 1
+bak 1
+mks 1
+xfp 1

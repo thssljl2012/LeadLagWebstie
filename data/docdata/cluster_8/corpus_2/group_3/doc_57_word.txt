@@ -1,0 +1,14 @@
+time 2
+insurance 3
+aig 1
+set 1
+posted 1
+week 1
+add 1
+offered 1
+buy 1
+amount 1
+purchase 1
+originally 1
+trip 1
+xmas 1

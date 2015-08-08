@@ -1,0 +1,15 @@
+opening 1
+bank 2
+monday 1
+america 1
+reports 1
+stores 1
+vendors 1
+corner 1
+branch 2
+goodbye 1
+makeshift 1
+northeast 1
+broadway 1
+canal 1
+esquared 1

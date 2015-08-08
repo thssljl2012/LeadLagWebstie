@@ -1,0 +1,15 @@
+policy 1
+rate 2
+bank 4
+announced 1
+works 1
+thinking 1
+committee 1
+barclays 4
+monetary 1
+month 1
+england 1
+base 5
+guaranteed 1
+boe 1
+righht 1

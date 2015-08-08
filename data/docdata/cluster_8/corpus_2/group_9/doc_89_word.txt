@@ -1,0 +1,15 @@
+bank 1
+mortgages 1
+price 1
+book 1
+total 1
+call 1
+losses 1
+food 1
+conference 1
+accounts 1
+thought 1
+residential 1
+cfo 1
+joe 1
+cra 1

@@ -1,0 +1,12 @@
+bank 1
+investors 1
+read 1
+full 1
+raise 1
+middle 1
+barclays 1
+story 1
+unveiled 1
+british 1
+proposal 1
+eastern 1

@@ -1,0 +1,10 @@
+company 1
+money 1
+make 1
+sell 1
+citi 1
+give 1
+made 1
+giving 1
+plane 2
+wasted 2

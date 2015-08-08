@@ -1,0 +1,13 @@
+bank 1
+national 1
+fell 1
+lowest 1
+level 1
+confidence 1
+business 1
+australia 1
+australian 1
+record 1
+printing 1
+years 1
+worst 1

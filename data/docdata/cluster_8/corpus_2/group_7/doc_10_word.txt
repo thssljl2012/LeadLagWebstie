@@ -1,0 +1,16 @@
+phone 1
+pay 1
+spend 1
+citi 1
+account 1
+bills 1
+customers 1
+hours 1
+convince 1
+mention 1
+pending 1
+didnt 1
+fraudulent 1
+empty 1
+accountable 1
+helf 1

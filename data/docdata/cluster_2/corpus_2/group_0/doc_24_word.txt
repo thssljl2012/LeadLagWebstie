@@ -1,0 +1,10 @@
+part 1
+fish 1
+barclays 1
+parts 1
+eat 2
+de 2
+feet 1
+cup 1
+gotch 1
+oni 1

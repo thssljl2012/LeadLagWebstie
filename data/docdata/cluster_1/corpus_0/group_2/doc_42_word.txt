@@ -1,0 +1,15 @@
+volatile 1
+insurance 2
+aig 1
+economic 1
+company 1
+week 1
+times 1
+red 1
+safety 1
+life 1
+events 1
+policies 2
+serve 1
+flag 1
+annuities 1

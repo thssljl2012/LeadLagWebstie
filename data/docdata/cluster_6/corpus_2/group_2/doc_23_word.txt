@@ -1,0 +1,11 @@
+fast 3
+scotland 1
+msn 1
+speed 1
+location 1
+internet 1
+btw 1
+huntly 1
+neoseeker 1
+wiganrace 1
+hamachi 1

@@ -1,0 +1,15 @@
+insurance 1
+aig 2
+decrease 1
+companies 1
+default 1
+contracts 1
+payments 1
+asset 1
+means 1
+received 1
+swap 1
+values 1
+entered 1
+bailout 2
+insolvent 1

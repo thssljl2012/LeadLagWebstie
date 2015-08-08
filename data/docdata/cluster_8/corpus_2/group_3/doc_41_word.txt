@@ -1,0 +1,12 @@
+mortgages 1
+point 1
+offer 1
+barclays 1
+scheme 1
+hsbc 1
+mike 1
+lloyds 1
+lend 2
+likes 1
+woolwich 1
+natwest 1

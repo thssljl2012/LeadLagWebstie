@@ -1,0 +1,1 @@
+06:27PM Credit: National Australia Bank's Security Assurance team and the vendor. Vulnerable: Cisco Application Networking Manager (ANM) 1.2  Cisco Application Control Software A2(1.2)  Not Vulnerable: Cisco Application Networking Manager (ANM) 2.0 Update A Cisco Application Networking Manager (ANM) 2.0 Cisco Application Control Engine (ACE) Device Manager A3(2.1) 

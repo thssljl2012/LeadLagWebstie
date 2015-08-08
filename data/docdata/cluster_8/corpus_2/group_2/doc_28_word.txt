@@ -1,0 +1,15 @@
+morning 1
+today 1
+banks 1
+cash 3
+monday 1
+friday 1
+late 1
+current 1
+reason 1
+change 1
+account 1
+hold 1
+paid 1
+terrible 1
+cheques 1

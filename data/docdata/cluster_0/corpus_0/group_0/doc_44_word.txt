@@ -1,0 +1,17 @@
+bank 1
+decline 1
+credit 1
+slowdown 1
+earnings 1
+set 1
+banking 1
+year 1
+australia 1
+australian 1
+zealand 2
+group 1
+reserves 1
+expected 1
+cover 1
+losses 1
+economies 1

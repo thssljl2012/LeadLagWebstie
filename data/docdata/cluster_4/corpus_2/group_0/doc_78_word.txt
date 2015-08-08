@@ -1,0 +1,16 @@
+time 2
+bank 1
+thomas 1
+cook 1
+gold 1
+people 1
+pattern 2
+looked 1
+lloyds 1
+tsb 1
+hours 1
+emerges 1
+saga 1
+duo 1
+barclaycard 1
+ulster 1

@@ -1,0 +1,13 @@
+tv 3
+good 2
+makes 1
+put 1
+people 3
+problem 1
+shows 1
+commercials 1
+typically 1
+normal 1
+ugly 1
+smack 1
+annoying 1

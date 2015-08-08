@@ -1,0 +1,12 @@
+drop 1
+due 1
+year 1
+posted 1
+ago 1
+years 2
+damage 1
+made 1
+claim 1
+storm 1
+yep 1
+shame 1

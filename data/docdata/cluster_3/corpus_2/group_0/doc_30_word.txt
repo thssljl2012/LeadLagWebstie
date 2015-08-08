@@ -1,0 +1,11 @@
+yield 1
+figures 1
+cover 1
+put 1
+barclays 1
+correct 1
+pe 1
+cheers 1
+ish 1
+barc 1
+divi 1

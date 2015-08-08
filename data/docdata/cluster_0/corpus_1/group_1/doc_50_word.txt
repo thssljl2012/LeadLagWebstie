@@ -1,0 +1,14 @@
+close 1
+cash 1
+foreign 1
+exchange 1
+previous 1
+bill 1
+reuters 1
+sydney 2
+futures 1
+gmt 1
+debt 1
+yields 1
+aug 1
+sep 1

@@ -1,0 +1,15 @@
+banks 1
+bank 1
+federal 1
+approved 1
+banking 1
+australia 1
+sydney 1
+st 1
+westpac 1
+thursday 1
+george 1
+corp 1
+rival 1
+treasurer 1
+merger 1

@@ -1,0 +1,13 @@
+range 1
+long 1
+great 1
+wrong 1
+game 2
+quote 1
+shower 1
+glory 1
+overrated 1
+prem 1
+imo 1
+reina 1
+goalies 1

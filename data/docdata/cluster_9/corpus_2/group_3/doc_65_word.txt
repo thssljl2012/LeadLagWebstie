@@ -1,0 +1,11 @@
+part 1
+record 1
+show 1
+half 1
+cut 1
+interest 1
+final 1
+hours 1
+hour 1
+helen 1
+annoying 1

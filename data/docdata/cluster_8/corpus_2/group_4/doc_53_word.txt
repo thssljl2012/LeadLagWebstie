@@ -1,0 +1,10 @@
+banks 1
+offer 1
+general 1
+suggesting 1
+account 1
+firewalls 1
+paranoid 2
+facetious 1
+hehe 1
+warey 1

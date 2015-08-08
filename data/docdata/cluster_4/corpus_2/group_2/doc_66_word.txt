@@ -1,0 +1,13 @@
+buy 1
+talking 1
+leave 1
+center 1
+yeah 1
+quote 1
+midfielder 1
+knowing 1
+forgot 1
+benitez 1
+kuyt 1
+rafa 1
+jmste 1

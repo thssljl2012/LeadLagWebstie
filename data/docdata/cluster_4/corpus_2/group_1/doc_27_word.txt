@@ -1,0 +1,15 @@
+side 1
+bank 1
+insurance 1
+full 1
+nationwide 1
+quarters 1
+damage 2
+wondering 1
+commercial 1
+car 3
+coffee 1
+window 2
+rolls 1
+cup 1
+pens 1

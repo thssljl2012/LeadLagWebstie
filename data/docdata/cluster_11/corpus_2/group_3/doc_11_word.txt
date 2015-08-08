@@ -1,0 +1,13 @@
+delivery 1
+leader 1
+coverage 2
+edt 1
+barclays 2
+rating 1
+october 1
+overweight 2
+application 1
+networks 3
+networking 1
+initiates 2
+ffiv 2

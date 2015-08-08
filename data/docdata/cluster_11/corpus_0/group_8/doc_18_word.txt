@@ -1,0 +1,15 @@
+bank 1
+insurer 1
+dow 1
+stock 1
+citi 1
+wary 1
+loan 1
+tumbles 1
+failures 1
+deposit 1
+dips 1
+folding 1
+strzt 1
+abciti 1
+fdicus 1

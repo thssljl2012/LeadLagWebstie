@@ -1,0 +1,10 @@
+visa 3
+offered 2
+barclays 1
+card 4
+title 1
+logo 2
+debit 2
+natwest 1
+solo 3
+maestro 1

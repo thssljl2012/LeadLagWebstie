@@ -1,0 +1,13 @@
+phone 1
+back 2
+basic 1
+short 1
+pushed 1
+dont 1
+heard 1
+questions 1
+pages 1
+min 1
+bothered 1
+hr 1
+sweat 1

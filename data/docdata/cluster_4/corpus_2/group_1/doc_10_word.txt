@@ -1,0 +1,12 @@
+closed 1
+year 2
+good 1
+paying 1
+tax 2
+barclays 1
+haven 1
+reply 1
+regular 1
+saver 1
+wheels 2
+beater 1

@@ -1,0 +1,16 @@
+bank 2
+mortgage 2
+shares 1
+america 1
+dow 1
+york 1
+home 2
+days 1
+bad 1
+pushing 1
+corp 1
+headed 1
+bac 1
+charlotte 1
+locator 1
+exits 1

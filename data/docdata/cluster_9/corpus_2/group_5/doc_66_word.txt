@@ -1,0 +1,17 @@
+bank 5
+america 1
+issue 1
+ago 1
+long 1
+white 2
+bottom 1
+worry 1
+bought 1
+chase 1
+lasalle 2
+boa 1
+fees 1
+sox 2
+atms 3
+clarify 1
+comiskey 1

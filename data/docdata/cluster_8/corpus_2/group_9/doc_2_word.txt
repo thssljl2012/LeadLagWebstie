@@ -1,0 +1,15 @@
+market 1
+shares 1
+stock 1
+risk 1
+past 1
+upside 1
+limit 1
+made 1
+lose 1
+invest 1
+chance 1
+sky 1
+mistakes 1
+repeat 1
+citibank 1

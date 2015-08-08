@@ -1,0 +1,12 @@
+anxiety 1
+stock 1
+thing 1
+pay 1
+number 2
+save 1
+debts 1
+waiting 1
+type 1
+cattle 1
+refinance 1
+slaughterhouse 1

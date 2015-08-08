@@ -1,0 +1,16 @@
+bank 1
+stocks 1
+citigroup 1
+america 1
+higher 1
+stock 1
+government 1
+billion 2
+losses 1
+lift 1
+citi 1
+injected 1
+assets 1
+guaranteed 1
+wsj 1
+bofa 1

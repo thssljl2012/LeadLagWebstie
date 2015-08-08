@@ -1,0 +1,10 @@
+governor 1
+bank 2
+america 1
+bond 1
+issues 1
+firm 1
+telling 1
+underwriter 1
+funny 1
+nj 1

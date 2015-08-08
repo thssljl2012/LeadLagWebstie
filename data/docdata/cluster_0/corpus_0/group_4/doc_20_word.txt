@@ -1,0 +1,16 @@
+bank 1
+lows 1
+dollar 1
+australia 1
+australian 1
+reuters 1
+sydney 1
+thursday 1
+reserve 1
+battered 1
+rba 1
+wayne 1
+deep 1
+nov 1
+cole 1
+steadied 1

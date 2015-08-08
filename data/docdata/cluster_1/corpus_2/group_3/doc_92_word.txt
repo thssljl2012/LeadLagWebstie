@@ -1,0 +1,13 @@
+sector 1
+insurance 1
+aig 1
+posted 1
+borrow 1
+lot 1
+fr 1
+fed 2
+life 1
+injected 1
+originally 1
+cos 1
+yest 1

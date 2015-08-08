@@ -1,0 +1,15 @@
+wall 1
+street 1
+financial 1
+opening 1
+monday 1
+stocks 1
+insurance 1
+giant 1
+aig 1
+lows 1
+dropped 1
+announced 1
+woes 1
+bailout 1
+heightened 1

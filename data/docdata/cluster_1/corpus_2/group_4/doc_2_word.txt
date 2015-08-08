@@ -1,0 +1,10 @@
+insurer 1
+group 1
+reduced 1
+government 1
+billion 1
+international 1
+amount 1
+american 1
+charlotte 1
+owes 1

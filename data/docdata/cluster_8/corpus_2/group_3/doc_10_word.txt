@@ -1,0 +1,13 @@
+ago 1
+write 1
+back 2
+years 4
+barclays 1
+account 1
+claim 1
+charges 2
+letter 1
+summary 1
+ring 1
+woolwich 2
+recieved 1

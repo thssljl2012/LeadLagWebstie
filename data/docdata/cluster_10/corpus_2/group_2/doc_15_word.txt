@@ -1,0 +1,15 @@
+bank 2
+royal 1
+barclays 1
+hbos 1
+ing 1
+fortis 1
+dexia 1
+bnp 1
+agricole 1
+commerzbank 1
+societe 1
+aegon 1
+cerdit 1
+detsche 1
+sctoland 1

@@ -1,0 +1,17 @@
+bank 1
+america 1
+points 1
+york 1
+yield 1
+reuters 2
+billion 1
+basis 1
+expected 1
+notes 1
+corp 1
+service 1
+sale 1
+includes 1
+thomson 1
+ifr 1
+jan 1

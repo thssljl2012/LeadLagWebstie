@@ -1,0 +1,17 @@
+time 1
+banks 1
+bank 1
+insurance 1
+company 1
+posted 1
+good 1
+companies 1
+share 1
+qbe 1
+westpac 1
+grow 1
+originally 1
+stick 1
+qld 1
+gordon 2
+slater 2

@@ -1,0 +1,13 @@
+wall 1
+street 1
+bank 1
+america 1
+list 1
+barbara 1
+executive 1
+corp 1
+bac 1
+journal 1
+ranked 1
+women 1
+desoer 1

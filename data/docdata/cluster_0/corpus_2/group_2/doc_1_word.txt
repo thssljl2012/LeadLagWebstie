@@ -1,0 +1,12 @@
+market 1
+bank 1
+stocks 1
+holding 1
+report 1
+broad 1
+september 1
+commonwealth 1
+volatility 1
+indicators 1
+agri 1
+agrbibusiness 1

@@ -1,0 +1,17 @@
+time 1
+german 1
+eyes 1
+move 1
+engineer 1
+decide 1
+retreat 1
+forward 1
+russian 1
+withdraw 1
+sounded 1
+tanks 1
+officers 1
+rear 1
+watchful 1
+reinforcments 1
+platoons 2

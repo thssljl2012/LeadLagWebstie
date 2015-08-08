@@ -1,0 +1,10 @@
+bank 1
+bad 1
+changing 1
+simple 1
+thought 1
+dread 1
+escape 1
+task 1
+afraid 1
+fills 1

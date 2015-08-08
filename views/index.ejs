@@ -16,7 +16,7 @@
         var corpusNum = <%= corpusNum %>;
         var timeslotNum = <%= timeslotNum %>;
         var maxdocNum = <%= maxdocNum %>;
-        console.log(datasetinfo);
+        //console.log(datasetinfo);
     </script>
 </head>
 <body>
@@ -39,6 +39,9 @@
                 <% } %>
             </ul>
         </div>
+        <div class="username-area">
+            <%= username %>
+        </div>
     </div>
 
     <div class="right-sidebar">
@@ -56,9 +59,9 @@
     </div>
 
     <div id="main">
-        <div class="header">
-            <h1><%= username %></h1>
-        </div>
+        <!--<div class="header">-->
+            <!--<h1><%= username %></h1>-->
+        <!--</div>-->
         <div class="content">
 
             <div class="doc-picker-bar">

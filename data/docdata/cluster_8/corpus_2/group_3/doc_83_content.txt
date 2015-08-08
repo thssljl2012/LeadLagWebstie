@@ -1,0 +1,1 @@
+ The PIN is stored in the chip - which is &amp;amp;quot;securely&amp;amp;quot; encrypted - which probably means it&amp;#039;s stored under a one-way hash - e.g. you can&amp;#039;t see the pin directly or decrypt it - only check the validity of a given number against it. 

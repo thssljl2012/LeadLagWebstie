@@ -1,0 +1,12 @@
+close 1
+bank 2
+mortgage 1
+started 1
+contract 1
+setting 1
+week 1
+town 1
+house 1
+hands 1
+executed 1
+poker 1

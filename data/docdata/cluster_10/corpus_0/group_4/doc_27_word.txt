@@ -1,0 +1,16 @@
+financial 1
+bank 1
+america 1
+exchange 1
+billion 1
+securities 1
+related 1
+corp 2
+assumed 1
+debt 1
+countrywide 1
+commission 1
+guarantees 1
+bac 1
+filing 1
+bofa 1

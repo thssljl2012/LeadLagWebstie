@@ -1,0 +1,13 @@
+tv 1
+channel 1
+package 1
+south 1
+soccer 1
+american 1
+man 1
+sunday 1
+english 1
+chelsea 2
+ftw 1
+fsc 1
+gol 1

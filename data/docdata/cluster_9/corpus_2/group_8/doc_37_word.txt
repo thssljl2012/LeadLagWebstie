@@ -1,0 +1,12 @@
+time 2
+high 1
+contract 1
+good 2
+expand 1
+happy 1
+image 1
+window 1
+pictures 2
+wife 2
+aaron 1
+zoom 3

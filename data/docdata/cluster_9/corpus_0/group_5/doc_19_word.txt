@@ -1,0 +1,17 @@
+bank 1
+america 1
+set 1
+square 1
+care 1
+north 1
+west 1
+weekend 1
+heels 1
+tar 1
+car 1
+carolina 1
+virginia 1
+bowl 1
+stadium 1
+meineke 1
+mountaineers 1

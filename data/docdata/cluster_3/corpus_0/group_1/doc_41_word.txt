@@ -1,0 +1,14 @@
+bank 2
+america 2
+york 4
+times 2
+read 2
+trust 2
+management 2
+private 2
+post 2
+wealth 2
+signed 2
+original 2
+magazine 2
+advertiser 2

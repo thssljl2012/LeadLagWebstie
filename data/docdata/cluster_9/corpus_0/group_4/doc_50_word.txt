@@ -1,0 +1,14 @@
+bank 1
+america 1
+chicago 1
+passing 1
+month 1
+waiting 1
+october 1
+approaching 1
+elite 3
+happened 1
+women 3
+marathon 1
+bye 2
+runners 3

@@ -1,0 +1,10 @@
+money 1
+back 1
+pay 1
+barclays 1
+card 1
+ill 2
+draw 1
+transfer 1
+dah 1
+natwest 2

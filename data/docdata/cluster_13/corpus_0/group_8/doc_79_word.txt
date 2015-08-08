@@ -1,0 +1,16 @@
+financial 2
+industries 2
+reuters 2
+services 2
+real 2
+estate 2
+march 1
+reading 1
+update 1
+citibank 1
+bomb 1
+exploded 1
+injuries 1
+athens 1
+explodes 1
+inteligentaindigena 1

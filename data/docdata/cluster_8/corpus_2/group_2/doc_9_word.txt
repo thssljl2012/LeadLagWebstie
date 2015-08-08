@@ -1,0 +1,17 @@
+time 1
+insurance 1
+aig 1
+bad 1
+pay 1
+hurt 1
+claim 1
+organization 1
+faith 1
+wrath 1
+lives 1
+destroy 1
+lousy 1
+marty 1
+acted 1
+piper 1
+ojiaccident 1

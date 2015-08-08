@@ -1,0 +1,15 @@
+bank 1
+cash 1
+profit 1
+earnings 1
+annual 1
+year 1
+fiscal 1
+months 1
+st 1
+guidance 1
+george 1
+rise 1
+cent 1
+posting 1
+reaffirmed 1

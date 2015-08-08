@@ -1,0 +1,14 @@
+time 1
+bank 1
+america 1
+company 1
+year 1
+good 1
+important 1
+electric 1
+apparently 1
+relevant 1
+batch 1
+checked 1
+checking 1
+katsu 1

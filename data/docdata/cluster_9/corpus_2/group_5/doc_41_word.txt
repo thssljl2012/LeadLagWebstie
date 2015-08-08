@@ -1,0 +1,17 @@
+time 1
+bank 1
+capital 1
+building 1
+sets 1
+kit 1
+canon 1
+triggers 2
+sigma 2
+gallery 1
+hawk 1
+milwaukee 1
+photography 1
+cactus 1
+calhoun 1
+elinchrom 1
+interfit 1

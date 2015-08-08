@@ -1,0 +1,10 @@
+weeks 1
+stock 1
+past 1
+profits 1
+buy 1
+bounce 1
+gm 1
+citibank 1
+bofa 1
+suckers 1

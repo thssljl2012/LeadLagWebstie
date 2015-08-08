@@ -1,0 +1,17 @@
+bank 1
+russia 1
+st 3
+characteristics 1
+investment 3
+george 3
+issued 1
+february 1
+coins 1
+recently 1
+presented 2
+victorious 3
+sable 1
+chervonets 1
+peculiarities 1
+specimens 1
+coin 1

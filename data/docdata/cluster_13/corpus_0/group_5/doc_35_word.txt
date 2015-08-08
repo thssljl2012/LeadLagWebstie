@@ -1,0 +1,17 @@
+bank 1
+stop 1
+america 1
+manufacturing 1
+company 1
+order 1
+business 1
+closing 1
+chicago 1
+corp 1
+state 1
+illinois 1
+bac 2
+agencies 1
+gov 1
+rod 1
+blagojevich 1

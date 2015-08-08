@@ -1,0 +1,15 @@
+cards 1
+credit 1
+linked 2
+great 1
+corporate 1
+airlines 1
+double 1
+preferred 1
+chase 1
+american 1
+card 1
+continental 1
+personal 1
+citibank 1
+rewards 1

@@ -1,0 +1,13 @@
+bank 1
+expert 1
+fair 1
+st 2
+offer 1
+george 2
+reasonable 1
+interests 1
+takeover 1
+independent 1
+shareholders 1
+grant 1
+samuel 1

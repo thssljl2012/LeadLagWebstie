@@ -1,0 +1,12 @@
+time 1
+bank 1
+end 1
+costs 1
+money 1
+pretty 1
+pay 1
+commonwealth 1
+overseas 1
+person 1
+transfer 2
+countess 1

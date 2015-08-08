@@ -1,0 +1,13 @@
+time 1
+bank 2
+america 1
+east 1
+find 1
+discovered 1
+start 1
+accept 1
+exist 1
+moved 1
+alot 1
+atms 1
+familar 1

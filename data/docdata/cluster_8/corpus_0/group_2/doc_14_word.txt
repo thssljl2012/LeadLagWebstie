@@ -1,0 +1,16 @@
+financial 1
+yesterday 1
+insurance 2
+aig 1
+company 1
+posted 1
+television 1
+term 2
+life 1
+reply 1
+things 1
+commercial 1
+strength 1
+politics 1
+speechless 1
+sleep 1

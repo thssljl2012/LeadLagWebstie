@@ -1,0 +1,17 @@
+rate 1
+low 1
+great 1
+make 1
+rates 1
+loans 1
+ocean 1
+barclays 1
+halifax 1
+load 1
+loan 1
+personal 1
+repayments 1
+unsecured 1
+selected 1
+firstplus 1
+exclusivelighten 1

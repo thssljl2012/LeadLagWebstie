@@ -1,0 +1,16 @@
+bank 1
+america 1
+police 1
+fraud 1
+post 1
+department 1
+check 1
+original 1
+sept 1
+responded 1
+paulo 1
+officers 1
+blvd 1
+milpitas 1
+calaveras 1
+caramico 1

@@ -1,0 +1,13 @@
+rate 1
+line 1
+cuts 1
+mr 1
+quiet 1
+bankwest 1
+rba 1
+swan 1
+approval 1
+seeks 1
+ear 1
+whisper 1
+toeing 1

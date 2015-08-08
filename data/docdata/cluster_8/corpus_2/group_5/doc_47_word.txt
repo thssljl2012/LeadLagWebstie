@@ -1,0 +1,14 @@
+record 1
+money 1
+lost 1
+loan 1
+corporations 1
+heard 1
+homeowners 1
+todays 1
+excellent 1
+ethics 2
+screw 1
+mentality 1
+entitlement 1
+evolved 1

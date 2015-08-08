@@ -7,7 +7,7 @@ var http = require('http');
 var clusterNum = 13;
 var corpusNum = 3;
 var timeslotNum = 10;
-var maxdocNum = 30;
+var maxdocNum = 100;
 
 var app = express();
 

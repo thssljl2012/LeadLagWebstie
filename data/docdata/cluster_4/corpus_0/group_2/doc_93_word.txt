@@ -1,0 +1,17 @@
+city 1
+money 1
+days 1
+build 1
+warning 1
+barclays 1
+takes 1
+repeated 1
+alex 1
+crushing 1
+premier 1
+successful 1
+league 1
+manchester 1
+ferguson 1
+sir 1
+portsmouth 1

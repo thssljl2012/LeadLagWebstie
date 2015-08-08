@@ -1,0 +1,11 @@
+good 1
+thinking 1
+play 1
+quit 1
+winner 1
+perry 1
+ceases 1
+shoot 1
+pga 1
+tournaments 1
+amaze 1

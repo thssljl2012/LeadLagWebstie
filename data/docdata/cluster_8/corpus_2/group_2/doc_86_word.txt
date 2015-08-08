@@ -1,0 +1,16 @@
+rate 1
+insurance 2
+aig 1
+note 1
+remember 1
+liberty 1
+broker 1
+special 1
+receiving 1
+mutual 1
+helpful 1
+friend 1
+tonight 1
+ive 1
+jeep 1
+mailer 1

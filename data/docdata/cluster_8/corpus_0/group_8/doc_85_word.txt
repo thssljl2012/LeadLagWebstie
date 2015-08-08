@@ -1,0 +1,10 @@
+insurance 1
+aig 1
+dow 1
+news 1
+billion 1
+administration 1
+obama 1
+forking 1
+minute 1
+pause 1

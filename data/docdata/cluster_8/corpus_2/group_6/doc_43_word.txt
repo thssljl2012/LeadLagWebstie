@@ -1,0 +1,17 @@
+point 1
+business 1
+money 1
+spending 2
+people 1
+start 1
+asked 1
+things 1
+commercial 1
+needed 1
+bailout 2
+missing 1
+lucky 1
+realized 1
+cancel 1
+extravagant 1
+luxuries 1

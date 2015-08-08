@@ -1,0 +1,15 @@
+time 1
+channel 2
+data 1
+barclays 1
+date 1
+event 2
+initially 1
+sat 2
+type 1
+switched 1
+pos 1
+tour 2
+pga 2
+eutelsat 1
+biss 1

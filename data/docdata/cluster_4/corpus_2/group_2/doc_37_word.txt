@@ -1,0 +1,14 @@
+city 1
+management 1
+bit 1
+man 1
+fixed 1
+quote 1
+fan 1
+disguise 1
+technique 1
+swapping 1
+youngs 1
+clown 1
+gomes 1
+robbo 1

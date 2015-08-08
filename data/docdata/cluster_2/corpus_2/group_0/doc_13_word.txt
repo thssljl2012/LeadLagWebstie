@@ -1,0 +1,12 @@
+buy 1
+barclays 1
+save 1
+bike 1
+cup 1
+oso 1
+liao 1
+tink 1
+lorr 1
+goot 1
+marnee 1
+nid 1

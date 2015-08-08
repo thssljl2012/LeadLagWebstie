@@ -1,0 +1,13 @@
+big 1
+bank 2
+anz 1
+commonwealth 1
+coles 1
+paid 1
+save 1
+target 1
+woolworths 1
+pre 1
+optus 1
+aldi 1
+kmart 1
