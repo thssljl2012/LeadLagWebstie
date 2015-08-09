@@ -1,0 +1,17 @@
+market 1
+today 1
+bank 1
+national 1
+mortgage 1
+home 2
+price 1
+anz 1
+australia 1
+reducing 1
+nab 1
+rates 1
+loans 2
+war 1
+interest 1
+aussie 1
+underway 1

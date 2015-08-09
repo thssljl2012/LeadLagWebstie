@@ -1,0 +1,12 @@
+kind 1
+insurance 1
+remember 1
+problem 1
+state 1
+parents 2
+wondering 1
+drove 1
+relationship 1
+borders 1
+resrictions 1
+dazdi 1

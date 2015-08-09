@@ -1,0 +1,15 @@
+wall 1
+street 1
+banks 1
+government 1
+cycle 1
+change 1
+begin 1
+suffers 1
+anew 1
+trauma 1
+defended 1
+um 1
+ego 1
+bystander 1
+vivisection 1

@@ -1,0 +1,12 @@
+time 1
+inventory 1
+paying 1
+barclays 1
+chase 1
+bt 1
+usaa 2
+discover 1
+noble 1
+barnes 1
+borders 1
+au 1

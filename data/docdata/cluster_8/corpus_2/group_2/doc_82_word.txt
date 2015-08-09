@@ -1,0 +1,13 @@
+bank 1
+work 1
+world 1
+barclays 1
+abroad 1
+matter 1
+thought 1
+address 1
+customers 1
+residential 1
+customer 1
+addresses 1
+uptodate 1

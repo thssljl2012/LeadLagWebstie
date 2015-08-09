@@ -1,0 +1,14 @@
+banks 1
+bank 1
+hotel 1
+america 1
+fun 1
+santander 1
+restaurants 1
+spots 1
+location 1
+atm 1
+downtown 1
+walk 1
+reguards 1
+mercado 1

@@ -1,0 +1,16 @@
+city 1
+insurance 1
+capital 1
+powered 1
+rat 1
+september 1
+nationwide 1
+car 1
+maker 1
+classified 1
+bike 2
+motorcycle 1
+pole 1
+fest 2
+widow 1
+buffalo 1

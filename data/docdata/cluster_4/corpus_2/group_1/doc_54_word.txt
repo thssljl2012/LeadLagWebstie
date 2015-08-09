@@ -1,0 +1,13 @@
+financial 1
+insurance 1
+aig 1
+days 1
+headline 1
+takes 1
+life 1
+guess 2
+person 1
+btw 1
+entity 1
+um 1
+readership 1

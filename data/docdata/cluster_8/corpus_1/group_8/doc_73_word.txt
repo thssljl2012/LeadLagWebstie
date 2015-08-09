@@ -1,0 +1,14 @@
+banks 1
+bank 1
+commerce 1
+private 1
+taking 1
+reporters 1
+mistake 1
+aid 1
+washington 1
+stay 1
+questions 1
+speech 1
+chamber 1
+dimon 1

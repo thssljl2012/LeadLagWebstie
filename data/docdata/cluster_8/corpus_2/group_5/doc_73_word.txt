@@ -1,0 +1,12 @@
+managed 1
+bank 1
+anz 1
+website 1
+nab 1
+fine 2
+problem 1
+im 1
+working 1
+log 1
+tsn 1
+mcguiness 1

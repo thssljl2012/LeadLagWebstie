@@ -1,0 +1,11 @@
+giant 1
+aig 1
+reports 2
+loss 1
+news 1
+billion 2
+latest 1
+cnn 1
+log 1
+accepts 1
+mammoth 1

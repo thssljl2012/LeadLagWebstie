@@ -1,0 +1,17 @@
+side 1
+city 2
+tumbled 1
+brazil 1
+record 1
+return 1
+barclays 1
+match 1
+signing 1
+premier 1
+league 1
+manchester 1
+striker 1
+wigan 1
+robinho 1
+midweek 1
+rested 1

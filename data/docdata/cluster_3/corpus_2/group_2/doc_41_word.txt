@@ -1,0 +1,12 @@
+insurance 1
+aig 1
+company 1
+worth 1
+managers 1
+worse 1
+bankrupt 1
+employees 2
+sep 1
+wed 1
+crap 1
+bullbear 1

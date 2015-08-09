@@ -1,0 +1,13 @@
+today 1
+insurance 2
+aig 2
+global 2
+company 1
+announced 1
+increased 1
+risk 2
+trade 1
+capacity 1
+support 1
+political 2
+pri 1

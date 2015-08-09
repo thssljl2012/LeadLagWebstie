@@ -1,0 +1,11 @@
+economy 1
+time 1
+today 1
+bank 1
+america 1
+finally 1
+pound 1
+kinda 1
+salt 1
+bummed 1
+disolved 1

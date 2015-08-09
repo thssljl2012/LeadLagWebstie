@@ -1,0 +1,14 @@
+city 1
+holdings 1
+residents 1
+make 1
+choice 1
+interest 1
+difference 1
+legislation 1
+charge 1
+type 1
+citibank 2
+divest 1
+nyc 1
+creative 1

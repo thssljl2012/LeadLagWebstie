@@ -1,0 +1,10 @@
+shares 1
+stock 1
+price 1
+dropped 1
+losses 1
+bad 1
+penny 1
+dilution 1
+conversion 1
+furher 1

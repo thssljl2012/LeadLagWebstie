@@ -1,0 +1,15 @@
+insurance 1
+good 1
+call 2
+nationwide 1
+drive 1
+weather 2
+wanna 1
+dd 1
+carey 1
+girls 1
+peggy 1
+cobalt 1
+cody 1
+keed 1
+arthurs 1

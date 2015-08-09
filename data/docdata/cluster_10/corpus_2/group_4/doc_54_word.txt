@@ -1,0 +1,14 @@
+stock 1
+lows 1
+holding 1
+risk 1
+website 1
+party 1
+barclays 1
+appears 1
+counter 1
+search 1
+articles 1
+site 1
+barclay 1
+etftrends 1

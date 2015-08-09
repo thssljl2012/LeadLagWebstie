@@ -1,0 +1,17 @@
+side 1
+times 1
+rio 1
+lone 1
+bright 1
+scored 1
+jc 1
+injured 1
+booked 1
+feeding 1
+striker 1
+ht 1
+drogba 1
+anelka 2
+malouda 1
+scholes 1
+vds 1

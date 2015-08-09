@@ -1,0 +1,11 @@
+bank 1
+young 1
+courses 2
+rock 1
+climbing 1
+reading 1
+education 1
+switch 1
+award 1
+adventure 1
+duke 1

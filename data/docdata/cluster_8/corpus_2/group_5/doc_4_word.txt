@@ -1,0 +1,13 @@
+time 1
+bank 1
+america 1
+credit 1
+job 1
+find 1
+employees 1
+jobs 1
+card 1
+fire 1
+repeatedly 1
+suppliers 1
+capitalone 1

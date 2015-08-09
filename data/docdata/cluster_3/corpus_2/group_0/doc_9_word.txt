@@ -1,0 +1,13 @@
+bank 1
+holdings 1
+comments 1
+article 1
+start 1
+thread 1
+true 1
+gloomy 1
+watch 1
+killed 1
+warrant 1
+preferreds 1
+yor 1

@@ -1,0 +1,10 @@
+bank 1
+visa 1
+america 1
+work 1
+countries 1
+run 1
+brand 1
+promote 1
+mastercard 1
+mbna 1

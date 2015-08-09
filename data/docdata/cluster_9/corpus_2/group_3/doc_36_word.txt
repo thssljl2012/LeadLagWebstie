@@ -1,0 +1,12 @@
+run 1
+drive 1
+field 1
+practice 1
+target 1
+draw 1
+sued 1
+atv 1
+spocahp 1
+anar 1
+meen 2
+backfield 1

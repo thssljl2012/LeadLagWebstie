@@ -1,0 +1,10 @@
+points 1
+aggressive 1
+tm 1
+wells 1
+jp 1
+inside 1
+nba 1
+xx 1
+cctv 1
+nowitzkiki 1

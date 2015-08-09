@@ -1,0 +1,11 @@
+close 1
+trading 1
+ready 1
+call 1
+wow 1
+lehman 1
+barclays 1
+deal 1
+rocky 1
+burden 1
+dheavy 1

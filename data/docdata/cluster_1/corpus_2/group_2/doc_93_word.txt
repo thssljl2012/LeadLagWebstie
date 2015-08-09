@@ -1,0 +1,17 @@
+aig 2
+stock 1
+cents 1
+capital 1
+company 1
+bit 1
+face 1
+raising 1
+problems 1
+trouble 1
+unlike 1
+carriers 2
+difficulty 1
+mutual 2
+challenges 1
+doctor 1
+sf 1

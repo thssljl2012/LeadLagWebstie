@@ -1,0 +1,11 @@
+home 1
+work 1
+make 1
+miles 1
+eating 1
+groups 1
+pond 1
+trip 1
+drinking 1
+blocking 1
+driveway 1

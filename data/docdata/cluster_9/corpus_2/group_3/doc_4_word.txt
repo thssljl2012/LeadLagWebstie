@@ -1,0 +1,17 @@
+time 1
+building 2
+good 1
+idea 1
+trust 2
+lot 2
+happen 1
+majority 1
+warren 1
+cba 1
+upgrades 1
+campus 1
+plug 1
+donate 1
+graduated 1
+nickle 1
+unl 2

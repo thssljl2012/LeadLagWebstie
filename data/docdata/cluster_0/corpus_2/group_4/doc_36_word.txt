@@ -1,0 +1,11 @@
+bank 2
+pacific 1
+currency 1
+australia 1
+reported 1
+south 1
+reserve 1
+prop 1
+source 1
+intervened 1
+anonymous 1

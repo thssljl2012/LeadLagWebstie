@@ -1,0 +1,12 @@
+banks 2
+insurance 1
+companies 1
+depression 1
+investment 1
+regulations 1
+passed 1
+separate 1
+brokerages 1
+community 1
+wonders 1
+firewalled 1

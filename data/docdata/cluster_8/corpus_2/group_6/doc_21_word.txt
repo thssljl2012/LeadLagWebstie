@@ -1,0 +1,12 @@
+end 2
+starting 1
+capital 1
+hand 1
+business 1
+country 1
+model 1
+people 1
+lose 1
+jobs 1
+wins 1
+hoarded 1

@@ -1,0 +1,11 @@
+lines 1
+region 1
+play 1
+sound 1
+yeah 1
+supposedly 1
+crushed 1
+bone 2
+fracture 4
+raqibul 1
+comminuted 2

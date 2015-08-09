@@ -1,0 +1,13 @@
+turn 1
+shares 3
+weeks 1
+left 1
+past 1
+money 1
+traded 1
+raise 1
+sold 1
+borrowing 1
+hands 1
+lots 1
+inbev 1

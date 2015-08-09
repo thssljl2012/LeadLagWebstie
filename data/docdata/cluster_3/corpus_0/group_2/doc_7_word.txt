@@ -1,0 +1,10 @@
+wall 1
+street 1
+bank 2
+america 1
+development 1
+lehman 3
+barclays 1
+korea 1
+brothers 3
+journal 1

@@ -1,0 +1,17 @@
+bank 1
+america 1
+trust 1
+investment 1
+real 1
+estate 1
+equity 1
+neutral 1
+fully 1
+communities 2
+american 2
+integrated 1
+acc 1
+upgrades 1
+reit 1
+underperform 1
+campus 2

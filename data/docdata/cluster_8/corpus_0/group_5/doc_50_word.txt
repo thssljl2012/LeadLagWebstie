@@ -1,0 +1,11 @@
+today 1
+banks 1
+bank 2
+cash 2
+america 1
+closed 1
+order 2
+money 2
+account 2
+gonna 1
+cashing 1

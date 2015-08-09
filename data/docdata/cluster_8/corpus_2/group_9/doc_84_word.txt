@@ -1,0 +1,13 @@
+bank 1
+america 1
+dollars 1
+continue 1
+tax 1
+double 1
+chase 1
+customers 1
+afloat 1
+borrowed 1
+redefining 1
+clamp 1
+gouge 1

@@ -1,0 +1,10 @@
+dollar 1
+gold 1
+board 1
+rise 1
+start 1
+thread 1
+message 1
+posts 1
+tonight 1
+cwei 1

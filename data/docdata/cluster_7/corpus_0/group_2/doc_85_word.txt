@@ -1,0 +1,15 @@
+hike 1
+bank 1
+key 1
+high 1
+investor 1
+lending 1
+rates 1
+investments 1
+prompt 1
+future 1
+inflation 1
+cent 1
+reserve 1
+smart 1
+managing 1

@@ -1,0 +1,11 @@
+city 1
+august 1
+full 1
+barclays 1
+table 2
+premier 2
+league 2
+utd 1
+brom 1
+villa 1
+ham 1

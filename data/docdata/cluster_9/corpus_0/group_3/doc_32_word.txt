@@ -1,0 +1,16 @@
+bank 2
+police 1
+liberty 1
+commonwealth 1
+caught 1
+block 1
+october 1
+suspect 1
+pittsburgh 1
+robbing 1
+accused 1
+avenue 1
+dwayne 1
+carey 1
+robbery 1
+wilkinsburg 1

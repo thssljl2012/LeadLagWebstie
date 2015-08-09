@@ -1,0 +1,12 @@
+put 1
+increase 1
+dont 2
+simple 1
+game 2
+revenue 1
+players 2
+voted 1
+cba 1
+salaries 1
+approve 1
+subsequently 1

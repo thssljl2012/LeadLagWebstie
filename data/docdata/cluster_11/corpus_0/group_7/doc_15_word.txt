@@ -1,0 +1,14 @@
+session 1
+banks 1
+bank 1
+stocks 1
+concerns 1
+add 1
+losses 1
+earlier 1
+grow 1
+medicine 1
+planned 1
+heal 1
+patient 1
+sicken 1

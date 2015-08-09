@@ -1,0 +1,13 @@
+present 1
+times 1
+moment 1
+fine 1
+problem 2
+problems 1
+crash 1
+address 1
+ive 1
+ip 2
+server 1
+firewall 1
+hamachi 2

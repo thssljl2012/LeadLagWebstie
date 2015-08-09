@@ -1,0 +1,13 @@
+fannie 2
+freddie 2
+bloomberg 1
+barclays 1
+fanniemae 1
+freddiemac 2
+lehmanbrothersholdingsinc 1
+intercontinental 1
+gaincapital 1
+mclean 1
+tempusconsulting 1
+bankofamericacorp 1
+bloombergnews 1

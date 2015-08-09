@@ -1,0 +1,10 @@
+insurance 2
+work 1
+call 2
+nationwide 1
+talking 1
+ill 1
+tip 1
+afraid 1
+agent 2
+allstate 2

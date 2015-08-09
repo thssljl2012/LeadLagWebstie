@@ -1,0 +1,15 @@
+cards 1
+bank 1
+rose 1
+credit 1
+australia 1
+figures 1
+show 1
+money 1
+september 1
+cent 1
+reserve 1
+amount 1
+charge 1
+rba 1
+racked 1

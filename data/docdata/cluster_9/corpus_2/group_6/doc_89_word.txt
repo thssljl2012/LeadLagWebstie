@@ -1,0 +1,10 @@
+show 1
+money 1
+thing 1
+world 1
+happen 1
+brothers 2
+pray 1
+bless 1
+praying 1
+sisters 2

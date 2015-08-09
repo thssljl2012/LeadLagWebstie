@@ -1,0 +1,16 @@
+time 1
+corporation 1
+insurance 1
+aig 1
+company 1
+posted 2
+industry 1
+research 1
+worked 1
+engineer 1
+originally 2
+employer 1
+epic 1
+rover 1
+pall 1
+matts 2

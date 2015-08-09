@@ -1,0 +1,16 @@
+close 1
+bank 1
+america 1
+bad 1
+thread 1
+asked 1
+question 1
+savings 1
+luck 1
+answered 1
+boa 1
+checking 1
+searched 1
+mouthing 1
+mods 1
+accts 1

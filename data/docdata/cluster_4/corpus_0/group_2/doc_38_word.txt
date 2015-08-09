@@ -1,0 +1,15 @@
+show 1
+rights 1
+website 1
+barclays 1
+action 1
+link 1
+football 1
+exclusive 1
+catch 1
+highlights 1
+premier 1
+league 2
+czech 1
+serie 1
+topflight 1

@@ -1,0 +1,15 @@
+close 1
+bank 2
+america 1
+york 1
+federal 1
+largest 1
+reuters 1
+wednesday 1
+billions 1
+dollars 1
+support 1
+matter 1
+person 1
+familiar 1
+taxpayers 1

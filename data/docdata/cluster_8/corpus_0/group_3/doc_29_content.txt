@@ -1,0 +1,1 @@
+Harvard University professor Ben Edelman charges Google is making millions off of typo URLs, domain names of trademarked brands that are off by one letter. The real sore spot here is that the owners of those brands buy them as key words, so if you type in BankofDAmerica.com, one of the AdSense ads that flies is for the real Bank of America. So nice when you pay twice.

@@ -1,0 +1,16 @@
+credit 1
+firms 1
+reuters 1
+ago 1
+john 2
+practices 1
+card 1
+washington 1
+obama 1
+mins 1
+fee 1
+hr 1
+prod 1
+poirier 2
+caren 2
+bohan 2

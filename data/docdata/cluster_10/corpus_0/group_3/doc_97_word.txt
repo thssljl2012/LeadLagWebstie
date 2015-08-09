@@ -1,0 +1,14 @@
+time 1
+bank 2
+consumer 1
+america 1
+credit 1
+largest 1
+money 1
+lost 1
+corp 2
+january 1
+purchase 1
+card 1
+unit 1
+mbna 1

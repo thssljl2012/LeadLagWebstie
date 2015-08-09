@@ -1,0 +1,13 @@
+bank 1
+finance 1
+total 6
+barclays 1
+equity 2
+morgan 1
+stanley 1
+deutsche 1
+google 1
+liabilities 3
+leverage 3
+deleveraging 1
+lverage 1

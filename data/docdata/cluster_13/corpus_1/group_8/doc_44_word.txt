@@ -1,0 +1,13 @@
+lower 2
+east 1
+official 6
+authority 1
+hanover 1
+hill 1
+allen 1
+site 6
+fountain 1
+bethlehem 1
+township 4
+hellertown 1
+saucon 2

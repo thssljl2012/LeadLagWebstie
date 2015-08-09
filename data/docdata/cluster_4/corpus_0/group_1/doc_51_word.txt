@@ -1,0 +1,13 @@
+big 1
+kind 1
+expect 1
+companies 1
+economies 1
+rates 1
+offered 1
+online 1
+assumed 1
+service 1
+scale 1
+talk 1
+window 1

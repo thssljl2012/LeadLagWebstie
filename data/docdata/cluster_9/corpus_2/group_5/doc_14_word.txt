@@ -1,0 +1,11 @@
+bank 2
+america 2
+posted 2
+channel 3
+weather 3
+originally 1
+links 1
+mobile 1
+youtube 2
+crackberry 1
+launchers 1

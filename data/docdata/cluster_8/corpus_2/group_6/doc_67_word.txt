@@ -1,0 +1,12 @@
+rate 2
+bank 1
+posted 1
+offer 1
+option 1
+interest 2
+changed 1
+originally 1
+citibank 1
+agent 1
+dude 1
+downpayment 1

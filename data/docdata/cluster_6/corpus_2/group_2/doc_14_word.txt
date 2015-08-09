@@ -1,0 +1,15 @@
+city 1
+day 1
+points 2
+money 1
+losing 1
+bets 1
+predictions 1
+clear 1
+man 1
+beating 1
+chelsea 1
+steering 1
+wigan 1
+derby 2
+portsmouth 1

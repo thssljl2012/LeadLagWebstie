@@ -1,0 +1,13 @@
+scores 1
+good 1
+plays 1
+word 1
+ash 1
+restraint 1
+mash 1
+tamim 1
+mehrab 1
+alok 1
+sakib 1
+rokib 1
+dhiman 1

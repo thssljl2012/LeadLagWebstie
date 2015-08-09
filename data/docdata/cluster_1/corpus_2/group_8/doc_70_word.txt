@@ -1,0 +1,10 @@
+insurance 1
+aig 2
+paulson 1
+highest 1
+billion 1
+details 1
+forced 1
+paid 1
+bailout 1
+gs 1

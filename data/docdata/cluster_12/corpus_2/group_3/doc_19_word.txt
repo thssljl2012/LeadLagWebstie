@@ -1,0 +1,13 @@
+insurance 1
+works 1
+half 1
+cut 1
+nationwide 2
+reduce 1
+track 1
+mutual 1
+software 1
+count 2
+boxes 1
+server 3
+virtualization 2

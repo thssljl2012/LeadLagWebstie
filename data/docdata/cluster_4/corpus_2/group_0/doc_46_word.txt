@@ -1,0 +1,17 @@
+insurance 2
+company 1
+contact 1
+state 2
+living 1
+give 1
+regulations 1
+claim 1
+absolute 1
+posting 1
+laws 1
+commission 1
+room 1
+chat 1
+insured 1
+advice 1
+neighbor 1

@@ -1,0 +1,16 @@
+banks 1
+end 1
+shares 1
+negative 1
+stock 2
+head 1
+lead 1
+financials 1
+citi 1
+status 1
+penny 2
+citibank 1
+underway 1
+atthe 1
+countdown 1
+usathe 1

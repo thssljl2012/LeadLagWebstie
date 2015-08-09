@@ -1,0 +1,14 @@
+banks 1
+paper 2
+lost 2
+buy 1
+made 1
+dbs 1
+uob 1
+luck 1
+citibank 1
+boa 1
+drain 1
+lucky 1
+sgd 1
+nccb 1

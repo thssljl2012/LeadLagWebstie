@@ -1,0 +1,15 @@
+points 1
+head 1
+bottom 1
+barclays 1
+players 1
+table 1
+premier 1
+jonathan 1
+games 1
+league 1
+insists 1
+coach 1
+tottenham 1
+juande 1
+woodgate 1

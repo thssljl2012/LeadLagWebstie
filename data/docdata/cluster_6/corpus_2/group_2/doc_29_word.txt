@@ -1,0 +1,14 @@
+city 3
+thursday 1
+hull 1
+quote 1
+chelsea 1
+liverpool 1
+manchester 1
+cup 1
+stoke 1
+tottenham 1
+aston 1
+portsmouth 1
+villa 1
+uefa 1

@@ -1,0 +1,16 @@
+job 1
+good 1
+money 2
+spending 1
+called 1
+tells 1
+health 1
+care 1
+lose 1
+obama 1
+wait 1
+wake 1
+tarp 1
+freedom 1
+til 1
+sux 1

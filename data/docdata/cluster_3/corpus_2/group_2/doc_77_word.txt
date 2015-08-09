@@ -1,0 +1,12 @@
+bank 1
+barclays 1
+lose 1
+conclusion 1
+sale 1
+man 1
+gamble 1
+dominion 1
+hoping 1
+wamu 1
+afford 1
+foregone 1

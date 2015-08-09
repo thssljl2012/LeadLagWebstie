@@ -1,0 +1,17 @@
+time 1
+price 1
+gold 1
+banking 1
+work 1
+pm 1
+make 1
+quote 1
+cba 1
+prefer 1
+nov 1
+profile 1
+thu 1
+vouches 1
+exp 1
+ores 1
+powermining 1

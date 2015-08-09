@@ -1,0 +1,11 @@
+day 1
+treasury 1
+worth 1
+read 1
+call 1
+moved 1
+decided 1
+resisted 1
+suggestion 1
+fuss 1
+geitner 1

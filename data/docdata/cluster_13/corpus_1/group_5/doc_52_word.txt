@@ -1,0 +1,17 @@
+insurance 1
+stock 1
+finance 2
+home 2
+document 2
+longer 1
+options 1
+message 1
+center 2
+loan 1
+yahoo 1
+expired 1
+boards 1
+page 2
+requested 1
+chat 1
+clubs 1

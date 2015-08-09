@@ -1,0 +1,12 @@
+insurance 2
+aig 1
+pm 1
+provide 1
+event 1
+dig 1
+google 1
+mar 1
+unfortunate 1
+older 1
+lazy 1
+tat 1

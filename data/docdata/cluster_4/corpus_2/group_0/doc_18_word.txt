@@ -1,0 +1,17 @@
+banks 1
+local 1
+good 1
+back 1
+rates 1
+london 1
+barclays 1
+halifax 1
+staff 1
+thought 1
+hsbc 1
+shops 1
+absolutely 1
+mystery 1
+tho 1
+banked 1
+biased 1

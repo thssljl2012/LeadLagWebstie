@@ -1,0 +1,15 @@
+bank 1
+citigroup 1
+america 1
+general 1
+headline 1
+asked 1
+bailout 1
+jackson 2
+jesse 2
+wondered 1
+recipients 1
+donations 1
+investigate 1
+fundraiser 1
+inspector 1

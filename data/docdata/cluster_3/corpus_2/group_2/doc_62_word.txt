@@ -1,0 +1,11 @@
+times 1
+talks 2
+board 1
+lehman 2
+barclays 2
+headline 1
+message 1
+ny 1
+walked 2
+posts 1
+bak 1

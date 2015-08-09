@@ -1,0 +1,10 @@
+banks 1
+finished 1
+billion 2
+planning 1
+huge 1
+means 1
+size 2
+medium 1
+loan 1
+fdic 1

@@ -1,0 +1,16 @@
+major 1
+financial 1
+weeks 1
+barclays 1
+morgan 1
+stanley 1
+fortis 1
+calamity 1
+calling 1
+rbc 1
+type 2
+wsj 1
+glen 1
+beck 1
+btt 1
+hennecke 1

@@ -1,0 +1,15 @@
+banks 1
+shares 1
+add 1
+daily 1
+money 1
+barclays 1
+cent 1
+made 1
+risen 1
+clear 1
+hsbc 1
+rbs 1
+opens 1
+crazy 1
+pfd 2

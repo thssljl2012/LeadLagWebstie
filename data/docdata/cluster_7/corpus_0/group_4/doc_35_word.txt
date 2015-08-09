@@ -1,0 +1,16 @@
+biggest 1
+rate 1
+bank 1
+local 1
+home 1
+australia 1
+find 1
+days 1
+cut 1
+lenders 1
+reserve 1
+interest 1
+passed 1
+loan 1
+wait 1
+holders 1

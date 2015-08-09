@@ -1,0 +1,10 @@
+cards 2
+numbers 1
+barclays 1
+raised 1
+written 2
+children 1
+info 1
+electron 1
+thier 1
+doesn 1

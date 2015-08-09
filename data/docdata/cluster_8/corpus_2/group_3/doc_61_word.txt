@@ -1,0 +1,16 @@
+turn 1
+mortgage 3
+position 1
+wanted 1
+money 1
+make 1
+case 1
+barclays 1
+account 1
+theory 1
+im 1
+offset 1
+debt 1
+offsetting 1
+savings 1
+simular 1

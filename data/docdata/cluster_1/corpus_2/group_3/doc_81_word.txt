@@ -1,0 +1,13 @@
+banks 1
+investment 1
+resort 1
+goldman 1
+sachs 1
+berkshire 1
+hathaway 1
+bailed 1
+necessarily 1
+basically 1
+reinsurer 1
+bluest 1
+blueblood 1

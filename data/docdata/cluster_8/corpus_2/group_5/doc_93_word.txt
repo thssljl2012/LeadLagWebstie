@@ -1,0 +1,14 @@
+cards 4
+bank 1
+visa 2
+credit 7
+money 1
+bad 6
+people 1
+poor 1
+limit 1
+score 1
+card 3
+offers 1
+nice 1
+transfer 1

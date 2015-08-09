@@ -1,0 +1,15 @@
+plan 1
+insurance 1
+year 1
+good 1
+make 1
+coverage 1
+full 1
+month 3
+asked 1
+true 1
+fire 1
+liability 1
+bike 2
+theft 1
+sounding 1

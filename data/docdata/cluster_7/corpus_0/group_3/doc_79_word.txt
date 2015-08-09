@@ -1,0 +1,14 @@
+bank 1
+finance 1
+reuters 1
+minister 1
+board 1
+barclays 1
+equity 1
+proposal 1
+swap 1
+receive 1
+moscow 1
+oct 1
+vtb 1
+alexei 1

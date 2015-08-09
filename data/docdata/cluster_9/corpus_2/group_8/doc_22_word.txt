@@ -1,0 +1,15 @@
+banks 1
+bank 1
+america 1
+citizens 1
+planning 1
+checked 1
+vendors 1
+wedding 1
+dates 1
+ct 1
+bio 2
+shopped 1
+married 2
+templates 1
+rec 1

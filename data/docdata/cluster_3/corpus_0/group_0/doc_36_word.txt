@@ -1,0 +1,16 @@
+biggest 1
+bank 2
+national 1
+banking 2
+holding 1
+australia 2
+zealand 1
+talks 1
+royal 1
+investment 1
+buy 1
+wholesale 1
+assets 1
+businesses 1
+abn 1
+amro 1

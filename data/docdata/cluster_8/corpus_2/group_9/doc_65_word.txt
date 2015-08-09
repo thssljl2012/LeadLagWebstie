@@ -1,0 +1,17 @@
+banks 2
+bank 1
+america 1
+order 1
+government 2
+completely 1
+money 2
+half 1
+make 1
+territory 1
+forced 1
+support 1
+dangerous 1
+forcing 1
+acquisitions 1
+failing 1
+tanking 1

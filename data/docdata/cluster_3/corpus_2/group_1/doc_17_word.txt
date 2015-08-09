@@ -1,0 +1,16 @@
+cards 1
+funds 1
+insurance 1
+aig 1
+finance 1
+company 1
+good 1
+moment 1
+place 1
+play 1
+tough 1
+opportunities 1
+section 1
+mkt 1
+stockbroker 1
+goodbody 1

@@ -1,0 +1,14 @@
+cards 1
+good 1
+red 1
+fact 1
+leave 1
+score 1
+table 1
+draw 2
+equally 1
+handed 1
+league 1
+dislike 1
+clubs 1
+elated 1

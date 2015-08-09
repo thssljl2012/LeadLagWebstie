@@ -1,0 +1,11 @@
+visa 1
+bill 1
+advantage 1
+airlines 1
+tied 1
+american 1
+card 2
+guess 1
+citibank 1
+charging 1
+notice 1

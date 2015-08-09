@@ -1,0 +1,13 @@
+bank 1
+local 1
+anz 1
+mine 1
+philippines 1
+action 1
+environment 1
+aid 1
+organisation 1
+financed 1
+failing 1
+devastated 1
+criticised 1

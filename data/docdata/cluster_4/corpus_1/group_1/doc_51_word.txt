@@ -1,0 +1,10 @@
+cash 1
+barclays 1
+easy 1
+la 1
+charge 1
+spain 1
+cheques 1
+atm 1
+travellers 1
+pineda 1

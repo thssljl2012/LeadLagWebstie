@@ -1,0 +1,14 @@
+banking 1
+plans 1
+move 1
+developments 1
+barclays 1
+union 1
+commercial 1
+confirmed 1
+office 1
+operation 1
+plaza 1
+aberdeen 1
+prestigious 1
+beefed 1

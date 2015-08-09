@@ -1,0 +1,14 @@
+bank 1
+america 1
+dollar 1
+good 1
+thinks 2
+idea 1
+great 1
+bad 1
+definition 1
+obama 1
+corporations 1
+fault 1
+defense 1
+gator 2

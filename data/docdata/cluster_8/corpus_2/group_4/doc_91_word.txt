@@ -1,0 +1,14 @@
+time 1
+banks 1
+ready 1
+bank 1
+mortgages 1
+worth 1
+barclays 1
+abroad 1
+guys 1
+aussie 1
+checked 1
+checking 1
+posts 1
+jenny 1

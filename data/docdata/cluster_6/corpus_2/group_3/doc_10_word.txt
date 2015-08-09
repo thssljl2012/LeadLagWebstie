@@ -1,0 +1,10 @@
+director 1
+future 1
+manager 1
+sporting 1
+terry 1
+nuff 1
+venables 1
+gooner 1
+commoli 1
+sheringham 1

@@ -1,0 +1,14 @@
+stocks 1
+hit 1
+shares 1
+stock 1
+price 1
+worth 2
+entry 1
+share 2
+buy 1
+common 3
+depends 1
+preference 1
+flip 1
+preferential 1

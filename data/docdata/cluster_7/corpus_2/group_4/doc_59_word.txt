@@ -1,0 +1,13 @@
+hit 1
+mark 1
+long 1
+bit 1
+short 1
+term 2
+moves 1
+downward 1
+plummet 1
+logical 1
+consolidate 1
+pause 1
+resistence 1

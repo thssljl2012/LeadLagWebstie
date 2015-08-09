@@ -1,0 +1,11 @@
+trading 1
+cash 1
+pm 1
+thing 1
+allowed 1
+assets 1
+slim 1
+quote 1
+cba 1
+mar 1
+schwabby 1

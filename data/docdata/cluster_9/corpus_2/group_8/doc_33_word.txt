@@ -1,0 +1,16 @@
+bank 1
+price 1
+break 1
+rights 1
+fairly 1
+college 1
+cheap 1
+guys 1
+true 1
+cba 1
+collins 1
+expiring 1
+jennings 1
+sig 1
+lukes 1
+packman 1

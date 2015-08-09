@@ -1,0 +1,13 @@
+sector 1
+bank 2
+shares 1
+good 1
+early 1
+latest 1
+release 1
+barclays 1
+touch 1
+exposure 3
+ee 1
+conduits 1
+barc 1

@@ -1,0 +1,13 @@
+corporation 1
+shares 4
+global 1
+holdings 1
+position 1
+increased 1
+barclays 2
+change 1
+institutional 1
+description 1
+dendreon 1
+dndn 1
+inve 1

@@ -1,0 +1,16 @@
+market 1
+net 1
+today 1
+bank 1
+cash 2
+shares 1
+yield 1
+billion 2
+barclays 1
+moved 1
+cap 1
+pe 1
+deposit 1
+siesta 1
+anto 1
+pcf 1

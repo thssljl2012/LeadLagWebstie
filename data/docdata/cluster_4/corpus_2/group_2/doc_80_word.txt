@@ -1,0 +1,10 @@
+long 1
+years 2
+service 2
+leave 1
+man 1
+initially 1
+quote 1
+wanting 1
+didnt 1
+club 1

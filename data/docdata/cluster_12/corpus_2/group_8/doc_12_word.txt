@@ -1,0 +1,14 @@
+expand 1
+months 1
+east 1
+states 1
+people 1
+offer 1
+coast 1
+electronic 1
+customers 1
+bankers 1
+bankwest 1
+eastern 1
+manner 1
+wa 1

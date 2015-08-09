@@ -1,0 +1,14 @@
+bank 1
+america 1
+works 1
+area 1
+office 1
+park 1
+joining 1
+employed 1
+father 1
+sergeant 1
+baldwin 1
+raul 1
+duran 2
+chp 1

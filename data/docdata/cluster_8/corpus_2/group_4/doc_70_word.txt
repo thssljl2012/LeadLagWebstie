@@ -1,0 +1,13 @@
+costs 1
+day 1
+price 1
+holding 1
+posted 1
+rent 1
+week 1
+dumb 1
+understand 1
+neutral 1
+purchase 1
+originally 1
+blush 1

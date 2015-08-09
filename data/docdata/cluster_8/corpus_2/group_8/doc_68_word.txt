@@ -1,0 +1,17 @@
+time 1
+insurance 1
+company 1
+business 1
+completely 1
+cover 1
+thing 1
+sell 1
+buy 1
+change 1
+worry 1
+profitable 1
+policies 1
+clients 1
+unit 1
+belly 1
+qualms 1

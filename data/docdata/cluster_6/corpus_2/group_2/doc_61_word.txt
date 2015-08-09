@@ -1,0 +1,17 @@
+city 1
+points 1
+mr 2
+game 2
+tough 2
+win 1
+man 1
+beat 1
+driver 2
+draw 4
+everton 1
+chelsea 1
+liverpool 5
+wigan 1
+bus 2
+portsmouth 1
+bitters 1

@@ -1,0 +1,14 @@
+session 1
+close 1
+bank 1
+end 1
+index 1
+rose 1
+points 2
+ordinaries 1
+rio 1
+tinto 1
+advancing 1
+added 1
+commonwealth 1
+finish 1

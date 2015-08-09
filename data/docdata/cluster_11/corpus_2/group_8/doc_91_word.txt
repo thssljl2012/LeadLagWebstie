@@ -1,0 +1,11 @@
+banks 1
+compared 1
+good 1
+great 1
+bet 1
+shape 1
+couple 1
+aapl 1
+wfc 2
+friends 1
+execs 1

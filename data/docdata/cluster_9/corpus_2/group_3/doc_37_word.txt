@@ -1,0 +1,12 @@
+time 1
+types 1
+call 1
+stuff 1
+make 1
+people 2
+stick 1
+tend 1
+crazy 1
+situations 1
+movies 1
+smiling 1

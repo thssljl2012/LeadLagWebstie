@@ -1,0 +1,12 @@
+bank 1
+america 1
+seeking 1
+southern 1
+homes 1
+precious 1
+county 1
+residential 1
+planned 1
+site 1
+community 1
+foreclose 1

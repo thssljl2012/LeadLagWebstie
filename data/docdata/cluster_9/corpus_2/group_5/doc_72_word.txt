@@ -1,0 +1,11 @@
+bank 1
+long 1
+days 1
+nigeria 1
+give 1
+account 1
+address 1
+waiting 1
+email 1
+prince 1
+someplace 1

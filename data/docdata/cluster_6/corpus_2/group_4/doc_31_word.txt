@@ -1,0 +1,13 @@
+big 1
+money 1
+sell 2
+sale 1
+player 1
+players 1
+quote 1
+mil 2
+yakubu 1
+arteta 1
+yobo 1
+fifaleachy 1
+chelseaboi 1

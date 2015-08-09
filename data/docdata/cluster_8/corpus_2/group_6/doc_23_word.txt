@@ -1,0 +1,10 @@
+bank 1
+america 1
+merrill 1
+lynch 1
+put 1
+billions 2
+worse 1
+stinks 1
+aunt 1
+bloomers 1

@@ -1,0 +1,10 @@
+bank 1
+national 1
+america 1
+reports 1
+regulators 1
+reuters 1
+securities 1
+reached 1
+clients 1
+settlement 1

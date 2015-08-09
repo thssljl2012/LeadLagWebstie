@@ -1,0 +1,15 @@
+bank 1
+credit 4
+people 1
+current 1
+limit 1
+give 1
+account 1
+lloyds 2
+tsb 1
+heard 1
+shaky 1
+automatically 1
+lots 1
+excellent 1
+od 1

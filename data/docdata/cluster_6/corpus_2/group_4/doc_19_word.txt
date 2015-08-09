@@ -1,0 +1,16 @@
+fact 1
+back 2
+standing 2
+pushes 2
+rules 1
+player 1
+ignores 1
+liverpool 1
+penalty 1
+bolton 1
+ref 1
+blatantly 1
+defender 1
+keeper 1
+reina 1
+obstruction 1

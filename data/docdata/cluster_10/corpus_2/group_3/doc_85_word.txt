@@ -1,0 +1,11 @@
+trading 1
+stock 1
+company 1
+similar 2
+barclays 1
+form 1
+shell 1
+filed 1
+hava 1
+lnke 1
+ipsu 1

@@ -1,0 +1,14 @@
+coverage 1
+offered 1
+barclays 1
+option 1
+football 1
+difference 1
+sky 2
+watch 1
+premier 2
+cheapest 1
+league 2
+advise 1
+subscribing 1
+setanta 1

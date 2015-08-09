@@ -1,0 +1,16 @@
+bank 2
+national 1
+global 1
+banking 2
+australia 3
+zealand 1
+group 1
+melbourne 5
+sydney 3
+bhp 1
+billiton 1
+telstra 1
+westpac 1
+commonwealth 1
+coles 1
+woolworths 1

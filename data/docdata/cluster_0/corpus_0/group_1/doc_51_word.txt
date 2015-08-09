@@ -1,0 +1,17 @@
+bank 1
+bse 1
+income 1
+john 1
+ralph 1
+commonwealth 1
+poll 1
+kevin 2
+howard 1
+rudd 2
+wayne 2
+swan 2
+lee 1
+unicef 1
+norris 1
+disposable 1
+nielsen 1

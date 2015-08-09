@@ -1,0 +1,10 @@
+power 1
+put 1
+control 1
+groups 1
+minds 1
+conservatives 1
+pigs 1
+liberals 1
+fascist 1
+libertarians 1

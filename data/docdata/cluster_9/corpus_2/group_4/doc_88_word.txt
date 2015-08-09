@@ -1,0 +1,15 @@
+bank 1
+japan 1
+hard 1
+people 1
+barclays 1
+clients 1
+deal 1
+japanese 2
+workers 1
+heard 1
+person 1
+nice 1
+friends 2
+famous 1
+honest 1

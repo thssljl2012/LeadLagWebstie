@@ -1,0 +1,15 @@
+insurance 2
+aig 1
+life 1
+health 1
+carriers 1
+humana 1
+chose 1
+appointed 1
+rule 1
+golden 1
+curious 1
+aetna 1
+ga 1
+assurant 1
+bcbs 1

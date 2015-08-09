@@ -1,0 +1,12 @@
+bank 1
+america 1
+stock 1
+part 1
+back 1
+start 1
+response 1
+guys 1
+books 1
+mentioned 1
+info 1
+awesome 1

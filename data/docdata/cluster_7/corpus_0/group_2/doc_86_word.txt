@@ -1,0 +1,10 @@
+bank 3
+tokyo 1
+citigroup 1
+wachovia 1
+federal 1
+australia 1
+japan 2
+reserve 2
+naftemporiki 1
+tanshi 1

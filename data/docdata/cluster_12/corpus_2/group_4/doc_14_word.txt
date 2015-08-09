@@ -1,0 +1,14 @@
+economy 1
+stock 1
+capital 1
+rest 1
+countries 1
+barclays 1
+live 1
+owners 1
+needed 1
+floated 1
+qatar 1
+lse 1
+multitude 1
+globalised 1

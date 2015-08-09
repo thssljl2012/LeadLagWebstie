@@ -1,0 +1,16 @@
+fuel 1
+good 1
+finishing 1
+offer 1
+barclays 1
+halifax 1
+citi 2
+purchases 1
+shell 2
+amex 1
+reckon 1
+mastercard 2
+reverts 1
+mbna 1
+cback 1
+platunum 1

@@ -1,0 +1,13 @@
+bank 2
+america 1
+goldman 1
+citi 1
+morgan 1
+bear 2
+stearns 1
+theme 2
+stay 2
+jp 2
+slowly 2
+baby 1
+dresdner 1

@@ -1,0 +1,17 @@
+positive 1
+bank 1
+dow 1
+ftse 1
+futures 1
+back 1
+performance 1
+budget 1
+effect 1
+held 1
+fear 1
+yesterdays 1
+agm 1
+imo 1
+gb 1
+barc 1
+sudsiding 1

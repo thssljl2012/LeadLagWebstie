@@ -1,0 +1,13 @@
+lines 1
+buy 1
+barclays 1
+feel 1
+false 1
+question 1
+wait 1
+didnt 1
+boards 1
+illegal 1
+rumor 1
+complain 1
+shorty 1

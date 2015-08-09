@@ -1,0 +1,10 @@
+point 1
+won 1
+data 1
+bit 1
+reason 1
+spain 1
+reinforce 1
+consistency 1
+cech 1
+reina 1

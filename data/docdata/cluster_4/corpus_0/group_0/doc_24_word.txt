@@ -1,0 +1,17 @@
+bank 1
+america 1
+wednesday 1
+police 2
+arrested 1
+jose 2
+san 2
+rock 1
+man 1
+suspected 1
+customer 1
+avenue 1
+rob 1
+unsuccessfully 1
+attempting 1
+alum 1
+stabbing 1

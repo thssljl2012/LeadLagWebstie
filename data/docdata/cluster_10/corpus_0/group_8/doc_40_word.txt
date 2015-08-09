@@ -1,0 +1,14 @@
+wall 1
+street 1
+bank 1
+america 1
+merrill 1
+lynch 1
+global 1
+reported 1
+corp 1
+division 1
+unit 1
+bac 1
+journal 1
+combining 1

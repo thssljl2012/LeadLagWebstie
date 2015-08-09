@@ -1,0 +1,13 @@
+posted 1
+pay 1
+barclays 1
+balance 2
+purchases 2
+interest 1
+paid 1
+wont 1
+originally 1
+card 1
+transfer 3
+barclaycard 1
+rebelius 1

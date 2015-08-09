@@ -1,0 +1,13 @@
+time 1
+visa 2
+weeks 1
+back 1
+days 1
+chase 1
+april 1
+charge 1
+citibank 1
+fee 3
+charged 2
+conversion 1
+aruba 1

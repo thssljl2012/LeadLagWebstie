@@ -1,0 +1,16 @@
+policy 1
+rate 3
+bank 3
+announced 1
+explain 1
+case 1
+committee 1
+drops 1
+monetary 1
+england 1
+situation 1
+follow 1
+base 2
+boe 1
+obliged 1
+teh 1

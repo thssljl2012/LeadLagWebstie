@@ -1,0 +1,10 @@
+bank 3
+cash 1
+weeks 1
+total 1
+months 1
+canadian 1
+held 1
+check 2
+shit 1
+wsex 1

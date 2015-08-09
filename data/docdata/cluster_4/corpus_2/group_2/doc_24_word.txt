@@ -1,0 +1,14 @@
+read 1
+talk 1
+depends 1
+manager 1
+players 1
+club 1
+chelsea 1
+assistant 1
+coach 1
+clarke 1
+squad 1
+labyrinth 1
+chelseas 1
+stepup 1

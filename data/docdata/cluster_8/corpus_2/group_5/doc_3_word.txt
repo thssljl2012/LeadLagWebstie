@@ -1,0 +1,12 @@
+credit 1
+late 1
+half 1
+cut 1
+line 1
+payment 1
+experience 1
+chase 1
+trouble 1
+citibank 1
+cs 1
+chases 1

@@ -1,0 +1,14 @@
+rally 1
+stocks 1
+energy 1
+gold 1
+late 1
+position 1
+long 1
+bit 1
+buy 2
+cheaper 1
+buying 1
+slowly 1
+shorting 1
+dips 1

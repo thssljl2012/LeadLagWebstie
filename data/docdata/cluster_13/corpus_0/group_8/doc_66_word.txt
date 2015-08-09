@@ -1,0 +1,12 @@
+bank 1
+consumer 1
+america 1
+present 1
+products 1
+arm 1
+manufacturer 1
+scheduled 1
+hammer 1
+dwight 1
+specialty 1
+church 1

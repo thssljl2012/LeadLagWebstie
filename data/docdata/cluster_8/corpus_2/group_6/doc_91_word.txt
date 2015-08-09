@@ -1,0 +1,12 @@
+low 1
+consolidated 1
+government 1
+back 1
+rates 2
+loans 1
+minimum 1
+thought 1
+student 2
+loan 2
+citibank 1
+consolidate 1

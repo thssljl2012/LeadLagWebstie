@@ -1,0 +1,13 @@
+bank 2
+america 1
+account 1
+emergency 1
+usa 1
+status 1
+medical 1
+kansas 1
+citizen 1
+immigration 1
+trent 1
+technician 1
+rosenberger 1

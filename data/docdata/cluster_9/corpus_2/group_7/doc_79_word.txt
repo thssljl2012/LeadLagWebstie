@@ -1,0 +1,14 @@
+gained 1
+good 1
+read 1
+management 1
+mill 2
+loop 1
+hole 1
+exposed 1
+space 1
+cba 1
+cap 1
+lookin 1
+vikings 1
+whizzes 1

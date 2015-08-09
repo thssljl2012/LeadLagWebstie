@@ -1,0 +1,10 @@
+banks 1
+seeking 1
+benchmark 1
+capital 2
+make 1
+satisfy 1
+barclays 1
+state 1
+owned 1
+russian 1

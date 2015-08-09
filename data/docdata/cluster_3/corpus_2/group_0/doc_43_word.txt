@@ -1,0 +1,12 @@
+shares 2
+investors 1
+global 1
+holdings 1
+added 1
+current 1
+board 1
+barclays 1
+uk 1
+message 1
+posts 1
+rmbs 2

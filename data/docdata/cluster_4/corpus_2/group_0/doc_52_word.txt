@@ -1,0 +1,16 @@
+european 2
+time 1
+open 1
+channel 2
+data 1
+barclays 2
+date 1
+event 1
+sat 2
+type 1
+scottish 2
+pos 1
+etp 1
+tour 2
+intelsat 1
+maiin 1

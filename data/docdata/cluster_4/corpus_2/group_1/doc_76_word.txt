@@ -1,0 +1,13 @@
+bank 1
+great 1
+service 1
+account 2
+dont 1
+student 1
+lloyds 2
+tsb 1
+normal 1
+wanting 1
+alliance 1
+leicester 1
+natwest 1

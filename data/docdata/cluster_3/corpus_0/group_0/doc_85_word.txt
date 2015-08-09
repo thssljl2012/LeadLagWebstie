@@ -1,0 +1,13 @@
+bank 2
+america 2
+july 1
+part 1
+june 1
+lender 1
+pm 1
+topic 1
+gmt 1
+wholesale 3
+countrywide 3
+jul 1
+wed 1

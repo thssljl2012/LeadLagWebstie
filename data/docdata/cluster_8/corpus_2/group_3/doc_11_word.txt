@@ -1,0 +1,10 @@
+insurance 1
+mark 1
+past 1
+country 1
+nationwide 1
+summer 1
+feel 1
+live 1
+true 1
+kroger 1

@@ -1,0 +1,17 @@
+mortgage 1
+insurance 1
+company 1
+default 1
+cover 1
+losses 2
+words 1
+wrote 1
+division 1
+debt 1
+writing 1
+derivatives 1
+obligations 1
+defaults 1
+checks 2
+junk 1
+collateralized 1

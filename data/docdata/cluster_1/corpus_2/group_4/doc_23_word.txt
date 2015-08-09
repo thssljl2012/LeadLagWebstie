@@ -1,0 +1,10 @@
+insurance 1
+aig 1
+company 1
+money 1
+resorts 1
+tax 1
+spend 1
+received 1
+payers 1
+luxurious 1

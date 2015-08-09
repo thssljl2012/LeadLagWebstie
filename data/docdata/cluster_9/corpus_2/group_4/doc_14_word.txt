@@ -1,0 +1,16 @@
+city 1
+point 1
+year 1
+companies 1
+full 1
+clean 1
+barclays 1
+projects 1
+council 1
+prove 1
+urges 1
+page 1
+summary 1
+buildings 1
+wash 1
+skyscrapercity 1

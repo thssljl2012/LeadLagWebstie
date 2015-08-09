@@ -1,0 +1,13 @@
+bank 1
+america 1
+mixed 1
+give 1
+click 1
+bag 1
+ford 1
+du 1
+filled 1
+donate 1
+harold 1
+hearts 1
+valentine 1

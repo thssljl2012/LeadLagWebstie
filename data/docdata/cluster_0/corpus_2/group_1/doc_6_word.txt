@@ -1,0 +1,17 @@
+rate 1
+bank 1
+monday 1
+federal 1
+deposits 1
+offer 1
+thursday 1
+term 1
+drops 1
+passing 1
+interest 1
+concerned 1
+cba 1
+rba 1
+treasurer 1
+advertised 1
+visited 1

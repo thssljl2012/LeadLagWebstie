@@ -1,0 +1,13 @@
+city 1
+united 1
+money 1
+spending 1
+stupid 1
+plays 1
+amounts 1
+players 1
+quote 2
+chelsea 2
+fan 1
+unfair 1
+murder 1

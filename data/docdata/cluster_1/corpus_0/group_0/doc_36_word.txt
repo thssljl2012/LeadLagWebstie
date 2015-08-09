@@ -1,0 +1,14 @@
+insurance 8
+cover 2
+vehicle 2
+network 2
+uk 4
+recovery 2
+breakdown 4
+specialist 2
+car 4
+motor 2
+assistance 4
+nationwideexclusive 2
+roadside 2
+insuretec 2

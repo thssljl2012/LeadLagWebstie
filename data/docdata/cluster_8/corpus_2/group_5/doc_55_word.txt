@@ -1,0 +1,10 @@
+market 3
+biggest 1
+insurance 1
+aig 1
+company 1
+thinks 2
+world 1
+comparing 1
+pos 1
+rcch 2

@@ -1,0 +1,15 @@
+asian 1
+bank 1
+friday 1
+insurance 1
+aig 1
+group 1
+china 1
+international 1
+beijing 1
+bid 1
+strategy 1
+american 1
+unit 1
+boc 2
+conform 1

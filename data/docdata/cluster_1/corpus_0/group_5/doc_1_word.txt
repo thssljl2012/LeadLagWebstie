@@ -1,0 +1,14 @@
+insurance 1
+giant 1
+approved 2
+group 1
+week 1
+million 1
+international 1
+american 1
+executives 1
+delaware 1
+settlement 2
+judge 1
+shareholder 1
+lawsuit 1

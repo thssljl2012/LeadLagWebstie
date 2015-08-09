@@ -1,0 +1,10 @@
+big 1
+funds 1
+statement 1
+term 1
+made 1
+amount 1
+injected 1
+apply 1
+lewis 1
+boa 2

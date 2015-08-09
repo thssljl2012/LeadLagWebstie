@@ -1,0 +1,16 @@
+shipping 1
+view 1
+cost 1
+payment 1
+artist 1
+russian 1
+email 2
+original 1
+ups 1
+painting 1
+igor 1
+cashier 1
+impressionist 1
+barhatkov 1
+alertpay 1
+inchi 1

@@ -1,0 +1,13 @@
+governor 1
+bank 1
+america 1
+chicago 1
+factory 1
+state 1
+illinois 1
+lose 1
+workers 1
+fees 1
+fails 1
+commissions 1
+occupying 1

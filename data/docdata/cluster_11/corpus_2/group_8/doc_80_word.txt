@@ -1,0 +1,13 @@
+city 1
+bank 3
+national 1
+stocks 1
+citigroup 1
+america 1
+board 1
+buy 1
+message 1
+charge 1
+atm 1
+posts 1
+bqi 1

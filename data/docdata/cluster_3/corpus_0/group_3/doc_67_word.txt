@@ -1,0 +1,15 @@
+bank 1
+mortgage 1
+remained 1
+reuters 1
+report 1
+london 1
+lloyds 1
+tsb 1
+hbos 1
+takeover 1
+deal 1
+provider 1
+sunday 1
+collapsed 1
+rejecting 1

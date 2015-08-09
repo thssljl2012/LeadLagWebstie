@@ -1,0 +1,12 @@
+bank 1
+america 1
+era 1
+dead 1
+saturday 1
+night 1
+concert 1
+pavilion 1
+shiny 1
+donna 1
+fashions 1
+sequiny 1

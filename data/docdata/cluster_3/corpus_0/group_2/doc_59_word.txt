@@ -1,0 +1,10 @@
+bank 1
+america 1
+merrill 1
+lynch 1
+lehman 2
+goldman 1
+morgan 1
+stanley 1
+sachs 1
+brothers 1

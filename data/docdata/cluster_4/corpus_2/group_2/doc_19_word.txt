@@ -1,0 +1,13 @@
+expect 1
+paper 1
+good 1
+important 1
+thing 1
+run 1
+easy 1
+hope 1
+weekend 1
+games 1
+chelsea 1
+deco 1
+carvalho 1

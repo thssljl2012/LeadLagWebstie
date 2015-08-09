@@ -1,0 +1,15 @@
+rate 1
+time 1
+bank 1
+america 1
+percent 1
+senior 1
+paying 1
+payments 1
+month 1
+interest 1
+making 2
+trouble 1
+headway 1
+borrowed 1
+advice 1

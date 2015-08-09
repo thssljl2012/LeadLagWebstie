@@ -1,0 +1,14 @@
+policy 1
+rate 3
+bank 4
+announced 1
+committee 1
+barclays 2
+monetary 1
+month 1
+england 1
+check 1
+base 3
+site 1
+woolwich 1
+foreversummer 1

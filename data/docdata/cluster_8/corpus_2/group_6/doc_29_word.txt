@@ -1,0 +1,12 @@
+times 1
+agree 1
+find 1
+cost 1
+thing 1
+cut 1
+buy 1
+citi 2
+buying 1
+save 1
+jobs 1
+plane 2

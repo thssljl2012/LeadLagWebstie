@@ -1,0 +1,13 @@
+year 1
+top 1
+read 1
+declined 1
+manufacturer 1
+union 1
+auto 3
+executives 1
+man 1
+gm 1
+unions 1
+bonus 2
+samething 1

@@ -1,0 +1,12 @@
+make 1
+hope 1
+leaving 2
+harry 1
+yeah 1
+quote 1
+regret 2
+games 1
+arsenal 1
+tottenham 1
+pompey 2
+thrash 1

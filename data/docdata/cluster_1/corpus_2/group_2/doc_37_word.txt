@@ -1,0 +1,15 @@
+major 1
+financial 1
+banks 3
+insurance 1
+aig 5
+government 2
+disaster 1
+money 2
+people 1
+lot 1
+means 1
+puts 1
+bankrupt 2
+desperately 1
+unreal 1

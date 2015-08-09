@@ -1,0 +1,11 @@
+drop 1
+inventory 1
+dec 1
+clue 1
+yeah 1
+quote 1
+cba 1
+wed 1
+lvl 1
+ankous 1
+scrolls 1

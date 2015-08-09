@@ -1,0 +1,14 @@
+morning 1
+expect 1
+today 1
+banks 1
+rebound 1
+good 1
+huge 1
+performance 1
+barclays 1
+uk 1
+spike 1
+lloyds 1
+hbos 1
+rbs 1

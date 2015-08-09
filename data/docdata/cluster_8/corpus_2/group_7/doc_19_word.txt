@@ -1,0 +1,12 @@
+funds 1
+year 1
+hard 1
+paying 1
+happy 1
+screwed 1
+citibank 1
+brother 1
+metlife 1
+aim 1
+husband 1
+fidelity 1

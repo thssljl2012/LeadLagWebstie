@@ -1,0 +1,12 @@
+bank 1
+america 1
+accounts 1
+steal 1
+customer 1
+grand 1
+jury 1
+employee 1
+indicted 1
+conspiring 1
+accusing 1
+seattle 1

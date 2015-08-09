@@ -1,0 +1,14 @@
+cash 1
+gold 1
+write 1
+tomorrow 1
+quote 1
+cba 1
+ticket 1
+jack 1
+fri 1
+beer 1
+apr 1
+aswell 1
+ingame 1
+graczjeden 1

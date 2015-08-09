@@ -1,0 +1,11 @@
+european 1
+mine 1
+cover 1
+pay 1
+full 1
+current 1
+barclays 1
+things 1
+membership 1
+rac 1
+incl 1

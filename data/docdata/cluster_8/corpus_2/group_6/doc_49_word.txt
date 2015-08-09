@@ -1,0 +1,11 @@
+bank 2
+sending 1
+good 2
+nations 1
+read 1
+spanish 1
+account 1
+entire 1
+quit 1
+statements 1
+sunwest 1

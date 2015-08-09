@@ -1,0 +1,12 @@
+wall 1
+street 1
+results 1
+bank 1
+america 1
+earnings 1
+dropped 1
+quarter 1
+year 1
+percent 1
+ago 1
+expected 1

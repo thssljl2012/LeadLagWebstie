@@ -1,0 +1,12 @@
+insurance 1
+company 1
+wednesday 1
+retirement 1
+traded 1
+buy 1
+nationwide 2
+savings 1
+mutual 1
+publicly 1
+ohio 1
+columbus 1

@@ -1,0 +1,14 @@
+time 1
+write 1
+view 1
+code 1
+people 1
+im 1
+game 1
+pointed 1
+car 1
+pulls 1
+depends 1
+fat 1
+princess 1
+beta 1

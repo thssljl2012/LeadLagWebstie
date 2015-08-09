@@ -1,0 +1,12 @@
+home 1
+mine 1
+meet 1
+travel 1
+drive 1
+individual 1
+stay 1
+hours 1
+cba 1
+manchester 1
+fancy 1
+inn 1

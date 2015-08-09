@@ -1,0 +1,12 @@
+bank 1
+break 1
+make 1
+barclays 1
+account 1
+live 1
+lloyds 2
+tsb 1
+simply 1
+closest 1
+wouldnt 1
+dinner 1

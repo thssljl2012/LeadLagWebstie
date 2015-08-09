@@ -1,0 +1,16 @@
+markets 1
+cash 1
+insurance 2
+aig 1
+bond 1
+swaps 1
+plans 1
+money 1
+pay 1
+pension 1
+elections 1
+yields 1
+bailout 1
+holders 1
+injection 1
+untill 1

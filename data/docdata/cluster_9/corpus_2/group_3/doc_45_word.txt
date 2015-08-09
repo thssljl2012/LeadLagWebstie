@@ -1,0 +1,11 @@
+time 1
+check 2
+waste 1
+yeah 1
+cba 1
+scared 1
+appointment 1
+hate 1
+wanna 1
+dentist 1
+sodding 1

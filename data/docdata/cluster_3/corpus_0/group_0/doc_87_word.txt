@@ -1,0 +1,11 @@
+bank 2
+america 2
+year 2
+business 2
+performing 4
+nuts 4
+bac 2
+dog 2
+vonage 2
+lucent 2
+sheesh 2

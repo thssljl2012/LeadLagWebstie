@@ -1,0 +1,14 @@
+property 1
+tree 3
+pay 2
+told 1
+damage 2
+claim 1
+falls 1
+fault 1
+healthy 1
+neglected 1
+struck 1
+trees 1
+lightening 1
+inspector 1

@@ -1,0 +1,12 @@
+policy 1
+higher 1
+price 1
+explained 1
+cover 1
+cost 1
+purchase 1
+checked 1
+underwriter 1
+agent 1
+replacement 1
+sf 1

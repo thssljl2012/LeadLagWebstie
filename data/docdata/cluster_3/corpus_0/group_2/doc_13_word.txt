@@ -1,0 +1,13 @@
+bank 2
+citigroup 1
+america 1
+read 1
+deposits 1
+story 1
+digg 1
+sale 1
+chase 1
+americans 1
+jpmorgan 1
+hands 1
+concentrate 1

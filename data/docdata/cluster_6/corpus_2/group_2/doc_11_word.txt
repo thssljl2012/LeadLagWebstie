@@ -1,0 +1,16 @@
+channel 1
+lot 1
+barclays 1
+football 1
+play 1
+found 1
+soccer 2
+watching 2
+premier 1
+games 1
+fifa 1
+league 1
+panthers 1
+mp 1
+madden 1
+directv 1

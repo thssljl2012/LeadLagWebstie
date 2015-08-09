@@ -1,0 +1,13 @@
+expect 1
+small 1
+bank 1
+year 1
+money 1
+bad 1
+miss 1
+account 2
+amounts 1
+save 1
+saving 1
+lloyds 1
+tsb 1

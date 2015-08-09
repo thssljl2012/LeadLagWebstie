@@ -1,0 +1,11 @@
+read 1
+buy 1
+link 1
+extra 1
+rain 1
+cba 1
+lock 1
+hate 1
+parade 1
+bios 1
+tenner 1

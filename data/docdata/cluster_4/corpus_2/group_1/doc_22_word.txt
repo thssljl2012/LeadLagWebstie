@@ -1,0 +1,15 @@
+local 1
+year 1
+long 1
+offer 1
+barclays 3
+pick 3
+tim 1
+king 1
+pool 1
+man 1
+wins 3
+walks 1
+kim 1
+els 1
+furyk 1

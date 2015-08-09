@@ -1,0 +1,16 @@
+foreign 1
+company 1
+long 1
+traded 1
+board 1
+start 1
+bcs 1
+thread 1
+sharp 2
+happen 1
+message 1
+fnm 1
+bailout 1
+posts 1
+interviews 1
+phor 1

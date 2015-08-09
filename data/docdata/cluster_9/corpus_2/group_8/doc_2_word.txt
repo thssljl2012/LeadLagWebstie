@@ -1,0 +1,15 @@
+show 1
+add 1
+white 1
+fish 1
+remember 1
+removed 1
+click 1
+crop 1
+guess 1
+bits 1
+cba 2
+ball 1
+duck 1
+spoiler 1
+trophies 1

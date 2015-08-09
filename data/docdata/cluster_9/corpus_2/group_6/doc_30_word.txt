@@ -1,0 +1,14 @@
+main 1
+talk 1
+water 1
+im 1
+tomorrow 1
+ages 1
+tired 1
+cba 1
+burst 1
+appointment 1
+sue 1
+cancel 1
+psychiatrist 1
+cpn 1

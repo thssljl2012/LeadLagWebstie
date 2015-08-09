@@ -1,0 +1,10 @@
+bank 2
+explain 1
+basic 1
+contact 1
+fine 1
+barclays 1
+interest 1
+account 2
+freeze 1
+coop 1

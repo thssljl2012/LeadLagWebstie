@@ -1,0 +1,11 @@
+policy 1
+insurance 1
+aig 1
+shares 1
+stock 1
+years 1
+paying 1
+life 1
+bankrupt 1
+premiums 1
+worthless 1

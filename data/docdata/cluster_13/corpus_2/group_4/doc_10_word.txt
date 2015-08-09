@@ -1,0 +1,17 @@
+lines 1
+read 1
+code 1
+words 1
+line 1
+nick 1
+devices 1
+file 2
+script 1
+print 1
+succeed 1
+reads 1
+prints 1
+authenticated 3
+dwdm 1
+perl 1
+skydiving 1

@@ -1,0 +1,10 @@
+book 1
+increased 1
+dividend 2
+barclays 1
+change 1
+correctly 1
+lloyds 2
+recall 1
+leaf 1
+carcosa 1

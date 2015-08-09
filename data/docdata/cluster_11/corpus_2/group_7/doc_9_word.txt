@@ -1,0 +1,12 @@
+investors 1
+oil 1
+news 1
+industry 1
+heavily 1
+related 1
+investing 2
+american 1
+mind 1
+citibank 1
+naive 1
+faux 1

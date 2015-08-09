@@ -1,0 +1,15 @@
+bank 1
+aig 1
+citigroup 1
+america 1
+people 1
+goldman 1
+morgan 1
+sachs 1
+wells 1
+fargo 1
+gm 1
+jp 1
+forum 1
+bashing 1
+uaw 1

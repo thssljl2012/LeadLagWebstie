@@ -1,0 +1,14 @@
+big 1
+financial 1
+insurance 1
+company 1
+news 1
+days 1
+resort 1
+start 1
+assets 1
+block 1
+mountain 1
+dumping 1
+mess 1
+stowe 2

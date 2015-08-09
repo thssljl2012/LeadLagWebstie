@@ -1,0 +1,16 @@
+city 1
+turned 1
+cruz 1
+barclays 1
+bid 1
+thought 1
+confirmed 1
+rivals 1
+premier 1
+league 1
+manchester 1
+striker 1
+santa 1
+paraguay 1
+blackburn 1
+roque 1

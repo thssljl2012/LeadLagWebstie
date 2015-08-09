@@ -1,0 +1,16 @@
+thread 1
+fun 1
+dec 1
+quote 1
+cba 1
+sat 1
+night 1
+sitting 1
+door 1
+nights 1
+tis 1
+fuckin 1
+srs 1
+gnar 1
+arma 1
+bsns 1

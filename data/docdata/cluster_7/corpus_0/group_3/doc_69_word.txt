@@ -1,0 +1,12 @@
+bank 2
+finance 1
+australia 1
+deposits 1
+minister 1
+aware 1
+reserve 1
+guarantee 1
+rba 1
+discontent 1
+lindsay 1
+tanner 1

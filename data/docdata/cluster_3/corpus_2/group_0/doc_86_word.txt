@@ -1,0 +1,14 @@
+rate 1
+bank 1
+anz 1
+rises 1
+st 1
+westpac 1
+rates 1
+standard 1
+george 1
+variable 1
+cba 1
+queensland 1
+citibank 1
+btw 1

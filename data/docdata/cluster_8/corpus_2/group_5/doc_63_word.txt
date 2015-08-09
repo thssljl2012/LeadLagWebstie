@@ -1,0 +1,12 @@
+time 1
+rates 1
+raising 1
+paying 1
+limit 2
+debt 1
+card 1
+alot 1
+places 1
+def 1
+bc 1
+bs 1

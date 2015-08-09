@@ -1,0 +1,16 @@
+ahead 1
+rate 1
+bank 2
+day 1
+points 1
+home 1
+basis 1
+st 1
+expected 1
+rates 1
+cut 2
+george 1
+interest 1
+central 1
+loan 1
+fixed 1

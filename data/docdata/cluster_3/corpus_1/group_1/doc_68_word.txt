@@ -1,0 +1,16 @@
+july 1
+quarter 2
+group 1
+reported 1
+current 2
+estimate 6
+lloyds 1
+tsb 2
+abn 1
+ian 1
+eps 6
+room 1
+fy 4
+plcreport 1
+bpn 1
+sellresearch 1

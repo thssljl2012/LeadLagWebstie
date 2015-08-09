@@ -1,0 +1,13 @@
+city 1
+group 1
+rates 1
+pay 1
+ten 1
+barclays 1
+summer 1
+cent 1
+month 1
+cutting 2
+jobs 1
+pity 1
+contractor 1

@@ -1,0 +1,14 @@
+kind 1
+television 1
+east 1
+coast 1
+thought 2
+commercial 1
+typical 2
+reading 1
+possibly 1
+italian 1
+impression 1
+admittedly 1
+village 1
+circa 1

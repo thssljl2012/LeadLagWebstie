@@ -1,0 +1,11 @@
+trading 1
+friday 1
+citigroup 1
+stock 1
+price 2
+posted 1
+pay 1
+strike 1
+options 1
+bought 1
+originally 1

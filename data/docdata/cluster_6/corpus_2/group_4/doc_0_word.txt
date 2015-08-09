@@ -1,0 +1,10 @@
+lower 1
+push 1
+quality 1
+players 1
+championship 1
+yep 1
+dons 1
+leagues 1
+mk 1
+tosspot 1

@@ -1,0 +1,11 @@
+bank 1
+total 1
+royal 2
+real 1
+estate 1
+barclays 1
+scotland 1
+dutch 1
+shell 1
+hypo 1
+bb 1

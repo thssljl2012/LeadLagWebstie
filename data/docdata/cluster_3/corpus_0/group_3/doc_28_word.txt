@@ -1,0 +1,10 @@
+market 1
+bank 1
+open 1
+rumors 1
+tuned 1
+nationalized 1
+survivors 1
+nationalizations 1
+superbank 1
+guesses 1

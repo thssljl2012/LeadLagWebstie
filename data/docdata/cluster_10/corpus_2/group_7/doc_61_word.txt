@@ -1,0 +1,11 @@
+today 1
+aig 1
+dollar 1
+dropped 1
+st 1
+sale 1
+store 1
+aisle 1
+saturday 1
+beef 1
+soup 1

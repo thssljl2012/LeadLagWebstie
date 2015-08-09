@@ -1,0 +1,15 @@
+bank 1
+end 1
+hit 1
+hand 1
+st 1
+stupid 1
+george 1
+playing 1
+smile 1
+shaking 1
+forever 1
+annoying 1
+chick 1
+blonde 1
+someones 1

@@ -1,0 +1,13 @@
+cash 1
+shares 1
+single 1
+share 1
+contact 1
+sell 1
+buy 1
+barclays 1
+easy 1
+invest 1
+invested 1
+isa 2
+wrapper 1

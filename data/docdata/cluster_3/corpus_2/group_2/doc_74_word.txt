@@ -1,0 +1,14 @@
+foreign 1
+shares 2
+prices 1
+company 2
+share 1
+thinking 2
+research 1
+barclays 1
+question 1
+im 2
+buying 1
+interested 1
+deal 2
+ive 1
