@@ -1,1 +1,0 @@
-tried booting with the XP media in and runnign repair? if you can get to the recovery console you can use the &amp;#039;fixmbr &amp;#039; and &amp;#039;fixboot&amp;#039; commands, but i can&amp;#039;t remember the usage off the top of my head. will google it in a sec if you really cba...    if there is nothing especially desirable on the pc i&amp;#039;d just reformat.

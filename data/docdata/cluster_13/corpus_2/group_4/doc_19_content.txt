@@ -1,1 +1,0 @@
- Hi,      which buttons are you mean? Bottom CBA buttons? Or you are reffering to the toolbar on 5th touch UI?      Note that on S60 platform are buttons almost not used - check some UI document..      Br   STeN 

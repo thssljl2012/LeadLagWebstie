@@ -1,1 +1,0 @@
-The distractions were more creative than I was going to expect. Still needed a cut off to not trigger the event I just clicked and a visual loader for each event.       

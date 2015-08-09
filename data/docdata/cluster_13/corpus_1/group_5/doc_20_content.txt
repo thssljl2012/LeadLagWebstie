@@ -1,1 +1,0 @@
-Victims infected with new malware may have their financial login credentials sent to a web address in Russia.  If you have an account at Bank of America, Chase, Wachovia, PayPal or e-gold, you may be sharing your financial information with a host in Russia.  According to researchers at BitDefender's anti-virus research labs, a new threat - called Trojan.PWS.ChromeInject.A

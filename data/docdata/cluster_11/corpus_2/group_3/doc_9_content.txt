@@ -1,1 +1,0 @@
- Chase Bank         Aaa   Citi bank             Aa1   Barclays Bank      Aa1   Unicredit             Aa2   Intesa                Aa2   San Paolo            Aa2   BNL                    Aa2   Fineco                Aa3   Montepaschi        Aa3   Antonveneta         A1   Unibanca              A3 

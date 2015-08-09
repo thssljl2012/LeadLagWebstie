@@ -1,1 +1,0 @@
-I will be giving my Linq presentation tomorrow at the JAXDUG meeting. This presentation covers the basics of Linq for SQL. The meetings are held at building 500 at the Bank of America campus in Jacksonville. The meeting starts at 6:00 PM. 
