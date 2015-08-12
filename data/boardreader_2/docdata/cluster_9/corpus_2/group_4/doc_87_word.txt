@@ -1,0 +1,13 @@
+pay 2
+pick 1
+rules 1
+player 1
+check 1
+players 1
+salary 3
+cba 1
+happened 1
+team 1
+illegal 1
+philly 1
+minnesota 2

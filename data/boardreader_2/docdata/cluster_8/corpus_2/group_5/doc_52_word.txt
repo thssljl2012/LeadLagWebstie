@@ -1,0 +1,16 @@
+rate 1
+late 1
+pay 2
+raise 1
+miss 1
+balance 1
+payment 1
+life 1
+things 1
+opposed 1
+fixed 1
+posed 1
+shots 2
+min 1
+transfer 1
+candid 1

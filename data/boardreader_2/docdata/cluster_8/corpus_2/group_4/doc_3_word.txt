@@ -1,0 +1,14 @@
+cash 1
+open 1
+people 1
+barclays 1
+nationwide 1
+accounts 1
+account 2
+theory 1
+card 1
+heard 1
+branches 1
+natwest 1
+manzanilla 1
+cashminder 1

@@ -1,0 +1,12 @@
+banks 1
+insurance 1
+aig 2
+bill 1
+good 1
+top 1
+billion 3
+pay 1
+leg 1
+sound 1
+granted 1
+lord 1

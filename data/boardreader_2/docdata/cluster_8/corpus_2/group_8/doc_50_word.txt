@@ -1,0 +1,15 @@
+aig 2
+profit 1
+company 2
+government 1
+make 1
+pay 1
+huge 1
+payments 1
+making 1
+criteria 1
+teetering 1
+pays 1
+bonuses 2
+obligated 2
+contractually 2

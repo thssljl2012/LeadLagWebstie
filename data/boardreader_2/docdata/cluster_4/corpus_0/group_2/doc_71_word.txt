@@ -1,0 +1,15 @@
+director 1
+board 1
+barclays 1
+joined 1
+american 1
+owner 1
+accepting 1
+premier 1
+businessman 1
+billionaire 1
+league 1
+stan 1
+arsenal 1
+invitation 1
+kroenke 2

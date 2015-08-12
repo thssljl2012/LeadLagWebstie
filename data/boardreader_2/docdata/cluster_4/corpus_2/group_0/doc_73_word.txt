@@ -1,0 +1,16 @@
+time 1
+years 1
+pay 1
+opinion 1
+current 1
+barclays 1
+accounts 1
+running 1
+account 1
+giving 1
+bills 1
+chance 1
+couple 1
+martin 1
+applying 1
+undecided 1

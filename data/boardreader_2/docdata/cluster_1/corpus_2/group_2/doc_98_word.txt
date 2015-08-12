@@ -1,0 +1,10 @@
+insurance 1
+aig 1
+loss 1
+company 1
+money 1
+thinking 1
+happen 1
+pulling 1
+annuity 1
+annuities 1

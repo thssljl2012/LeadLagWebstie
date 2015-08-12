@@ -1,0 +1,17 @@
+insurance 4
+aig 1
+hand 1
+left 1
+services 2
+united 1
+retirement 1
+states 1
+products 1
+life 1
+commercial 1
+auto 1
+check 1
+offering 1
+love 1
+upper 1
+slogan 1

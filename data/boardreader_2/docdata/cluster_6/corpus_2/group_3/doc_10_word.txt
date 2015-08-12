@@ -1,0 +1,16 @@
+home 1
+pick 2
+easy 1
+win 1
+man 1
+picked 1
+enter 1
+team 1
+chelsea 1
+liverpool 1
+utd 1
+arsenal 1
+portsmouth 1
+fulham 1
+auntie 1
+travelwise 1

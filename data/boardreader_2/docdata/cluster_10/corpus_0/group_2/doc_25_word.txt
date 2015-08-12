@@ -1,0 +1,10 @@
+bank 1
+america 1
+merrill 1
+lynch 1
+bad 1
+lehman 1
+debt 1
+brothers 1
+promissory 1
+estoppel 1

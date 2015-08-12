@@ -1,0 +1,10 @@
+read 1
+james 1
+team 2
+highlight 1
+everton 2
+text 1
+box 1
+spoiler 1
+vaughn 1
+cursor 1

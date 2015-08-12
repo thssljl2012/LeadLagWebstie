@@ -1,0 +1,15 @@
+time 1
+insurance 1
+aig 2
+stock 1
+months 1
+ago 1
+paying 2
+short 1
+thread 1
+guess 1
+mentioned 1
+poster 1
+masked 1
+blah 1
+looky 1

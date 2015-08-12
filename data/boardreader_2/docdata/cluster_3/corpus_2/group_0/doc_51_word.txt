@@ -1,0 +1,17 @@
+market 1
+bank 1
+holdings 1
+group 2
+royal 1
+standard 1
+barclays 1
+chartered 1
+hsbc 1
+scotland 1
+lloyds 1
+tsb 1
+hbos 1
+alliance 1
+leicester 1
+bradford 1
+bingley 1

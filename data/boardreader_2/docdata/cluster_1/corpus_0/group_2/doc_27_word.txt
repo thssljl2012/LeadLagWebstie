@@ -1,0 +1,16 @@
+policy 1
+insurance 2
+giant 1
+aig 2
+federal 1
+company 1
+government 1
+billion 1
+consumers 1
+safe 2
+loan 1
+takeover 1
+stay 1
+needed 1
+afloat 1
+parent 1

@@ -1,0 +1,17 @@
+bank 3
+home 1
+posted 1
+phone 1
+trust 1
+number 3
+online 1
+give 1
+hope 1
+account 2
+address 2
+originally 1
+site 1
+lieu 1
+paranoid 1
+fishy 1
+godseviltwin 1

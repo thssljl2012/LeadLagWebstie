@@ -1,0 +1,10 @@
+banking 1
+good 1
+back 1
+barclays 1
+change 1
+online 1
+account 1
+trouble 1
+family 1
+notified 2

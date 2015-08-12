@@ -1,0 +1,12 @@
+bank 2
+america 1
+finally 1
+largest 1
+united 1
+states 1
+recently 1
+popular 1
+web 1
+officially 1
+embrace 1
+firefox 1

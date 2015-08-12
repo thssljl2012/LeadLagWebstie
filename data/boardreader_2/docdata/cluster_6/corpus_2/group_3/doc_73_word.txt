@@ -1,0 +1,13 @@
+find 1
+money 2
+put 1
+fact 1
+anymore 1
+man 1
+played 1
+watch 1
+lol 1
+wiki 1
+premiership 1
+gladly 1
+lyn 1

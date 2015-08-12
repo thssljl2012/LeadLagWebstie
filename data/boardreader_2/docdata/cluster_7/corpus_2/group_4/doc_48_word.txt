@@ -1,0 +1,14 @@
+rate 12
+monday 1
+home 2
+year 2
+rates 2
+years 7
+loans 2
+interest 1
+november 1
+comparison 1
+product 1
+apply 1
+fixed 10
+customers 1

@@ -1,0 +1,15 @@
+meeting 1
+insurance 1
+company 1
+news 1
+reuters 1
+industry 1
+board 1
+emergency 1
+source 1
+washington 2
+mutual 1
+feb 1
+desk 1
+fired 1
+jurgensen 1

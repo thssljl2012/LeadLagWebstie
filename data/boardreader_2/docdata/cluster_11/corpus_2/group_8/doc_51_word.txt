@@ -1,0 +1,15 @@
+bank 1
+america 1
+loss 1
+increased 1
+group 1
+companies 4
+dividend 1
+stable 2
+years 1
+performance 1
+citi 1
+dividends 1
+bears 1
+pennies 1
+sterns 1

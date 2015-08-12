@@ -1,0 +1,17 @@
+city 1
+bank 4
+consumer 1
+national 1
+mortgage 2
+america 1
+wachovia 1
+home 2
+account 1
+chase 1
+suntrust 1
+pnc 1
+wamu 1
+citibank 1
+federation 1
+locator 1
+overdraw 1

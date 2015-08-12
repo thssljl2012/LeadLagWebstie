@@ -1,0 +1,15 @@
+bank 1
+america 1
+data 1
+electronic 1
+corp 1
+lehman 7
+barclays 5
+systems 1
+brothers 7
+ibm 1
+eds 2
+hp 1
+holly 2
+tui 3
+breg 1

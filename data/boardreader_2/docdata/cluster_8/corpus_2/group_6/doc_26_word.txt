@@ -1,0 +1,16 @@
+policy 1
+local 1
+phone 1
+good 1
+standard 1
+taking 1
+showed 1
+talking 1
+matter 1
+charge 1
+resolved 1
+person 2
+experiences 1
+luck 1
+branch 1
+transfer 1

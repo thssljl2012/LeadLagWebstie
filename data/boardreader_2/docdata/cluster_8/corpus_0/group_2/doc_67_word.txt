@@ -1,0 +1,15 @@
+bank 1
+america 2
+read 1
+start 1
+easy 1
+problems 1
+customers 1
+brings 1
+web 1
+site 2
+posts 1
+googling 1
+droves 1
+phrases 1
+buzzblog 1

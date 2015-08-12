@@ -328,7 +328,6 @@ textarea {
 
 .rank-tag {
     background-color: #129FEA;
-    /*background-color: orange;*/
 }
 
 .rank-tag-input {
@@ -339,7 +338,11 @@ textarea {
 .username-area {
     text-align: center;
     color: white;
-    margin-top: 70px;
+    margin-top: 30px;
+    margin-bottom: 50px;
     font-size: 25px;
 }
 
+#cluster-alterer {
+    margin-top: 1em;
+}

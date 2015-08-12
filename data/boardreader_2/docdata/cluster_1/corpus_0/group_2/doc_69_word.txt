@@ -1,0 +1,10 @@
+insurance 1
+aig 1
+company 1
+business 1
+government 1
+read 1
+folks 1
+owns 1
+story 1
+bailout 1

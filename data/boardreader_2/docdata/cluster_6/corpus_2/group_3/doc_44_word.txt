@@ -1,0 +1,13 @@
+end 1
+hit 1
+higher 1
+point 1
+good 2
+long 1
+period 1
+bad 2
+start 1
+win 1
+hull 1
+finish 1
+games 1

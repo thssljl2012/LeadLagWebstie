@@ -1,0 +1,11 @@
+opening 1
+bank 2
+anz 1
+money 1
+put 1
+account 4
+touch 2
+hoping 1
+til 1
+boys 1
+childs 1

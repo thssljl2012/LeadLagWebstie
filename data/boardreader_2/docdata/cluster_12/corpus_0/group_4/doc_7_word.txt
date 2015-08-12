@@ -1,0 +1,16 @@
+bank 2
+national 1
+finance 1
+banking 2
+australia 3
+zealand 1
+group 2
+westpac 1
+commonwealth 1
+corp 1
+abc 4
+allco 1
+centres 1
+learning 3
+bc 1
+naftemporiki 1

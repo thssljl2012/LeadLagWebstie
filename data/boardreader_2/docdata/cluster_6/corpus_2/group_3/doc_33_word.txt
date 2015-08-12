@@ -1,0 +1,10 @@
+expect 1
+confidence 1
+game 1
+greatest 1
+win 2
+couple 1
+team 1
+consistency 1
+goals 1
+porto 1

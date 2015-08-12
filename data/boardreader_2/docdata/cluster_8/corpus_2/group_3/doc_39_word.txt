@@ -1,0 +1,13 @@
+street 1
+insurance 1
+aig 2
+finally 1
+work 1
+money 1
+intelligence 1
+days 1
+banker 1
+forced 1
+live 1
+internet 1
+fired 1

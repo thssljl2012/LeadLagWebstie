@@ -1,0 +1,10 @@
+dow 1
+nasdaq 1
+il 1
+di 1
+della 1
+storia 1
+pi 1
+borsa 1
+crollo 1
+pesante 1

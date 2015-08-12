@@ -1,0 +1,10 @@
+bank 1
+barclays 1
+written 1
+charges 3
+copy 1
+statements 1
+copies 1
+summary 1
+missing 1
+requesting 1

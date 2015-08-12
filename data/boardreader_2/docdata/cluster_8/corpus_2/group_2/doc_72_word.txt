@@ -1,0 +1,16 @@
+bank 1
+weeks 1
+open 1
+numbers 1
+barclays 1
+minimum 1
+online 1
+takes 1
+account 3
+trouble 1
+savings 1
+machines 1
+members 1
+access 1
+upto 1
+membership 1

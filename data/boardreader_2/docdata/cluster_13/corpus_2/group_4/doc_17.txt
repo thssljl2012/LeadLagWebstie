@@ -1,0 +1,12 @@
+formprocesscommandlviewhandlecommandl 0.313687021423833
+eeikdialogflagnodrag 0.313687021423833
+eeikdialogflagnotitlebar 0.313687021423833
+eeikdialogflagcbabuttons 0.313687021423833
+eeikdialogflagfillappclientrect 0.313687021423833
+eeikdialogflagnotifyesc 0.313687021423833
+eeikdialogflagmodeless 0.313687021423833
+flags 0.282155955083934
+dialog 0.272005218967363
+buttons 0.263711463667342
+resource 0.232180397327443
+form 0.184804959414496

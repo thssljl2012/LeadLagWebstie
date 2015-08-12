@@ -1,0 +1,15 @@
+policy 1
+insurance 2
+aig 1
+credit 2
+annual 1
+works 1
+years 1
+paid 1
+stands 1
+car 2
+card 1
+backed 1
+hire 1
+recourse 1
+reclaim 1

@@ -1,0 +1,15 @@
+time 1
+drop 2
+points 2
+good 1
+important 1
+wow 1
+thing 1
+expecting 1
+hope 1
+play 1
+guess 1
+hoping 1
+liverpool 1
+opponents 1
+arsenal 1

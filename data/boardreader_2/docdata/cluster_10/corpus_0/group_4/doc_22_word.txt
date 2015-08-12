@@ -1,0 +1,16 @@
+bank 2
+shares 1
+america 1
+company 1
+percent 1
+plans 1
+china 1
+exercise 1
+corp 1
+construction 1
+option 1
+additional 1
+stake 1
+giving 1
+purchase 1
+bac 1

@@ -1,0 +1,12 @@
+capital 1
+pm 1
+trust 1
+board 1
+barclays 1
+start 1
+thread 1
+message 1
+charge 1
+fnm 1
+throw 1
+posts 1

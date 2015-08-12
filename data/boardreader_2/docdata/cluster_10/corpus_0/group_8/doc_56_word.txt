@@ -1,0 +1,15 @@
+trading 1
+bank 1
+york 1
+reports 1
+currency 1
+times 1
+risk 1
+discovered 1
+trader 1
+action 1
+forced 1
+account 1
+team 1
+swing 1
+irregularities 1

@@ -1,0 +1,14 @@
+hit 1
+year 1
+contract 1
+million 1
+rates 1
+years 2
+relative 1
+minimum 1
+salary 1
+cba 1
+cap 1
+rule 1
+league 1
+violates 1

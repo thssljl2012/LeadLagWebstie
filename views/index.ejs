@@ -10,13 +10,14 @@
     <script type="text/javascript" src="../js/jquery-1.11.1.min.js"></script>
     <script type="text/javascript">
         var username = <%- JSON.stringify(username) %>;
+        var catalog = <%- JSON.stringify(catalog) %>;
         var userdata = <%- JSON.stringify(userdata) %>;
         var datasetinfo = <%- JSON.stringify(datasetinfo) %>;
         var clusterNum = <%= clusterNum %>;
         var corpusNum = <%= corpusNum %>;
         var timeslotNum = <%= timeslotNum %>;
         var maxdocNum = <%= maxdocNum %>;
-        //console.log(datasetinfo);
+        var cur_dataset = <%= datasetID %>;
     </script>
 </head>
 <body>
@@ -29,7 +30,37 @@
     </a>
 
     <div id="menu">
-        <div class="pure-menu">
+        <div class="pure-menu" id="dataset-alterer">
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item">
+                    <a class="pure-menu-link" onclick="DisplayOrHideCatalogBar();">
+                        Datasets:
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="pure-menu catalog-full-list" id="catalog-bar">
+            <ul class="pure-menu-list">
+                <% for(var i = 0; i < catalog.length; i++) { %>
+                    <li class="pure-menu-item">
+                        <a href="http://52.10.89.29:3000/index?dataset=<%=i%>&username=<%=username%>" class="pure-menu-link dataset-link" id="dataset-link-<%=i%>">
+                        <!--<a href="http://127.0.0.1:3000/index?dataset=<%=i%>&username=<%=username%>" class="pure-menu-link dataset-link" id="dataset-link-<%=i%>">-->
+                            <%= catalog[i].name %>
+                        </a>
+                    </li>
+                <% } %>
+            </ul>
+        </div>
+        <div class="pure-menu" id="cluster-alterer">
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item">
+                    <a class="pure-menu-link" onclick="DisplayOrHideClusterBar();">
+                        Topic clusters:
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="pure-menu" id="cluster-bar">
             <!--<a class="pure-menu-heading" href="#">Topic Clusters</a>-->
             <ul class="pure-menu-list">
                 <% for(var i = 0; i < clusterNum; i++) { %>

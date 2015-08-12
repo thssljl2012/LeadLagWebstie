@@ -1,0 +1,16 @@
+head 1
+top 1
+remember 1
+media 1
+sec 1
+recovery 1
+google 1
+xp 1
+desirable 1
+commands 1
+usage 1
+pc 1
+console 1
+reformat 1
+booting 1
+runnign 1

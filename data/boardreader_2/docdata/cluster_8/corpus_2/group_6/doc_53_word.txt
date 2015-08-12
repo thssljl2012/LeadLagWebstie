@@ -1,0 +1,12 @@
+bank 1
+mortgage 1
+america 1
+work 1
+website 1
+fine 1
+problem 1
+account 2
+log 1
+boa 1
+mint 3
+setup 1

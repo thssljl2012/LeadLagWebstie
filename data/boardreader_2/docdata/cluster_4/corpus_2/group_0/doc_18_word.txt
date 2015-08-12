@@ -1,0 +1,11 @@
+morning 1
+visa 2
+platinum 2
+signature 1
+search 1
+usa 1
+intel 1
+calling 1
+mastercard 1
+info 1
+upgraded 1

@@ -1,0 +1,15 @@
+time 1
+insurance 1
+week 1
+money 1
+interesting 1
+start 1
+account 2
+auto 1
+savings 1
+washington 1
+mutual 1
+mention 1
+boa 1
+checking 1
+shuffling 1

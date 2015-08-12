@@ -1,0 +1,10 @@
+cards 1
+time 1
+stop 1
+credit 1
+back 1
+pay 1
+paying 1
+suggest 1
+decide 1
+apr 1

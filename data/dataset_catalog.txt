@@ -1,0 +1,2 @@
+boardreader_1 14 3 10 100
+boardreader_2 14 3 10 100

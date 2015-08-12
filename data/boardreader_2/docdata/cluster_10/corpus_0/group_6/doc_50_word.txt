@@ -1,0 +1,11 @@
+trading 1
+bank 1
+america 1
+stock 1
+dropped 1
+percent 2
+fallen 1
+thursday 1
+corp 1
+month 1
+bac 1

@@ -1,0 +1,17 @@
+governor 1
+bank 1
+stop 1
+credit 1
+company 1
+services 1
+pay 1
+extend 1
+troubling 2
+illinois 1
+worldwide 1
+obama 1
+workers 1
+stated 1
+supports 1
+threatens 1
+failinga 1

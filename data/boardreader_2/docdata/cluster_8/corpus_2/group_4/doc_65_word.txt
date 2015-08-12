@@ -1,0 +1,16 @@
+monday 1
+opened 1
+banking 1
+money 1
+current 1
+tax 1
+barclays 3
+online 1
+haven 1
+account 2
+ms 1
+requested 1
+logged 1
+applied 1
+transferred 1
+isa 2

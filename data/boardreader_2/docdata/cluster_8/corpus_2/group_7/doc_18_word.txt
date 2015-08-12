@@ -1,0 +1,13 @@
+bank 1
+america 1
+cents 1
+accounts 1
+interest 1
+charge 1
+savings 1
+awful 1
+citibank 1
+earn 1
+fees 1
+fee 1
+charged 1

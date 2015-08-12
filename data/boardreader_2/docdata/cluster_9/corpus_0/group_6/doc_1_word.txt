@@ -1,0 +1,12 @@
+time 1
+bank 1
+end 1
+work 1
+find 1
+move 1
+miss 1
+happy 1
+longer 1
+weird 1
+sad 1
+freakin 1

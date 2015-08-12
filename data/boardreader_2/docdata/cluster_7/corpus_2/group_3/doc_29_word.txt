@@ -1,0 +1,10 @@
+bank 2
+posted 1
+australia 1
+commonwealth 1
+bought 1
+hbos 1
+originally 1
+bankwest 1
+gp 1
+noirua 1

@@ -1,0 +1,10 @@
+day 1
+left 1
+barclays 1
+told 1
+hsbc 1
+cancelled 1
+minute 1
+court 1
+applied 1
+br 1

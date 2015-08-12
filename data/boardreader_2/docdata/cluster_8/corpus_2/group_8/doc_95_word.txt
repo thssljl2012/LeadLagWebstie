@@ -1,0 +1,16 @@
+side 1
+banks 2
+insurance 1
+aig 1
+dollar 1
+work 1
+money 2
+fields 1
+give 1
+dont 2
+care 1
+guys 1
+imagine 1
+permission 1
+bonus 1
+awesome 1

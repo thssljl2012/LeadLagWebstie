@@ -1,0 +1,13 @@
+net 1
+today 1
+bank 1
+hit 1
+credit 1
+profit 1
+slumped 1
+months 1
+billion 1
+barclays 1
+cent 1
+british 1
+crunch 1

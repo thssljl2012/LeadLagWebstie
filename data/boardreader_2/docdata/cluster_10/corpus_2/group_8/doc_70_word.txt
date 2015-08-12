@@ -1,0 +1,10 @@
+time 1
+bank 1
+america 1
+lost 1
+morgan 1
+derivatives 1
+jp 1
+citibank 1
+competitors 1
+grotto 1

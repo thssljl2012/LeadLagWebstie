@@ -1,0 +1,1 @@
+I've got every other account setup just fine in Mint, but BoA won't take. I can log in with my username/passcode on the bankofamerica.com website, but it doesn't work through Mint. Is there some problem with Mint and BoA's image/sitekey mechanism? Anybody else got this working? This is for a Bank or America mortgage account.

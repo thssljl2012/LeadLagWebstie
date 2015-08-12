@@ -1,0 +1,15 @@
+bank 1
+america 1
+head 1
+white 1
+house 1
+bigger 1
+computers 1
+rely 1
+search 1
+motion 1
+bailout 1
+court 1
+grants 1
+begging 1
+epa 1

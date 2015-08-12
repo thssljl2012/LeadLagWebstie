@@ -1,0 +1,13 @@
+bank 1
+billion 1
+back 2
+pay 2
+firm 1
+chairman 1
+received 1
+fortune 1
+ceo 1
+bac 1
+lewis 1
+tarp 1
+ken 2

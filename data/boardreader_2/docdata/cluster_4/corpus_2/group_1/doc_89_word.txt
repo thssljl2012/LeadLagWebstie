@@ -1,0 +1,13 @@
+cards 1
+works 1
+website 1
+code 2
+put 2
+barclays 1
+give 1
+lloyds 1
+computer 1
+confused 1
+internet 1
+communicate 1
+pinsentry 1

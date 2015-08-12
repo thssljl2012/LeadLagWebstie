@@ -1,0 +1,11 @@
+bank 1
+america 1
+capital 1
+talks 1
+billion 2
+headline 1
+story 1
+guarantees 2
+cnbc 1
+learned 1
+bofa 1

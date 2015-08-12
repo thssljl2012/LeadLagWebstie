@@ -1,0 +1,13 @@
+cards 4
+america 1
+credit 7
+low 1
+home 1
+fair 4
+interest 1
+card 3
+offers 1
+nice 1
+reward 1
+unsecured 1
+apr 1

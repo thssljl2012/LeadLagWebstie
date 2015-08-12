@@ -1,3 +1,4 @@
+var current_datasetID = cur_dataset;
 var current_clusterID = 0;
 var current_corpusID = 0;
 var current_groupID = 0;
@@ -54,6 +55,27 @@ function BindClickEvent()
         current_docID = 0;
 
         GetCurrentDocGroup(ChangeTopicCluster);
+    });
+
+    //$('.dataset-link').click(function(){
+    //    clearInterval(submit_timer);
+    //    SubmitUserdata();
+    //
+    //    current_datasetID = parseInt($(this).attr('id').split('-')[2]);
+    //    current_clusterID = 0;
+    //    current_corpusID = 0;
+    //    current_groupID = 0;
+    //    current_docID = 0;
+    //});
+}
+
+function InitializeDatasetPickerStyle()
+{
+    $('.dataset-link').css({
+        'background-color' : 'transparent'
+    });
+    $('#dataset-link-' + current_datasetID).css({
+        'background-color' : '#191818'
     });
 }
 
@@ -172,6 +194,7 @@ function InitializeTopicVectorStyle()
 
 function InitializeElementStyle()
 {
+    InitializeDatasetPickerStyle();
     InitializeClusterPickerStyle();
     InitializeDocpickerStyle();
     InitializeTimeslotStyle();
@@ -212,6 +235,7 @@ function GetCurrentGroupSize()
 function GetCurrentDocGroup(callback)
 {
     $.post('/getgroupdoc', {
+        'datasetID' : current_datasetID,
         'clusterID' : current_clusterID,
         'corpusID' : current_corpusID,
         'timeslotID' : current_groupID
@@ -283,7 +307,10 @@ function BindTopicVectorEvent()
 
 function DisplayTopicVector(callback)
 {
-    var request = {'clusterID' : current_clusterID};
+    var request = {
+        'datasetID' : current_datasetID,
+        'clusterID' : current_clusterID
+    };
 
     $.post('/gettopic', request, function(data){
         topicvecs = data;
@@ -305,6 +332,36 @@ function DisplayTopicVector(callback)
 
         callback();
     });
+}
+
+function DisplayOrHideCatalogBar()
+{
+    var elem = $('#catalog-bar');
+    var display = elem.css('display');
+    if (display == 'none') {
+        elem.css({
+            'display' : 'block'
+        });
+    } else {
+        elem.css({
+            'display' : 'none'
+        });
+    }
+}
+
+function DisplayOrHideClusterBar()
+{
+    var elem = $('#cluster-bar');
+    var display = elem.css('display');
+    if (display == 'none') {
+        elem.css({
+            'display' : 'block'
+        });
+    } else {
+        elem.css({
+            'display' : 'none'
+        });
+    }
 }
 
 function LoadUserdata()
@@ -348,6 +405,7 @@ function SubmitUserdata()
 
     var datatosubmit = {
         'data' : tagdata,
+        'datasetID' : current_datasetID,
         'clusterID' : current_clusterID,
         'username' : username
     };

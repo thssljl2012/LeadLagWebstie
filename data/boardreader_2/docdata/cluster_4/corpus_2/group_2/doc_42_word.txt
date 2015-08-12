@@ -1,0 +1,11 @@
+left 1
+control 1
+west 1
+quote 1
+club 1
+basically 1
+career 2
+roman 1
+ham 1
+furthering 3
+venne 1

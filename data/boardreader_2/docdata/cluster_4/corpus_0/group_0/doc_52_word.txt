@@ -1,0 +1,13 @@
+close 1
+time 1
+bank 2
+paper 1
+statement 1
+website 1
+information 1
+month 1
+account 1
+balances 1
+transfer 1
+swear 1
+toasted 1

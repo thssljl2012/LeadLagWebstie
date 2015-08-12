@@ -1,0 +1,10 @@
+expect 1
+anz 1
+makes 1
+nab 1
+announce 1
+current 1
+reduction 1
+cba 2
+wbc 2
+stg 1

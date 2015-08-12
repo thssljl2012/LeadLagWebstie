@@ -1,0 +1,17 @@
+corporation 1
+bank 1
+citigroup 1
+investors 1
+banking 2
+anz 1
+australia 2
+zealand 1
+group 1
+asx 3
+limited 1
+westpac 1
+commonwealth 1
+service 1
+cba 1
+incorporated 2
+wbc 1

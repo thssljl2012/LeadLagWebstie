@@ -1,0 +1,13 @@
+bank 1
+shares 1
+stock 1
+units 1
+lead 1
+options 1
+buying 1
+common 1
+factors 1
+successful 1
+bn 2
+restricted 1
+convertibles 1

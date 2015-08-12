@@ -1,0 +1,15 @@
+time 1
+book 1
+week 1
+find 1
+century 1
+make 1
+return 1
+years 1
+pay 1
+worrying 1
+payment 1
+refuse 1
+site 1
+cheque 1
+barclaycard 1

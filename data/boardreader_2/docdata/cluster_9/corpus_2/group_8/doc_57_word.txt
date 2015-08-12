@@ -1,0 +1,11 @@
+time 2
+previous 1
+year 4
+thing 1
+pay 2
+current 1
+tax 1
+true 1
+cba 2
+recall 1
+offender 2

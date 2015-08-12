@@ -1,0 +1,17 @@
+bank 2
+america 1
+credit 2
+crisis 1
+good 1
+rest 1
+required 1
+pretty 1
+white 1
+pay 1
+loans 1
+rice 1
+loan 1
+creditors 1
+boa 1
+belly 1
+borrower 1

@@ -1,0 +1,14 @@
+bank 2
+monday 1
+insurance 1
+america 2
+federal 1
+reuters 1
+billion 1
+corp 1
+march 1
+sold 1
+parts 1
+jointly 1
+deposit 1
+na 1

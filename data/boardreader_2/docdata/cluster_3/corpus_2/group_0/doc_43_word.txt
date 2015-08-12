@@ -1,0 +1,15 @@
+fannie 1
+mae 2
+freddie 1
+mac 1
+treasury 1
+bonds 1
+huge 1
+barclays 1
+difference 1
+treasuries 1
+agencies 2
+invested 1
+keith 1
+ginnie 1
+paypal 1

@@ -1,0 +1,15 @@
+bank 1
+america 1
+credit 1
+move 1
+years 1
+hurt 1
+paid 1
+card 2
+advertisements 1
+ties 1
+canceling 1
+cc 1
+mbna 1
+symbolic 1
+sever 1

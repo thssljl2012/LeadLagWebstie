@@ -1,0 +1,13 @@
+bank 1
+national 1
+local 1
+america 1
+credit 1
+plant 1
+news 4
+folks 1
+chicago 1
+give 1
+dangerous 1
+articles 1
+employee 1

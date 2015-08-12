@@ -1,0 +1,13 @@
+rate 1
+banks 1
+bank 2
+america 1
+exchange 1
+canada 1
+account 1
+wondering 1
+additional 1
+wont 1
+fees 1
+charged 1
+sucks 1

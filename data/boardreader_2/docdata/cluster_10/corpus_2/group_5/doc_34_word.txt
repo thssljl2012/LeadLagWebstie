@@ -1,0 +1,13 @@
+bank 1
+america 1
+job 1
+work 1
+cut 1
+years 1
+people 1
+place 1
+cuts 1
+prolonged 1
+jobs 1
+suffering 1
+goodness 1

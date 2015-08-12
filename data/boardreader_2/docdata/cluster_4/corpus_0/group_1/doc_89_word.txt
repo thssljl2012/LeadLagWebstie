@@ -1,0 +1,16 @@
+bank 3
+cash 1
+america 1
+citizens 3
+pretty 1
+bad 1
+happy 2
+account 3
+emergency 1
+savings 1
+checking 1
+ohio 2
+rap 1
+denver 1
+logan 4
+toya 1

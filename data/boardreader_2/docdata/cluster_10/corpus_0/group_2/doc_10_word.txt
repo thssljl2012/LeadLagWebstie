@@ -1,0 +1,16 @@
+lynch 1
+group 1
+bhp 1
+petroleum 1
+barclays 1
+gazprom 1
+lukoil 1
+brothers 1
+nyse 1
+evraz 1
+merill 1
+leman 1
+occidental 1
+severstal 1
+bony 2
+billition 1

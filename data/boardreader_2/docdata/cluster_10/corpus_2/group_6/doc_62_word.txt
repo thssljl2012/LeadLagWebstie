@@ -1,0 +1,12 @@
+bank 1
+stocks 1
+america 1
+gained 1
+government 1
+report 1
+citing 1
+billion 2
+size 1
+guarantee 1
+sources 1
+cnbc 1

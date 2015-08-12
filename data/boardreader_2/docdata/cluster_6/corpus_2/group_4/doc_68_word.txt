@@ -1,0 +1,13 @@
+add 1
+list 2
+added 1
+people 1
+pull 1
+rules 1
+apply 1
+waiting 2
+draw 1
+transfer 1
+replaced 1
+teams 1
+antonwilton 1

@@ -1,0 +1,17 @@
+city 1
+euro 1
+million 1
+pay 1
+offered 1
+travel 1
+barclays 1
+permission 1
+club 1
+argentina 1
+medical 1
+premier 1
+pablo 1
+league 1
+manchester 1
+espanyol 1
+zabaleta 1

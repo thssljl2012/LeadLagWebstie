@@ -4,14 +4,13 @@ var bodyParser = require('body-parser');
 var fs = require('graceful-fs');
 var http = require('http');
 
-var clusterNum = 13;
-var corpusNum = 3;
-var timeslotNum = 10;
-var maxdocNum = 100;
-
 var app = express();
 
 var pubRoot={root: path.join(__dirname, 'public/html/')};
+
+var server = http.createServer(app).listen(3000);
+
+
 
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
@@ -20,7 +19,7 @@ app.use(express.static('public'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-var server = http.createServer(app).listen(3000);
+
 
 app.get('/', function (req, res) {
   res.sendFile('login.html', pubRoot);
@@ -28,18 +27,32 @@ app.get('/', function (req, res) {
 
 app.post('/index', function(req, res) {
   var username = req.body['username'];
+  var datasetID = 0;
   if (username) {
-    RenderMainPage(req, res, username);
+    RenderMainPage(req, res, username, datasetID);
   } else {
     res.redirect('/');
   }
 });
 
+app.get('/index', function(req, res) {
+  var username = req.query['username'];
+  var datasetID = req.query['dataset'];
+  if (username) {
+    RenderMainPage(req, res, username, datasetID);
+  } else {
+    res.redirect('/');
+  }
+});
+
+
 app.post('/submitdata', function(req, res){
   var data = req.body['data'];
+  var datasetID = req.body['datasetID'];
+  var metadata = GetDatasetMetadata(datasetID);
   var clusterID = req.body['clusterID'];
   var username = req.body['username'];
-  ModifyUserdata(username, clusterID, data);
+  ModifyUserdata(username, clusterID, data, metadata);
   res.send('Data saved!');
 });
 
@@ -53,38 +66,84 @@ app.post('/getdoc', function(req,res){
 });
 
 app.post('/getgroupdoc', function(req,res){
+  var datasetID = req.body['datasetID'];
+  var metadata = GetDatasetMetadata(datasetID);
   var clusterID = req.body['clusterID'];
   var corpusID = req.body['corpusID'];
   var timeslotID = req.body['timeslotID'];
-  var docs = ReadGroupDocs(clusterID, corpusID, timeslotID);
+  var docs = ReadGroupDocs(clusterID, corpusID, timeslotID, metadata);
   res.send(docs);
 });
 
 app.post('/gettopic', function(req,res){
+  var datasetID = req.body['datasetID'];
+  var metadata = GetDatasetMetadata(datasetID);
   var clusterID = req.body['clusterID'];
-  var topicvec = ReadTopicVecs(clusterID);
+  var topicvec = ReadTopicVecs(clusterID, metadata);
   res.send(topicvec);
 });
 
 
 
-function RenderMainPage(req, res, username)
+function RenderMainPage(req, res, username, datasetID)
 {
   var data = {};
   data['username'] = username;
-  data['userdata'] = ReadUserdata(username);
-  data['datasetinfo'] = ReadDatasetInfo();
-  data['clusterNum'] = clusterNum;
-  data['corpusNum'] = corpusNum;
-  data['timeslotNum'] = timeslotNum;
-  data['maxdocNum'] = maxdocNum;
+  data['catalog'] = ReadDatasetCatalog();
+
+  var metadata = GetDatasetMetadata(datasetID);
+
+  data['userdata'] = ReadUserdata(username, metadata);
+  data['datasetinfo'] = ReadDatasetInfo(metadata);
+
+  data['clusterNum'] = metadata['clusterNum'];
+  data['corpusNum'] = metadata['corpusNum'];
+  data['timeslotNum'] = metadata['timeslotNum'];
+  data['maxdocNum'] = metadata['maxdocNum'];
+  data['datasetID'] = datasetID;
+
   res.render('index', data);
+}
+
+function GetDatasetMetadata(datasetID)
+{
+  var Catalog = ReadDatasetCatalog();
+
+  return {
+    'dataroot' : 'data/' + Catalog[datasetID]['name'] + '/',
+    'clusterNum' : Catalog[datasetID]['clusterNum'],
+    'corpusNum' : Catalog[datasetID]['corpusNum'],
+    'timeslotNum' : Catalog[datasetID]['timeslotNum'],
+    'maxdocNum' : Catalog[datasetID]['maxdocNum']
+  };
+}
+
+
+
+function ReadDatasetCatalog()
+{
+  var data = fs.readFileSync('data/dataset_catalog.txt', 'utf8');
+  var lines = data.split('\n');
+  var catalog = [];
+  for (var i = 0; i < lines.length; i++)
+  {
+    var paras = lines[i].split(' ');
+    var dataset = {
+      'name' : paras[0],
+      'clusterNum' : parseInt(paras[1]),
+      'corpusNum' : parseInt(paras[2]),
+      'timeslotNum' : parseInt(paras[3]),
+      'maxdocNum' : parseInt(paras[4])
+    };
+    catalog.push(dataset);
+  }
+  return catalog;
 }
 
 function ReadSingleDoc(clusterID, corpusID, timeslotID, docID)
 {
   var doc = {};
-  var dir = 'data/docdata/' + 'cluster_' + clusterID + '/corpus_' + corpusID + '/group_' + timeslotID;
+  var dir = dataroot + 'docdata/' + 'cluster_' + clusterID + '/corpus_' + corpusID + '/group_' + timeslotID;
   var vector_file = dir + '/doc_' + docID + '.txt';
   var content_file = dir + '/doc_' + docID + '_content.txt';
   var data;
@@ -103,11 +162,11 @@ function ReadSingleDoc(clusterID, corpusID, timeslotID, docID)
   return doc;
 }
 
-function ReadGroupDocs(clusterID, corpusID, timeslotID)
+function ReadGroupDocs(clusterID, corpusID, timeslotID, metadata)
 {
   var docs = [];
-  var dir = 'data/docdata/' + 'cluster_' + clusterID + '/corpus_' + corpusID + '/group_' + timeslotID;
-  for (var t = 0; t < maxdocNum; t++)
+  var dir = metadata['dataroot'] + 'docdata/' + 'cluster_' + clusterID + '/corpus_' + corpusID + '/group_' + timeslotID;
+  for (var t = 0; t < metadata['maxdocNum']; t++)
   {
     var vector_file = dir + '/doc_' + t + '.txt';
     var content_file = dir + '/doc_' + t + '_content.txt';
@@ -129,7 +188,7 @@ function ReadGroupDocs(clusterID, corpusID, timeslotID)
 
 function ReadDocs()
 {
-  var root = 'data/docdata/';
+  var root = dataroot + 'docdata/';
   var clusters = [];
   for (var i = 0; i < clusterNum; i++)
   {
@@ -166,12 +225,12 @@ function ReadDocs()
   return clusters;
 }
 
-function ReadTopicVecs(clusterID)
+function ReadTopicVecs(clusterID, metadata)
 {
   var topicvecs = [];
-  for (var i = 0; i < timeslotNum; i++)
+  for (var i = 0; i < metadata['timeslotNum']; i++)
   {
-    var path = 'data/docdata/cluster_' + clusterID + '/topics/topic' + i + '.txt';
+    var path = metadata['dataroot'] + 'docdata/cluster_' + clusterID + '/topics/topic' + i + '.txt';
     if (fs.existsSync(path) == false)
       continue;
     var data = fs.readFileSync(path, 'utf8');
@@ -183,7 +242,7 @@ function ReadTopicVecs(clusterID)
 
 function ReadTopics()
 {
-  var root = 'data/docdata/';
+  var root = dataroot + 'docdata/';
   var topics = [];
   for (var i = 0; i < clusterNum; i++)
   {
@@ -202,24 +261,24 @@ function ReadTopics()
   return topics;
 }
 
-function ReadUserdata(username)
+function ReadUserdata(username, metadata)
 {
   var userdata;
   var data;
 
-  var path = 'data/userdata/' + username + '.txt';
+  var path = metadata['dataroot'] + 'userdata/' + username + '.txt';
   if (fs.existsSync(path) == true) {
     data = fs.readFileSync(path, 'utf8');
   } else {
     data = '';
   }
-  userdata = ParseUserdata(data);
+  userdata = ParseUserdata(data, metadata);
   return userdata;
 }
 
-function ModifyUserdata(username, clusterID, data)
+function ModifyUserdata(username, clusterID, data, metadata)
 {
-  var path = 'data/userdata/' + username + '.txt';
+  var path = metadata['dataroot'] + 'userdata/' + username + '.txt';
   var olddata;
   if (fs.existsSync(path) == true) {
     olddata = fs.readFileSync(path, 'utf8');
@@ -227,46 +286,48 @@ function ModifyUserdata(username, clusterID, data)
     olddata = '';
   }
 
-  var userdata = ParseUserdata(olddata);
+  var userdata = ParseUserdata(olddata, metadata);
 
   clusterID = parseInt(clusterID);
 
-  for (var i = 0; i < corpusNum; i++)
+  var i, j, k;
+
+  for (i = 0; i < metadata['corpusNum']; i++)
   {
-    for (var j = 0; j < timeslotNum; j++)
+    for (j = 0; j < metadata['timeslotNum']; j++)
     {
       userdata[clusterID][i][j] = parseInt(data[i][j]);
     }
   }
 
   var datastr = '';
-  for (var i = 0; i < clusterNum; i++)
+  for (i = 0; i < metadata['clusterNum']; i++)
   {
-    for (var j = 0; j < corpusNum; j++)
+    for (j = 0; j < metadata['corpusNum']; j++)
     {
-      for (var k = 0; k < timeslotNum; k++)
+      for (k = 0; k < metadata['timeslotNum']; k++)
       {
-        datastr = datastr + userdata[i][j][k].toString() + ((k == timeslotNum - 1) ? '\n' : ' ');
+        datastr = datastr + userdata[i][j][k].toString() + ((k == metadata['timeslotNum'] - 1) ? '\n' : ' ');
       }
     }
-    if (i != clusterNum - 1)
+    if (i != metadata['clusterNum'] - 1)
       datastr += '\n';
   }
 
   fs.writeFileSync(path, datastr);
 }
 
-function ParseUserdata(data)
+function ParseUserdata(data, metadata)
 {
   // console.log('data to be parsed:' + data + '\n');
   var userdata = [];
-  for (var i = 0; i < clusterNum; i++)
+  for (var i = 0; i < metadata['clusterNum']; i++)
   {
     var corpora = [];
-    for (var j = 0; j < corpusNum; j++)
+    for (var j = 0; j < metadata['corpusNum']; j++)
     {
       var timeslots = [];
-      for (var k = 0; k < timeslotNum; k++)
+      for (var k = 0; k < metadata['timeslotNum']; k++)
       {
         timeslots.push(-1);
       }
@@ -287,13 +348,13 @@ function ParseUserdata(data)
     if (lines[i] != '')
       datalines.push(lines[i]);
   }
-  for (i = 0; i < clusterNum; i++)
+  for (i = 0; i < metadata['clusterNum']; i++)
   {
-    for (j = 0; j < corpusNum; j++)
+    for (j = 0; j < metadata['corpusNum']; j++)
     {
-      var dataline = datalines[i * corpusNum + j];
+      var dataline = datalines[i * metadata['corpusNum'] + j];
       var tags = dataline.split(' ');
-      for (k = 0; k < timeslotNum; k++)
+      for (k = 0; k < metadata['timeslotNum']; k++)
       {
         userdata[i][j][k] = parseInt(tags[k]);
       }
@@ -318,21 +379,20 @@ function ParseWordVector(data)
   return wordvec;
 }
 
-function ReadDatasetInfo()
+function ReadDatasetInfo(metadata)
 {
-  var path = 'data/dataset_information.txt';
+  var path = metadata['dataroot'] + 'dataset_information.txt';
   var data = fs.readFileSync(path, 'utf8');
   var lines = data.split('\n');
   var datasetinfo = [];
-  for (var i = 0; i < clusterNum; i++)
+  for (var i = 0; i < metadata['clusterNum']; i++)
   {
     var clusterinfo = [];
-    for (var j = 0; j < corpusNum; j++)
+    for (var j = 0; j < metadata['corpusNum']; j++)
     {
       var corpusinfo = [];
       var linedata = lines[i * 6 + 1 + j].split(' ');
-      //console.log(linedata);
-      for (var k = 0; k < timeslotNum; k++)
+      for (var k = 0; k < metadata['timeslotNum']; k++)
       {
         var value = parseInt(linedata[3 + k]);
         corpusinfo.push(value);

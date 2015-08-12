@@ -1,0 +1,12 @@
+set 1
+hand 1
+barclays 1
+field 1
+event 1
+dec 1
+turning 1
+tiger 1
+injured 1
+upcoming 1
+woods 1
+challengers 1

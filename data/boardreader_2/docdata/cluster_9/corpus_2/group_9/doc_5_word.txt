@@ -1,0 +1,13 @@
+kind 1
+set 1
+money 1
+back 1
+years 1
+pan 1
+sort 1
+cba 1
+cap 1
+franchise 1
+lions 1
+stafford 1
+rookie 1

@@ -1,0 +1,15 @@
+funds 1
+write 1
+money 2
+cover 1
+bad 1
+easy 1
+account 2
+writing 1
+check 2
+saving 1
+card 3
+fix 1
+transfer 1
+checking 2
+debit 1

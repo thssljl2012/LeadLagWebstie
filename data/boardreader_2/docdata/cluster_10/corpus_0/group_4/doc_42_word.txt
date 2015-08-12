@@ -1,0 +1,15 @@
+financial 1
+bank 2
+friday 1
+end 1
+america 1
+merrill 2
+lynch 1
+york 1
+year 1
+reuters 1
+corp 1
+majority 1
+advisors 1
+join 1
+buys 1

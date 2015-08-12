@@ -1,0 +1,17 @@
+economy 1
+bank 1
+america 1
+company 1
+mining 2
+united 1
+metals 1
+states 1
+precious 1
+worldwide 1
+neutral 1
+provider 1
+base 1
+downgrades 1
+underperform 1
+hl 1
+hecla 2

@@ -1,0 +1,10 @@
+gold 2
+worth 2
+monthly 1
+month 1
+december 2
+october 1
+till 1
+grand 1
+wafer 1
+wafers 1

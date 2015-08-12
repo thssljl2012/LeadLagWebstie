@@ -1,0 +1,10 @@
+banks 1
+home 1
+dropped 2
+news 1
+good 1
+rates 1
+interest 1
+owners 1
+pass 1
+cba 1

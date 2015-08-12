@@ -1,0 +1,15 @@
+bank 2
+australia 1
+rates 2
+cut 2
+thursday 1
+board 1
+england 1
+message 1
+falls 1
+scotland 1
+fnm 1
+night 1
+bailout 1
+gov 1
+posts 1

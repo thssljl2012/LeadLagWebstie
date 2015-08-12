@@ -1,0 +1,14 @@
+bank 1
+high 1
+good 1
+current 1
+board 1
+start 1
+thread 1
+message 1
+stands 1
+bac 1
+failure 1
+probability 1
+posts 1
+info 1

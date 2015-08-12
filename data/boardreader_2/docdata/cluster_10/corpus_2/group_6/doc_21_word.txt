@@ -1,0 +1,10 @@
+bank 1
+asia 1
+america 1
+strategist 1
+firm 1
+chief 1
+date 1
+sources 1
+leaves 1
+update 1

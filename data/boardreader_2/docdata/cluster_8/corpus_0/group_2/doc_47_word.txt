@@ -1,0 +1,14 @@
+bank 3
+mortgage 2
+america 2
+times 1
+rates 2
+white 1
+fine 1
+told 1
+hurry 1
+impressed 1
+site 1
+log 1
+reconcile 1
+kaitlin 1

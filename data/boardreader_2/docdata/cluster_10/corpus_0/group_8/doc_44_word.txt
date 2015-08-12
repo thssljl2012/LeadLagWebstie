@@ -1,0 +1,16 @@
+bank 1
+group 1
+lead 1
+firm 1
+investment 1
+director 1
+written 1
+ceo 1
+office 1
+removal 1
+calling 1
+lewis 1
+ken 1
+sloan 1
+ctw 1
+temple 1

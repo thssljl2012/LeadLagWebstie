@@ -1,0 +1,12 @@
+read 1
+decent 2
+bad 1
+highlight 1
+bids 2
+text 1
+ashley 2
+box 1
+grabs 1
+spoiler 1
+cursor 1
+freidel 1

@@ -1,0 +1,15 @@
+money 1
+barclays 2
+limit 1
+account 1
+pot 1
+trap 1
+charged 1
+honey 1
+calculator 1
+overdraft 1
+apr 1
+overdraw 1
+zeroes 1
+overdrawn 1
+unwary 1

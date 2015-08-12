@@ -1,0 +1,12 @@
+cards 1
+time 1
+bank 1
+america 1
+credit 2
+mortgages 1
+line 1
+accounts 1
+account 1
+paid 1
+saving 1
+checking 1

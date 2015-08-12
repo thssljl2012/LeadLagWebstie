@@ -1,0 +1,16 @@
+bank 2
+yield 1
+annual 1
+capital 1
+percent 1
+dividend 1
+mer 1
+boost 1
+bac 1
+strength 1
+block 1
+approaching 1
+wb 1
+wm 1
+seeks 1
+chopping 1

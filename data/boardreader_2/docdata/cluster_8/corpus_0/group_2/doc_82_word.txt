@@ -1,0 +1,15 @@
+big 1
+expect 1
+bank 2
+national 1
+america 1
+phone 1
+call 1
+people 1
+answer 1
+person 1
+type 1
+behemoth 1
+answering 1
+christ 1
+bicycle 1

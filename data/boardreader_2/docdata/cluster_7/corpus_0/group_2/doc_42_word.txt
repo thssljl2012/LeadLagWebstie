@@ -1,0 +1,13 @@
+funds 1
+investors 1
+group 1
+managers 1
+barclays 1
+fund 1
+wealth 1
+office 1
+de 1
+williams 1
+switched 1
+edinburgh 1
+defected 1

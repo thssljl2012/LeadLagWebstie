@@ -1,0 +1,12 @@
+end 1
+insurance 4
+aig 2
+finance 1
+part 1
+companies 1
+states 1
+taking 1
+fine 1
+businesses 1
+regulate 1
+banked 1

@@ -1,0 +1,13 @@
+financial 2
+falling 1
+report 1
+contact 1
+emails 5
+protect 1
+schemes 1
+fraudulent 1
+clever 1
+victim 1
+info 1
+americaforward 1
+bankforward 2

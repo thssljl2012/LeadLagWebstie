@@ -1,0 +1,14 @@
+small 1
+credit 1
+open 2
+areas 1
+details 1
+encouraged 1
+account 2
+payment 1
+paid 1
+amount 1
+check 1
+card 1
+checking 1
+vary 1

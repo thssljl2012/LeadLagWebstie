@@ -1,0 +1,12 @@
+bank 1
+mortgage 1
+america 1
+add 2
+ability 1
+added 1
+adding 2
+loans 1
+unable 1
+account 1
+trouble 1
+info 1

@@ -1,0 +1,11 @@
+end 1
+money 1
+lot 1
+leaving 1
+salary 1
+cba 1
+cap 1
+guaranteed 1
+stafford 1
+rookie 1
+cody 1

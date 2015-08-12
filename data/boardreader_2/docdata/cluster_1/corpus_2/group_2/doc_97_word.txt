@@ -1,0 +1,16 @@
+policy 1
+insurance 1
+aig 2
+contract 1
+work 1
+things 1
+car 1
+ireland 1
+ignorant 1
+cases 1
+insured 1
+reassurance 1
+renewing 1
+presume 1
+underwritten 1
+aa 2

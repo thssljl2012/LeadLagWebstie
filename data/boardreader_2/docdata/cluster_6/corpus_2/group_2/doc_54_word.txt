@@ -1,0 +1,13 @@
+city 1
+points 1
+point 1
+september 1
+expecting 1
+man 1
+quote 1
+everton 1
+chelsea 1
+liverpool 5
+wigan 1
+portsmouth 1
+rocco 1

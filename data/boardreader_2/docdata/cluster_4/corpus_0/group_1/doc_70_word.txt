@@ -1,0 +1,17 @@
+rest 1
+bridge 1
+barclays 1
+intent 1
+running 1
+message 1
+victory 1
+attacking 1
+premier 1
+luiz 1
+stamford 1
+chelsea 1
+reign 1
+landslide 1
+felipe 1
+scolari 1
+portsmouth 1

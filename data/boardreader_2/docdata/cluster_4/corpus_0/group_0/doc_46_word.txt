@@ -1,0 +1,16 @@
+financial 1
+bank 2
+america 2
+credit 1
+due 2
+ago 1
+days 1
+told 1
+countrywide 2
+purchase 2
+card 1
+personal 1
+cancelled 1
+ceasing 1
+trusted 1
+realtionships 1

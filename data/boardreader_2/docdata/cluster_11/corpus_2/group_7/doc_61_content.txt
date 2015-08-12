@@ -1,0 +1,1 @@
+I was looking at the 5 major Canadian banks today.   TD, BMO, BNS and CM have low bid and ask sizes but Royal bank   has a Bid size of 1 and a ask size of 265 !      What do you make of this?

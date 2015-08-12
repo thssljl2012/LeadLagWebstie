@@ -1,0 +1,17 @@
+visa 3
+banking 1
+posted 1
+barclays 1
+halifax 2
+online 1
+give 1
+account 1
+talking 1
+originally 1
+card 1
+permission 1
+superior 1
+debit 1
+electron 2
+parental 1
+expresscash 1

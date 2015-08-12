@@ -1,0 +1,11 @@
+bank 1
+credit 1
+earnings 1
+months 1
+executive 1
+ralph 1
+commonwealth 1
+chief 1
+crunch 1
+dragged 1
+norris 1

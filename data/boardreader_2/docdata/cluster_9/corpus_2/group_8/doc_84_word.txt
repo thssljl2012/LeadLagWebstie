@@ -1,0 +1,11 @@
+call 3
+emergency 2
+waste 1
+cba 1
+ups 1
+count 1
+soda 1
+baking 1
+dung 1
+beetle 1
+alzner 1

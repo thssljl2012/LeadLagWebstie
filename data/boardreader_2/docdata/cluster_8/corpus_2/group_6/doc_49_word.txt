@@ -1,0 +1,14 @@
+banks 1
+bank 1
+america 1
+work 2
+result 1
+holds 1
+hold 1
+wells 1
+fargo 1
+policies 2
+bogus 1
+checks 2
+strict 1
+cashiers 1

@@ -1,0 +1,13 @@
+rate 1
+due 1
+make 1
+wrong 1
+loans 1
+tomorrow 1
+moved 1
+cba 1
+automatically 1
+paperwork 1
+repayment 1
+io 1
+recalculate 2

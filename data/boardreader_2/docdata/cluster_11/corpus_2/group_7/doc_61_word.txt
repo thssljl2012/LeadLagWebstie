@@ -1,0 +1,15 @@
+major 1
+today 1
+banks 1
+bank 1
+low 1
+canadian 1
+make 1
+royal 1
+bid 2
+size 2
+td 1
+bmo 1
+sizes 1
+cm 1
+bns 1

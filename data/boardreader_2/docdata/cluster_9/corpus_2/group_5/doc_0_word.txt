@@ -1,0 +1,14 @@
+bank 1
+america 1
+half 1
+solid 1
+spend 1
+pick 1
+carolina 1
+fans 1
+games 1
+ranked 1
+league 1
+inside 1
+stadium 1
+sipping 1

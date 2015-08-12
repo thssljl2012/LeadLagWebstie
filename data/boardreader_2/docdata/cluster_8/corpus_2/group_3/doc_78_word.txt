@@ -1,0 +1,13 @@
+kind 1
+time 1
+insurance 1
+aig 1
+mortgages 1
+capital 1
+back 1
+bad 2
+pay 1
+debt 1
+writing 1
+absolutely 1
+tp 1

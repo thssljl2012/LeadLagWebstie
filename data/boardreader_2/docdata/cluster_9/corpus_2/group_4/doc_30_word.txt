@@ -1,0 +1,11 @@
+contract 1
+bad 1
+pay 1
+buy 1
+minimum 1
+takes 1
+amount 1
+bought 1
+cba 1
+whats 1
+bare 1

@@ -1,0 +1,10 @@
+time 1
+eagle 1
+opinion 1
+spread 1
+case 1
+quick 1
+implication 1
+judge 1
+symbols 1
+heraldry 1

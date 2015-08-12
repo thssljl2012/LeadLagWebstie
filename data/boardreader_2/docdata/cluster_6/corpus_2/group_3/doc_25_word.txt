@@ -1,0 +1,10 @@
+city 1
+win 1
+score 1
+forward 1
+man 1
+cope 1
+draw 1
+wings 1
+flair 1
+nullify 1

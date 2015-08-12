@@ -1,0 +1,17 @@
+bank 2
+america 1
+reports 1
+seeking 1
+holdings 1
+bloomberg 1
+days 1
+return 1
+september 1
+lehman 2
+account 1
+bankruptcy 1
+error 1
+deutsche 1
+brothers 1
+transferred 1
+sued 1

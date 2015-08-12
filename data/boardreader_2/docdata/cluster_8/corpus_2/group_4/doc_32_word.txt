@@ -1,0 +1,17 @@
+policy 1
+time 1
+insurance 3
+aig 1
+business 1
+shopping 1
+pay 1
+full 1
+monthly 1
+payments 1
+effect 1
+longer 1
+tomorrow 1
+car 1
+ouch 1
+renew 1
+excepts 1

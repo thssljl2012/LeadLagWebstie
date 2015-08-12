@@ -1,0 +1,16 @@
+banks 2
+bank 3
+america 3
+money 1
+closing 1
+days 1
+chicago 1
+factory 3
+recent 1
+union 1
+gave 1
+workers 2
+notice 1
+shady 1
+steffy 1
+scandel 1

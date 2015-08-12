@@ -1,0 +1,12 @@
+job 1
+bad 1
+strike 1
+runs 1
+role 1
+team 1
+controls 1
+puzzling 1
+bowler 1
+mash 1
+pacer 1
+rasel 2

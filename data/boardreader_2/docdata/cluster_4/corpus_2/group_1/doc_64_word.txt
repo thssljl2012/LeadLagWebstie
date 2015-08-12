@@ -1,0 +1,12 @@
+cash 2
+offered 1
+barclays 2
+account 3
+card 2
+downgrade 1
+owe 1
+sorted 1
+owed 1
+fab 1
+brs 1
+wbf 1

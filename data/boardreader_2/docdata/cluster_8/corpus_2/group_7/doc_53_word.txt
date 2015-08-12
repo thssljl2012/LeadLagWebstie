@@ -1,0 +1,15 @@
+time 1
+bill 3
+cents 2
+total 1
+roll 1
+money 1
+losing 1
+pay 1
+process 1
+payment 1
+amount 1
+drum 1
+employee 1
+calculated 1
+postage 1

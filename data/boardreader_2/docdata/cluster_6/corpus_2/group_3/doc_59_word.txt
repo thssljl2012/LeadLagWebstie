@@ -1,0 +1,14 @@
+rate 1
+city 1
+top 1
+called 1
+making 1
+west 1
+man 2
+chelsea 1
+liverpool 1
+gonna 1
+utd 1
+arsenal 1
+ham 1
+subsection 1

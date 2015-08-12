@@ -1,0 +1,15 @@
+wall 1
+street 1
+economy 1
+insurance 1
+aig 3
+good 1
+government 1
+make 1
+world 1
+owned 1
+panic 1
+counterparties 1
+bailing 1
+sucks 1
+actully 1

@@ -1,0 +1,17 @@
+results 1
+city 1
+newcastle 1
+united 1
+money 1
+make 1
+west 1
+bucks 1
+beat 2
+draw 1
+naturally 1
+hundred 1
+chelsea 1
+knock 1
+sunderland 1
+boro 1
+pompey 1

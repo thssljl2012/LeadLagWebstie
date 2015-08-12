@@ -1,0 +1,14 @@
+group 1
+billion 1
+dollars 2
+international 1
+received 1
+giving 1
+american 1
+executives 1
+tens 1
+washington 1
+millions 1
+taxpayer 1
+bailout 1
+bonuses 1

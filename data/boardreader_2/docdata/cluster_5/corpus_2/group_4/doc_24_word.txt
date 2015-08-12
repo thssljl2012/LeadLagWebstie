@@ -1,0 +1,11 @@
+read 1
+mon 1
+playing 1
+quote 1
+cba 1
+nov 1
+ye 1
+pages 1
+atm 1
+duel 1
+skyjuice 1

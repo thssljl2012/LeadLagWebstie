@@ -1,0 +1,14 @@
+city 1
+points 1
+wednesday 1
+vital 1
+man 1
+october 3
+beat 1
+saturday 1
+sunday 1
+everton 1
+chelsea 1
+liverpool 5
+wigan 2
+portsmouth 1

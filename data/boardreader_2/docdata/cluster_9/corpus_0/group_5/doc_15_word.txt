@@ -1,0 +1,17 @@
+city 1
+bank 1
+giant 1
+america 1
+nation 1
+top 1
+argue 1
+park 1
+winter 1
+fort 1
+florida 1
+teams 2
+killer 1
+palms 1
+tournament 1
+underdog 1
+myers 1

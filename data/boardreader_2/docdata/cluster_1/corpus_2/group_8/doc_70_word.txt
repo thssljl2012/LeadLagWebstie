@@ -1,0 +1,12 @@
+insurance 1
+aig 2
+insurer 1
+credit 2
+risk 1
+government 1
+country 1
+write 1
+fact 1
+life 1
+considerable 1
+counterparty 2

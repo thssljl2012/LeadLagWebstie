@@ -1,0 +1,17 @@
+banks 1
+bank 1
+worth 1
+good 1
+share 1
+give 1
+click 1
+portfolio 1
+deal 1
+damn 1
+toxic 1
+du 1
+farewell 1
+donate 1
+hearts 1
+giannini 1
+valentine 1

@@ -1,0 +1,17 @@
+wall 1
+street 1
+insurance 1
+giant 1
+aig 1
+business 1
+reported 1
+government 1
+partners 1
+billion 1
+firm 1
+september 1
+payments 1
+received 1
+saturday 1
+journal 1
+bailed 1

@@ -1,0 +1,14 @@
+economy 1
+pm 1
+lot 1
+barclays 1
+vulnerable 1
+state 1
+council 1
+jul 1
+quote 1
+society 1
+abuse 1
+profiteering 1
+dweller 1
+institutionalised 1

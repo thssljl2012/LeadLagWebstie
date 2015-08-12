@@ -1,0 +1,13 @@
+big 1
+financial 1
+fannie 1
+freddie 1
+insurance 1
+hand 1
+strong 1
+industry 1
+auto 1
+bail 1
+bailout 1
+happened 1
+instutions 1

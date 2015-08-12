@@ -1,0 +1,10 @@
+rescue 1
+insurance 1
+giant 1
+aig 1
+federal 2
+billion 1
+taking 1
+reserve 2
+privately 1
+crumbling 1

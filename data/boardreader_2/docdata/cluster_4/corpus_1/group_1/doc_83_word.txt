@@ -1,0 +1,16 @@
+open 1
+barclays 1
+british 1
+chance 1
+speak 1
+winner 1
+prepares 1
+harrington 1
+champion 1
+cup 2
+jeff 1
+pga 1
+fedex 1
+ryder 1
+padraig 1
+lemoine 1

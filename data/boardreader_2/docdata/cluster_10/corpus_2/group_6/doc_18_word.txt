@@ -1,0 +1,12 @@
+bank 1
+america 1
+position 1
+offered 1
+john 1
+date 1
+accepted 1
+greg 1
+resignation 1
+thain 1
+yale 1
+fleming 1

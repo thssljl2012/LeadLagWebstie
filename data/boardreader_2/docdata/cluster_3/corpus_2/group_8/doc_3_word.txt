@@ -1,0 +1,13 @@
+local 1
+shares 1
+left 1
+months 1
+move 1
+dividend 1
+bad 1
+latest 1
+media 1
+spin 1
+ordinary 1
+diluted 1
+dividendless 1

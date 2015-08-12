@@ -1,0 +1,17 @@
+banks 2
+bank 1
+insurance 2
+aig 1
+america 1
+mortgages 1
+posted 1
+companies 1
+stuff 1
+share 1
+bunch 1
+pay 1
+houses 1
+real 1
+originally 1
+failing 1
+lots 1

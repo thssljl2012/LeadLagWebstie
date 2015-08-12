@@ -1,0 +1,15 @@
+bank 2
+local 1
+america 1
+york 1
+started 1
+thought 1
+putting 1
+hell 1
+manager 1
+nearby 1
+noticed 1
+signage 1
+identity 1
+visited 1
+stinks 1

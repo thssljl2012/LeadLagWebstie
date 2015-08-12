@@ -1,0 +1,15 @@
+bank 2
+banking 1
+australia 1
+zealand 1
+group 1
+vietnam 1
+reuters 1
+hanoi 1
+open 1
+won 1
+central 1
+fully 1
+owned 1
+oct 1
+licence 1

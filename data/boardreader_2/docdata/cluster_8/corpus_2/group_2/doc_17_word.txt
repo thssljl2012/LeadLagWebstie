@@ -1,0 +1,13 @@
+tv 1
+local 1
+insurance 2
+aig 1
+week 1
+concern 1
+policies 1
+check 1
+car 1
+guess 1
+person 1
+homeowners 1
+finiancial 1

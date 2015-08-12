@@ -1,0 +1,15 @@
+news 1
+early 1
+start 2
+confirmed 1
+hearing 1
+man 1
+team 1
+bench 1
+chelsea 1
+utd 1
+didier 1
+drogba 1
+berbatov 1
+rooney 1
+ronaldo 1

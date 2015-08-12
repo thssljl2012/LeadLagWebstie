@@ -1,0 +1,11 @@
+bank 1
+america 1
+merrill 1
+lynch 1
+loss 1
+quarter 1
+fourth 1
+merrills 1
+shotgun 1
+marriage 1
+dowry 1

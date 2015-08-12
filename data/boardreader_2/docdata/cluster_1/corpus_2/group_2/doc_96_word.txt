@@ -1,0 +1,12 @@
+mortgage 1
+insurance 1
+aig 1
+company 2
+called 1
+problem 1
+payment 1
+bankruptcy 1
+car 1
+ireland 1
+threat 1
+protection 1

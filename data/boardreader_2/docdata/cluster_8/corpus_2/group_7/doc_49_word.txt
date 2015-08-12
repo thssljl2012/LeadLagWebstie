@@ -1,0 +1,14 @@
+bill 1
+posted 1
+times 1
+call 1
+cost 1
+pay 2
+account 1
+amount 1
+send 1
+wont 1
+check 1
+originally 1
+boa 1
+checking 1

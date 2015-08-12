@@ -1,0 +1,11 @@
+insurance 2
+aig 1
+business 1
+nicholas 1
+practice 1
+individual 1
+accepted 1
+reward 1
+solvent 1
+ashooh 1
+spokesperson 1

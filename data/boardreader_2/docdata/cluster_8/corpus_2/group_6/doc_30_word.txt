@@ -1,0 +1,15 @@
+banks 1
+bank 3
+america 1
+open 1
+canadian 1
+provide 1
+similar 1
+account 2
+arrangements 1
+access 1
+boa 1
+atm 1
+fees 1
+leaning 1
+scotiabank 1

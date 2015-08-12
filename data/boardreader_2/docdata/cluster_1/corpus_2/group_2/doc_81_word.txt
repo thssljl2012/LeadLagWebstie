@@ -1,0 +1,11 @@
+insurance 2
+aig 1
+group 1
+people 2
+international 1
+life 2
+paid 1
+bankrupt 1
+american 1
+annuity 1
+annunities 1

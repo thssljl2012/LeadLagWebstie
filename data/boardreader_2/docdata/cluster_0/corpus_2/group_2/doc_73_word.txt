@@ -1,0 +1,13 @@
+major 1
+trading 1
+ahead 1
+banks 1
+bank 1
+shares 1
+higher 1
+due 1
+rates 1
+reserve 1
+interest 1
+decision 1
+afternoon 1

@@ -1,0 +1,17 @@
+expect 1
+insurance 2
+money 1
+spending 1
+pay 1
+travel 1
+barclays 1
+claims 1
+takes 1
+things 1
+choose 1
+minutes 1
+couple 1
+benefits 1
+taxpayer 1
+mi 1
+allstate 1

@@ -1,0 +1,13 @@
+local 1
+wrong 1
+sign 3
+remember 1
+barclays 1
+exact 1
+letter 1
+card 4
+checked 1
+branch 1
+whats 1
+stamp 1
+myne 1

@@ -1,0 +1,12 @@
+bank 2
+citigroup 1
+america 1
+merrill 1
+lynch 1
+government 1
+losses 1
+mounting 1
+additional 1
+struggling 1
+receive 1
+lifeline 1

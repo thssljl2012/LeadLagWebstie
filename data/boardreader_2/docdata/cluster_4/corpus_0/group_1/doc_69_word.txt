@@ -1,0 +1,16 @@
+electric 1
+barclays 1
+start 1
+drive 1
+maintained 1
+west 1
+win 1
+accepted 1
+premier 1
+league 1
+title 1
+brom 1
+arsenal 1
+arsene 1
+wenger 1
+gunners 1

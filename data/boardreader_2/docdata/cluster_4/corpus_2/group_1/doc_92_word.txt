@@ -1,0 +1,14 @@
+time 1
+credit 1
+phone 1
+months 1
+current 1
+barclays 1
+limit 1
+interest 1
+made 1
+account 2
+sounds 1
+havent 1
+collections 1
+od 2

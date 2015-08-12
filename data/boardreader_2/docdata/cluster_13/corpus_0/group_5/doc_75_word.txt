@@ -1,0 +1,15 @@
+bank 1
+finance 2
+call 1
+st 1
+including 1
+george 1
+priced 1
+auto 1
+bmw 1
+speed 1
+murray 1
+inquiries 1
+packages 1
+extras 1
+sedan 1

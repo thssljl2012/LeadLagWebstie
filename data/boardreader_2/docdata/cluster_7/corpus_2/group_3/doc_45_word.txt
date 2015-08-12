@@ -1,0 +1,15 @@
+bank 1
+australia 1
+money 1
+pretty 1
+rates 3
+cut 2
+full 1
+remember 1
+coming 1
+fed 1
+reserve 1
+interest 2
+rba 1
+suicide 1
+doling 1

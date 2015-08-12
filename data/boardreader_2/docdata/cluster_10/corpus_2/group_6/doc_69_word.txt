@@ -1,0 +1,12 @@
+bank 2
+america 2
+treasury 1
+government 1
+billion 1
+headline 1
+received 1
+reach 1
+deal 1
+october 1
+bailout 1
+tarp 1

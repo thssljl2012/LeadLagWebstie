@@ -1,0 +1,16 @@
+open 1
+million 1
+barclays 1
+held 1
+win 1
+david 1
+claimed 1
+scottish 1
+sway 1
+cheque 1
+ulsterman 1
+feherty 1
+haggs 1
+castle 1
+graeme 1
+mcdowell 1

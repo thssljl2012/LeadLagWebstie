@@ -1,0 +1,12 @@
+bank 1
+cash 1
+america 1
+money 1
+pretty 1
+account 1
+streak 2
+winning 1
+fees 1
+owed 1
+timeframe 1
+investigate 1

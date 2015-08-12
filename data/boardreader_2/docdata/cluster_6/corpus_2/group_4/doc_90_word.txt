@@ -1,0 +1,12 @@
+home 1
+left 1
+back 1
+coming 1
+man 1
+quote 1
+love 1
+nov 1
+everton 1
+chester 1
+owen 1
+rajputwarrior 1

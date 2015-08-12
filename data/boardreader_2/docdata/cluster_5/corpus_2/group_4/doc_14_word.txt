@@ -1,0 +1,14 @@
+make 1
+start 1
+play 1
+fun 2
+game 1
+quote 1
+cba 1
+nov 1
+fri 1
+ur 1
+urself 1
+lvl 2
+chars 1
+lebra 1

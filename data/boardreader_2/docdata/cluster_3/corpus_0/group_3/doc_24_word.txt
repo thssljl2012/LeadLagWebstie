@@ -1,0 +1,11 @@
+bank 1
+times 2
+royal 1
+barclays 2
+scotland 1
+lloyds 2
+tsb 2
+hbos 4
+rbs 3
+sunday 2
+naftemporiki 1

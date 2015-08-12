@@ -1,0 +1,13 @@
+financial 1
+bank 1
+index 1
+credit 1
+firms 1
+services 1
+top 1
+share 7
+goldman 1
+morgan 1
+wells 1
+approaching 1
+sampling 1

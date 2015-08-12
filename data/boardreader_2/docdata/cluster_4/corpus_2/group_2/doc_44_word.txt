@@ -1,0 +1,11 @@
+point 1
+change 1
+material 1
+quote 1
+shooter 1
+winger 1
+meh 1
+kuyt 2
+pennant 1
+crosser 1
+pennat 1

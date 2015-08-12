@@ -1,0 +1,17 @@
+bank 3
+america 2
+point 1
+money 1
+current 1
+continue 1
+change 1
+bought 1
+technically 1
+machines 2
+brand 2
+survive 1
+iconic 1
+bofa 2
+atm 2
+spit 1
+ncnb 1

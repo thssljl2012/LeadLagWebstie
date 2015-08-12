@@ -1,0 +1,14 @@
+year 4
+show 2
+care 2
+win 2
+signed 2
+player 2
+champions 2
+quote 1
+comment 2
+omg 2
+league 4
+liverpool 1
+fan 1
+djedwardsmith 1

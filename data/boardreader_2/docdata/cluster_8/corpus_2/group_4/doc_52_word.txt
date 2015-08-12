@@ -1,0 +1,11 @@
+cash 1
+week 1
+years 1
+offer 1
+remember 1
+barclays 1
+account 3
+facility 1
+deposit 1
+atm 1
+abbey 1

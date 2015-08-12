@@ -1,0 +1,14 @@
+city 1
+people 1
+game 1
+score 2
+man 1
+quote 2
+gerrard 1
+realise 1
+sonny 1
+liverpool 2
+torres 2
+rfc 1
+keane 1
+polarix 1

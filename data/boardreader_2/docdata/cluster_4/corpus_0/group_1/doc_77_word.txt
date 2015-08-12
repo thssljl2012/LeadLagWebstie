@@ -1,0 +1,10 @@
+bank 2
+america 1
+open 2
+account 2
+robert 1
+clear 1
+guys 1
+informed 1
+collection 1
+taylor 1

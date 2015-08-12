@@ -1,0 +1,11 @@
+sign 1
+pick 1
+signed 1
+chance 1
+cba 1
+loophole 1
+snyder 1
+sather 1
+bordon 1
+fishcher 1
+cherpanov 1

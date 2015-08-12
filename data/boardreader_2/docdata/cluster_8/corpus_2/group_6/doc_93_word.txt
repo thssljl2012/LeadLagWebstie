@@ -1,0 +1,12 @@
+city 1
+bank 2
+national 1
+america 1
+global 1
+company 1
+areas 1
+huge 1
+check 1
+hate 1
+replying 1
+hth 1

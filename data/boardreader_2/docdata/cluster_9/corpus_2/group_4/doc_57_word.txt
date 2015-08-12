@@ -1,0 +1,13 @@
+billions 1
+spend 2
+change 1
+happen 1
+owners 1
+salary 1
+cba 1
+cap 1
+recourse 1
+teams 1
+nfl 1
+mlb 1
+amen 1

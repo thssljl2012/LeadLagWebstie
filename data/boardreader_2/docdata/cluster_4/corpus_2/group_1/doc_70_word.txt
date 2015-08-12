@@ -1,0 +1,15 @@
+website 1
+process 1
+monthly 1
+current 1
+barclays 2
+problem 1
+link 1
+account 1
+product 1
+savings 1
+require 1
+confirm 1
+deal 1
+confirms 1
+application 1

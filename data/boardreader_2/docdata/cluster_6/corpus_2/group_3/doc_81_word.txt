@@ -1,0 +1,12 @@
+back 2
+game 1
+players 1
+joe 1
+cole 2
+liverpool 1
+loads 1
+ashley 1
+fantastic 1
+terry 1
+cech 1
+deco 1

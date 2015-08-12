@@ -1,0 +1,1 @@
+ cbaR_AVKON_SOFTKEYS_OK_BACK  formProcessCommandLviewHandleCommandL         Code:     RESOURCE DIALOG r_form {  flags = EEikDialogFlagNoDrag   EEikDialogFlagNoTitleBar   EEikDialogFlagCbaButtons   EEikDialogFlagFillAppClientRect   EEikDialogFlagNotifyEsc   EEikDialogFlagModeless;  buttons = R_AVKON_SOFTKEYS_OK_BACK;  form = r_form_form; }     

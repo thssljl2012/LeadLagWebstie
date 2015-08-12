@@ -1,0 +1,12 @@
+time 1
+cash 1
+long 1
+rates 1
+minimum 1
+interest 1
+tied 1
+loan 1
+cba 1
+noticed 1
+repayment 1
+recalculate 1

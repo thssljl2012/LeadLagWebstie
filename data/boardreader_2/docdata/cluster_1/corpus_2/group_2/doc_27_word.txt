@@ -1,0 +1,17 @@
+big 1
+insurance 2
+aig 2
+company 1
+companies 2
+services 1
+money 1
+people 2
+dont 1
+lose 1
+ceos 1
+car 1
+fail 1
+millions 1
+invested 1
+isnt 1
+fails 1

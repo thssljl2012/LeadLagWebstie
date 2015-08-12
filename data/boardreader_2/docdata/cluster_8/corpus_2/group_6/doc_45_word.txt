@@ -1,0 +1,13 @@
+bank 1
+america 1
+business 1
+news 1
+government 1
+bad 1
+thing 1
+people 1
+accounts 1
+account 1
+understand 1
+personal 1
+bailing 1

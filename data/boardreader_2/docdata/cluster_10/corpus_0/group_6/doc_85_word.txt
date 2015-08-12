@@ -1,0 +1,13 @@
+bank 2
+mortgage 1
+america 1
+federal 1
+officials 1
+money 1
+billion 2
+losses 1
+corp 1
+loan 1
+bac 1
+bailout 1
+guaranteed 1

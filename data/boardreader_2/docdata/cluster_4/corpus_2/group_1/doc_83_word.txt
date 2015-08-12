@@ -1,0 +1,15 @@
+time 1
+bank 1
+home 1
+make 2
+paying 1
+barclays 1
+payments 1
+online 1
+abroad 1
+payment 1
+depends 1
+normal 1
+basically 1
+log 2
+pinsentry 1

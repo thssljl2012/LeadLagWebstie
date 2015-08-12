@@ -1,0 +1,13 @@
+kind 1
+point 1
+speaking 1
+line 1
+told 1
+exist 1
+talked 1
+afraid 1
+fees 1
+advice 1
+kidding 1
+bs 1
+supervisor 1

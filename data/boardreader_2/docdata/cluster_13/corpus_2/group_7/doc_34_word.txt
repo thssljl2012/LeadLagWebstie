@@ -1,0 +1,17 @@
+contract 1
+required 1
+states 1
+effect 1
+give 1
+raises 1
+employer 1
+cba 1
+applies 1
+barring 1
+law 2
+binding 1
+specifically 1
+legally 1
+retroactive 1
+bona 1
+fide 1

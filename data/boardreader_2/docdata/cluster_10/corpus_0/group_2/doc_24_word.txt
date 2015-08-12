@@ -1,0 +1,12 @@
+bank 1
+america 1
+merrill 1
+lynch 1
+lehman 1
+brothers 1
+wti 1
+pink 2
+floyd 2
+breg 1
+abbyy 2
+docflow 3

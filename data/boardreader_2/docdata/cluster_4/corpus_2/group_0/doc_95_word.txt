@@ -1,0 +1,16 @@
+credit 2
+work 1
+months 1
+current 1
+barclays 1
+halifax 1
+balance 3
+account 1
+received 1
+confirmed 1
+card 2
+deal 1
+checked 1
+withdraw 1
+transfer 2
+transfering 1

@@ -1,0 +1,15 @@
+times 1
+makes 1
+money 1
+world 1
+pay 1
+stupid 1
+live 1
+amounts 1
+charge 2
+complained 1
+helpful 1
+crazy 1
+angry 1
+ombudsman 1
+crediotr 1

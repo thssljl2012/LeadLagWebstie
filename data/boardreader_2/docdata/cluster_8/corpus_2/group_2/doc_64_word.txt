@@ -1,0 +1,11 @@
+insurance 2
+aig 2
+bonds 1
+back 1
+thing 1
+people 1
+sold 1
+commercials 1
+sells 1
+constriction 1
+josie 1

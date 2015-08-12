@@ -1,0 +1,17 @@
+wall 1
+street 1
+big 1
+insurance 1
+aig 1
+issue 1
+firms 1
+companies 1
+lost 1
+lehman 1
+bear 1
+stearns 1
+brothers 1
+ton 1
+cbs 1
+merryl 2
+kroft 1

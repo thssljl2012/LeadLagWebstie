@@ -1,0 +1,13 @@
+close 1
+bank 3
+mortgage 3
+america 3
+home 1
+lender 1
+contact 1
+online 1
+apply 1
+loan 1
+location 1
+applying 1
+webpage 1

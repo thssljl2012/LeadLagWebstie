@@ -1,0 +1,15 @@
+time 2
+ready 1
+bank 1
+level 1
+part 1
+services 2
+poor 1
+uk 1
+service 1
+lloyds 2
+tsb 2
+terrible 1
+customer 4
+outraged 1
+abide 1

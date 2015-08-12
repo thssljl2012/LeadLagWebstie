@@ -1,0 +1,17 @@
+contract 1
+left 1
+international 2
+barclays 1
+play 1
+west 1
+signed 2
+premier 1
+league 1
+brom 1
+newcomers 1
+marek 1
+dealthe 1
+slovakia 2
+cech 1
+porto 1
+midfield 1

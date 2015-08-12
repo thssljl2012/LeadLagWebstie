@@ -1,0 +1,10 @@
+insurance 1
+aig 1
+read 1
+make 1
+made 1
+claim 1
+car 1
+panicking 1
+ronnie 1
+tia 1

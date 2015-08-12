@@ -1,0 +1,14 @@
+insurance 2
+aig 1
+profit 1
+companies 1
+trade 1
+hard 1
+people 1
+run 1
+buy 1
+health 2
+parts 1
+bought 1
+assets 1
+cheap 1

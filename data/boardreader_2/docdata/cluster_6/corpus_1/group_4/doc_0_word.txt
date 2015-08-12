@@ -1,0 +1,17 @@
+city 1
+news 2
+follow 2
+click 1
+sunday 1
+team 3
+premier 1
+fixture 1
+everton 1
+league 1
+manchester 1
+wigan 1
+portsmouth 1
+athletic 1
+sunderland 1
+wanderers 1
+fulham 1

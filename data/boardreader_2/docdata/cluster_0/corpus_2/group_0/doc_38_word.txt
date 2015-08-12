@@ -1,0 +1,15 @@
+bank 1
+funds 1
+home 1
+australia 1
+citing 1
+rising 1
+rates 1
+cost 1
+continued 1
+commonwealth 1
+cent 1
+interest 1
+raised 1
+loan 1
+variable 1

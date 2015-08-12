@@ -1,0 +1,16 @@
+bank 1
+money 1
+make 1
+plenty 1
+called 1
+problem 1
+told 1
+service 1
+account 1
+reversed 1
+person 1
+afford 1
+customer 1
+checking 1
+fee 1
+overdraft 2

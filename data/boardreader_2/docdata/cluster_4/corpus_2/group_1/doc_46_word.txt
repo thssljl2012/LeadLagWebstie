@@ -1,0 +1,16 @@
+unexpected 1
+opening 1
+today 1
+opened 1
+set 1
+order 1
+good 1
+standing 1
+barclays 2
+service 1
+account 2
+answer 1
+surprises 1
+query 1
+branch 1
+deposit 1

@@ -1,0 +1,14 @@
+visa 1
+cash 2
+work 1
+barclays 3
+card 3
+confirm 1
+receive 1
+depending 1
+connect 1
+team 1
+tick 1
+box 1
+electron 1
+electroinc 1

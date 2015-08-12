@@ -1,0 +1,13 @@
+financial 1
+bank 1
+america 1
+bloomberg 1
+rest 1
+read 1
+comments 1
+corp 2
+post 1
+published 1
+leave 1
+countrywide 1
+originally 1

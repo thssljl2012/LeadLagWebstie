@@ -1,0 +1,16 @@
+advance 1
+bank 3
+friday 1
+citigroup 1
+america 2
+stock 1
+government 1
+billion 3
+futures 2
+losses 2
+pointed 1
+injected 1
+assets 1
+row 1
+guaranteed 1
+protected 1

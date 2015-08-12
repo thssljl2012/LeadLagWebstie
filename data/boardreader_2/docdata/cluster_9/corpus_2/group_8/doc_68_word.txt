@@ -1,0 +1,16 @@
+year 1
+contract 1
+years 1
+standard 1
+current 1
+option 2
+allowed 1
+player 1
+automatic 1
+quote 1
+cba 1
+clause 1
+optional 1
+spc 1
+spcs 1
+voidable 1

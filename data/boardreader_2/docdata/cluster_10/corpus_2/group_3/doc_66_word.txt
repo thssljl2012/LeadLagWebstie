@@ -1,0 +1,10 @@
+chronicle 1
+shares 1
+investors 1
+news 1
+good 1
+remaining 1
+robust 1
+barclays 1
+pull 1
+oct 1
